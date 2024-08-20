@@ -13,7 +13,7 @@
 ## TRABAJO PRESENTADO POR LOS ALUMNOS
 ### - MEZA CAMAYO, LYNN JEEFERZON   **U20201C320**
 ### - ALIAGA PIMENTEL, GEORGE ARTURO  **U20211C273**
-### - SANCHEZ IGNACIO, JEFREY MARTIN **U201821512**
+### - SANCHEZ IGNACIO, JEFREY MARTIN **U202113324**
 ### - PALOMINO TITO, ABRAHAM JOEL **U202113324**
 ## AGOSTO DEL 2024
 
@@ -35,10 +35,10 @@
         <td>Foramto del documento</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>02</td>
+        <td>20/08/2024</td>
+        <td>Jefrey Sanchez Ignacio</td>
+        <td>Antecedentes y problematicas</td>
     </tr>
     <tr>
         <td></td>
@@ -173,6 +173,28 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 ### **1.1.2. Perfiles de integrantes del equipo**
 ## **1.2. Solution Profile**
 ### **1.2.1 Antecedentes y problemática**
+### What (¿Qué?)
+**Problema:** La creciente dificultad para acceder a cuidadores calificados y confiables para el cuidado infantil y la educación en el hogar. Este problema se traduce en un déficit en la atención personalizada que los niños necesitan para su desarrollo.  
+**Consecuencias:** Esta situación genera un alto nivel de estrés en los padres, quienes se sienten inseguros acerca del bienestar de sus hijos y la calidad de la educación que reciben en ausencia de supervisión adecuada.
+
+### Who (¿Quién?)
+**Afectados:** Principalmente, padres y tutores que requieren apoyo adicional para equilibrar sus responsabilidades laborales y familiares. Este grupo incluye padres trabajadores, madres solteras y familias con múltiples hijos.  
+**Cuidadores:** Niñeras, tutores y educadores en busca de oportunidades laborales, quienes a menudo carecen de una plataforma eficiente para conectarse con las familias que necesitan sus servicios.
+
+### Where (¿Dónde?)
+**Contexto:** En entornos urbanos y suburbanos de Perú, donde las familias enfrentan desafíos logísticos para encontrar cuidadores. Esto se agrava en áreas con alta densidad poblacional y donde las redes familiares son limitadas.
+
+### When (¿Cuándo?)
+**Oportunidad:** La demanda de servicios de cuidado infantil y educación ha aumentado notablemente, especialmente tras la pandemia de COVID-19. Muchos padres buscan alternativas flexibles que se adapten a sus horarios y necesidades, haciendo que este sea el momento ideal para abordar esta problemática.
+
+### Why (¿Por qué?)
+**Necesidad:** Los padres desean asegurar el bienestar y desarrollo educativo de sus hijos, pero enfrentan barreras como la falta de información sobre cuidadores verificados, altos costos y la incertidumbre sobre la calidad de los servicios disponibles. Esta situación no solo afecta la confianza de los padres, sino que también impacta el desarrollo emocional y educativo de los niños.
+
+### How (¿Cómo?)
+**Soluciones:** Se propone desarrollar un sistema integral que facilite la búsqueda y conexión entre padres y cuidadores, garantizando que los perfiles de los cuidadores sean verificados a través de un proceso riguroso. Además, la implementación de recursos educativos y seguimiento del desarrollo infantil puede fortalecer la relación entre padres y cuidadores.
+
+### How much (¿Cuánto?)
+**Impacto económico:** Los costos de contratar cuidadores a menudo son prohibitivos y pueden variar significativamente. La falta de opciones accesibles puede llevar a decisiones que no favorecen el bienestar infantil, lo que a su vez afecta la estabilidad emocional de las familias. La implementación de una plataforma eficiente puede no solo optimizar costos, sino también mejorar la calidad del servicio ofrecido.
 ### **1.2.2 Lean UX Process**
 ### **1.2.2.1. Lean UX Problem Statements**
 ### **1.2.2.2. Lean UX Assumptions**
@@ -274,6 +296,11 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 # **Video About-the-Team**
 
 # **Bibliografía**
+
+Del Rosario Rivero Pérez, M., & De Educación, P. M. (2013). *El valor educativo de los cuidados infantiles: para la atención de los niños y niñas de 0 a 3 años. Guía de orientación*. En Ministerio de Educación eBooks. [http://disde.minedu.gob.pe/handle/20.500.12799/5177](http://disde.minedu.gob.pe/handle/20.500.12799/5177)
+
+Marin, H. M. (2022, 23 junio). “Uno de los grandes desafíos es reducir la brecha entre los niños que atendemos y los que aún nos necesitan”. *El Comercio Perú*. [https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/](https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/)
+
 
 # **Anexos**
 
