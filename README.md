@@ -194,8 +194,17 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
+**SynapSoft** es una empresa emergente especializada en el desarrollo de soluciones tecnológicas personalizadas, con un enfoque particular en mejorar la vida familiar a través de la tecnología. Fundada por un equipo de ingenieros de software y especialistas en sistemas de información de la Universidad de Tecnología Avanzada, SynapSoft busca transformar la manera en que las familias acceden a servicios esenciales como el cuidado infantil y la educación en el hogar.
+
+### Visión:
+Consolidarse como un referente global en el desarrollo de plataformas tecnológicas que conecten a familias con servicios de calidad, promoviendo la seguridad, la confianza y el bienestar infantil.
+
+### Misión:
+Diseñar y desarrollar una plataforma que permita a los padres encontrar cuidadores y educadores confiables, verificando la calidad y seguridad de los servicios ofrecidos, y facilitando la gestión de las responsabilidades familiares mediante soluciones tecnológicas innovadoras.
+
 ### **1.1.2. Perfiles de integrantes del equipo**
 ## **1.2. Solution Profile**
+
 ### **1.2.1 Antecedentes y problemática**
 ### What (¿Qué?)
 **Problema:** La creciente dificultad para acceder a cuidadores calificados y confiables para el cuidado infantil y la educación en el hogar. Este problema se traduce en un déficit en la atención personalizada que los niños necesitan para su desarrollo.  
@@ -220,8 +229,30 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 ### How much (¿Cuánto?)
 **Impacto económico:** Los costos de contratar cuidadores a menudo son prohibitivos y pueden variar significativamente. La falta de opciones accesibles puede llevar a decisiones que no favorecen el bienestar infantil, lo que a su vez afecta la estabilidad emocional de las familias. La implementación de una plataforma eficiente puede no solo optimizar costos, sino también mejorar la calidad del servicio ofrecido.
 ### **1.2.2 Lean UX Process**
-### **1.2.2.1. Lean UX Problem Statements**
-### **1.2.2.2. Lean UX Assumptions**
+### 1.2.2.1. Lean UX Problem Statements
+
+#### Problem Statement para Padres:
+
+"Los padres enfrentan dificultades para encontrar cuidadores y educadores confiables que ofrezcan un cuidado infantil y educación de calidad en el hogar. Esto genera un alto nivel de estrés, afectando su capacidad para equilibrar responsabilidades laborales y familiares, mientras se aseguran de que sus hijos reciban la atención adecuada."
+
+#### Problem Statement para Cuidadores:
+
+"Los cuidadores y educadores carecen de una plataforma eficiente que les permita conectar con familias que necesitan sus servicios, limitando sus oportunidades laborales y dificultando el acceso de las familias a servicios confiables y personalizados."
+
+### 1.2.2.2. Lean UX Assumptions
+
+- **Asumimos que** los padres valorarán una plataforma que les permita acceder fácilmente a perfiles verificados de cuidadores y educadores, organizados según sus necesidades específicas.
+  - **Sabremos que esto es cierto cuando** veamos un aumento en el uso regular de la plataforma para reservar servicios.
+
+- **Asumimos que** los cuidadores y educadores estarán dispuestos a unirse a la plataforma si se les ofrece una audiencia de familias que buscan servicios personalizados y verificados.
+  - **Sabremos que esto es cierto cuando** observemos un incremento en el número de cuidadores registrados y activos.
+
+- **Asumimos que** la inclusión de actualizaciones en tiempo real sobre las actividades de los niños será un factor decisivo para los padres al elegir la plataforma.
+  - **Sabremos que esto es cierto cuando** notemos un alto nivel de satisfacción entre los padres que utilizan esta funcionalidad.
+
+- **Asumimos que** los recursos educativos y el seguimiento del desarrollo infantil atraerán tanto a padres como a educadores, mejorando la retención en la plataforma.
+  - **Sabremos que esto es cierto cuando** observemos un uso continuo de estos recursos por parte de ambos grupos.
+
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
 <ol>
@@ -233,6 +264,58 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 </ol>
 
 ### **1.2.2.4. Lean UX Canvas**
+
+##### 1.2.2.1. Lean UX Canvas
+<table>
+  <tr>
+    <th valign="top">
+      <p><b>1. Business Problem</b></p>
+      <p>Los padres tienen dificultades para encontrar cuidadores y educadores confiables para sus hijos, lo que genera estrés y afecta su capacidad para equilibrar sus responsabilidades. Los cuidadores carecen de una plataforma efectiva para ofrecer sus servicios.</p>
+    </th>
+    <th valign="top">
+      <p><b>2. Business Outcomes</b></p>
+      <p>- Aumento en la retención de usuarios (padres y cuidadores).</p>
+      <p>- Incremento en la tasa de reservas repetidas.</p>
+      <p>- Mejora en la satisfacción del usuario.</p>
+      <p>- Expansión de la base de usuarios.</p>
+    </th>
+    <th rowspan="2" valign="top">
+      <p><b>5. Solutions</b></p>
+      <p>- Desarrollo de una plataforma que conecte a padres con cuidadores verificados.</p>
+      <p>- Funcionalidades como la programación de sesiones, actualizaciones en tiempo real, recursos educativos, y seguimiento del desarrollo infantil.</p>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>3. Users</b></p>
+      <p>- Usuarios primarios: Padres que necesitan servicios de cuidado infantil y educación en el hogar.</p>
+      <p>- Usuarios secundarios: Niñeras, tutores, y educadores en busca de oportunidades laborales.</p>
+      <p>- Clientes: Familias que pagan por los servicios y cuidadores que pagan por publicidad o acceso a más oportunidades.</p>
+    </td>
+    <td valign="top">
+      <p><b>4. User Benefits</b></p>
+      <p>- Padres: Acceso a perfiles verificados de cuidadores y educadores, posibilidad de programar servicios según sus necesidades, y recibir actualizaciones en tiempo real sobre las actividades de sus hijos.</p>
+      <p>- Cuidadores: Oportunidades laborales directas y una plataforma que valida y promueve sus servicios.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>6. Hypothesis</b></p>
+      <p>- Creemos que los padres estarán más inclinados a usar la plataforma si pueden confiar en la calidad y verificación de los cuidadores.</p>
+      <p>- Sabremos que esta suposición es cierta cuando veamos un aumento en la tasa de retención y un mayor uso de las funciones de seguridad.</p>
+    </td>
+    <td valign="top">
+      <p><b>7. What’s the most important thing we need to learn first?</b></p>
+      <p>Necesitamos validar si los usuarios valorarán la seguridad, personalización y la calidad del servicio proporcionado por la plataforma.</p>
+    </td>
+    <td valign="top">
+      <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
+      <p>Lanzaremos una versión beta con funcionalidades clave y analizaremos la adopción y el feedback para validar la propuesta de valor.</p>
+    </td>
+  </tr>
+</table>
+
+
 ## **1.3. Segmentos objetivo**
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
 ## **2.1. Competidores**
