@@ -32,7 +32,7 @@
         <td>01</td>
         <td>17/08/2024</td>
         <td> Lynn Meza Camayo </td>
-        <td>Foramto del documento</td>
+        <td>Implementacion del formato</td>
     </tr>
     <tr>
         <td></td>
@@ -170,6 +170,17 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
+
+SynapSoft es una empresa emergente en el ámbito del desarrollo de software, comprometida con la creación de soluciones tecnológicas a medida y de alta calidad. Nació de la iniciativa de un grupo de ingenieros de software y especialistas en sistemas de información, quienes se formaron en la Universidad de Tecnología Avanzada. SynapSoft se distingue por su enfoque centrado en el cliente, colaborando estrechamente con ellos para identificar sus necesidades y ofrecer soluciones tecnológicas que se alineen con sus objetivos específicos.
+
+El equipo de SynapSoft está conformado por desarrolladores, diseñadores creativos y analistas de negocios altamente capacitados, que trabajan de manera conjunta para desarrollar soluciones escalables y personalizadas. Entre sus servicios destacan el desarrollo de software a medida, la creación de aplicaciones móviles y el diseño de sitios web. SynapSoft utiliza tecnologías de última generación y sigue un enfoque ágil en sus procesos, asegurando que las soluciones que ofrece sean robustas, eficientes y adaptables. Además, la empresa brinda soporte continuo y servicios de mantenimiento para garantizar la operación óptima de las soluciones entregadas.
+
+**Visión:**
+La visión de SynapSoft es consolidarse como un referente global en el desarrollo de software, proporcionando soluciones personalizadas y de alta calidad que impulsen el éxito de empresas y organizaciones a nivel mundial.
+
+**Misión:**
+La misión de SynapSoft es diseñar y desarrollar soluciones tecnológicas innovadoras y adaptadas a las necesidades de sus clientes, contribuyendo al crecimiento y eficiencia de empresas en una amplia gama de sectores.
+
 ### **1.1.2. Perfiles de integrantes del equipo**
 ## **1.2. Solution Profile**
 ### **1.2.1 Antecedentes y problemática**
@@ -179,9 +190,163 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 ### **1.2.2.4. Lean UX Canvas**
 ## **1.3. Segmentos objetivo**
+
+Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil permitiéndoles combinar sus responsabilidades laborales con la tranquilidad de saber que sus hijos están bien atendidos.Además, la plataforma también se dirige a cuidadores, tutores y educadores que desean expandir sus oportunidades laborales y generar ingresos a través de la prestación de servicios personalizados y verificados. A continuación, se presenta características demográficas relevantes y información estadística que respalda la importancia de cada segmento.
+
+**1.Padres**
+
+- Este segmento abarca a todos los padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil y la educacion para el hogar. Ademas, incluye a familias que buscan servicios de cuidado infantil y opciones educativas personalizadas en el hogar. 
+
+- #### Caracteristicas Demograficas
+    - Edad: 20-45 años.
+    - Estado Civil: Casados, en pareja, o monoparentales.
+    - Motivaciones: Seguridad, conveniencia, eduación de calidad, flexibilidad del programa
+
+
+**2.Cuidadores (Niñeras y Tutores)**
+
+- Este segmento está abarca a todas las personas que trabajan como niñeras, cuidadoras infantiles, o asistentes domésticas. Son profesionales que buscan incrementar sus ingresos y expandir sus oportunidades laborales ofreciendo servicios de cuidado infantil de alta calidad. Estos cuidadores suelen estar altamente motivados por la flexibilidad laboral que les permite manejar su propio horario y trabajar en diferentes entornos.
+
+- #### Caracteristicas Demograficas
+    - **Edad:** 18-45 años.
+    - **Educación:** Varía desde secundaria completa hasta educación superior, con algunos poseyendo certificaciones específicas en cuidado infantil.
+    - **Estado Civil:** Casados, en pareja, o monoparentales.
+    - **Motivaciones:** Flexibilidad de sus horarios, la posibilidad de trabajar con familias que valoran sus habilidades y para establecer relaciones laborales estables y duraderas con las familias a las que sirven
+
+
+
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
 ## **2.1. Competidores**
 ### **2.1.1. Análisis competitivo**
+
+<TABLE BORDER style="width:100%">
+    <tr>
+        <th colspan="6"> Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
+        <td rowspan="2">
+            ¿Por qué llevar a cabo este análisis?
+        </td>
+        <td colspan="5"> 
+        Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis. 
+        </td>
+    </tr>
+    <tr>
+        <td colspan="5"></td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            (En la cabecera colocar por cada competidor nombre y logo)
+        </td>
+        <td>Su Startup</td>
+        <td>Competidor 1</td>
+        <td>Competidor 2</td>
+        <td>Competidor 3</td>
+    </tr>
+    <tr>
+        <th rowspan="2"> Perfil</th>
+        <td>Overview</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Ventaja competitiva ¿Qué valor ofrece a los clientes?
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th rowspan="2"> Perfil de Marketing</th>
+        <td>Mercado objetivo</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Estrategias de marketing
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th rowspan="3"> Perfil de Producto</th>
+        <td>Productos & Servicios</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Precios & Costos
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Canales de distribución (Web y/o Móvil)
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th rowspan="5"> Análisis SWOT</th>
+        <td colspan="5">
+        Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Fortalezas
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Debilidades
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+           Oportunidades
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Amenazas
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</TABLE>
+
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
 ## **2.2. Entrevistas**
