@@ -10,11 +10,12 @@
 </div>
 
 <br>
-
-<h1 align="center"> Informe de Trabajo Final </h1>
-
 <h3 align="center"> Desarrollo de Aplicaciones Open Source - WS51 </h3>
 <h3 align="center"> Profesor del Curso: Juan Antonio Flores Moroco </h3>
+<h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
+<h3 align="center"> EMPRESA DE INICIO: SYNAPSOFT </h3>
+
+<h3 align="center"> PRODUCTO: "SafeChild"</h3>
 
 <div align="center">
 
@@ -207,12 +208,12 @@ La visión de SynapSoft es consolidarse como un referente global en el desarroll
 La misión de SynapSoft es diseñar y desarrollar soluciones tecnológicas innovadoras y adaptadas a las necesidades de sus clientes, contribuyendo al crecimiento y eficiencia de empresas en una amplia gama de sectores.
 
 ### **1.1.2. Perfiles de integrantes del equipo**
-
-<img src="./Images/Profile-Lynn.png" alt="Profile-Lynn" style="aling-items: center;">
+<div align="center">
+<img src="./Images/Profile-Lynn.png" alt="Profile-Lynn">
 <img src="./Images/Profile-George.png" alt="Profile-George">
 <img src="./Images/Profile-Jefrey.png" alt="Profile-Jefrey">
 <img src="./Images/Profile-Jean.png" alt="Profile-Jean">
-
+</div>
 
 ## **1.2. Solution Profile**
 
