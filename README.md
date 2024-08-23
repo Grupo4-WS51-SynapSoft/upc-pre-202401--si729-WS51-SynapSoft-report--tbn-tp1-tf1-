@@ -45,7 +45,7 @@
         <td>01</td>
         <td>17/08/2024</td>
         <td> Lynn Meza Camayo </td>
-        <td>Foramto del documento</td>
+        <td>Formato del documento</td>
     </tr>
     <tr>
         <td>02</td>
@@ -60,16 +60,16 @@
         <td>Lean UX Hypothesis Statements</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>04</td>
+        <td>21/08/24</td>
+        <td>Lynn Meza Camayo</td>
+        <td>Desarrollo del descipción de la StartUp y segmentos Objetivos</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>05</td>
+        <td>21/08/24</td>
+        <td>Jean Grandez Mansilla</td>
+        <td>Desarrollo del Lean UX Problem Statements, Assumptions y Canvas</td>
     </tr>
     <tr>
         <td></td>
@@ -195,7 +195,25 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
+
+SynapSoft es una empresa emergente en el ámbito del desarrollo de software, comprometida con la creación de soluciones tecnológicas a medida y de alta calidad. Nació de la iniciativa de un grupo de ingenieros de software, quienes se formaron en la Universidad de Tecnología Avanzada. SynapSoft se distingue por su enfoque centrado en el cliente, colaborando estrechamente con ellos para identificar sus necesidades y ofrecer soluciones tecnológicas que se alineen con sus objetivos específicos.
+
+El equipo de SynapSoft está conformado por desarrolladores, diseñadores creativos y analistas de negocios altamente capacitados, que trabajan de manera conjunta para desarrollar soluciones escalables y personalizadas. Entre sus servicios destacan el desarrollo de software a medida, la creación de aplicaciones móviles y el diseño de sitios web. SynapSoft utiliza tecnologías de última generación y sigue un enfoque ágil en sus procesos, asegurando que las soluciones que ofrece sean robustas, eficientes y adaptables. Además, la empresa brinda soporte continuo y servicios de mantenimiento para garantizar la operación óptima de las soluciones entregadas.
+
+**Visión:**
+La visión de SynapSoft es consolidarse como un referente global en el desarrollo de software, proporcionando soluciones personalizadas y de alta calidad que impulsen el éxito de empresas y organizaciones a nivel mundial.
+
+**Misión:**
+La misión de SynapSoft es diseñar y desarrollar soluciones tecnológicas innovadoras y adaptadas a las necesidades de sus clientes, contribuyendo al crecimiento y eficiencia de empresas en una amplia gama de sectores.
+
 ### **1.1.2. Perfiles de integrantes del equipo**
+
+<img src="./Images/Profile-Lynn.png" alt="Profile-Lynn" style="aling-items: center;">
+<img src="./Images/Profile-George.png" alt="Profile-George">
+<img src="./Images/Profile-Jefrey.png" alt="Profile-Jefrey">
+<img src="./Images/Profile-Jean.png" alt="Profile-Jean">
+
+
 ## **1.2. Solution Profile**
 
 ### **1.2.1 Antecedentes y problemática**
@@ -331,7 +349,7 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     - **Edad:** 18-45 años.
     - **Educación:** Varía desde secundaria completa hasta educación superior, con algunos poseyendo certificaciones específicas en cuidado infantil.
     - **Estado Civil:** Casados, en pareja, o monoparentales.
-    - **Motivaciones:** Flexibilidad de sus horarios, la posibilidad de trabajar con familias que valoran sus habilidades y para establecer relaciones laborales estables y duraderas con las familias a las que sirven
+    - **Motivaciones:** Flexibilidad de sus horarios, la posibilidad de trabajar con familias que valoran sus habilidades y para establecer relaciones laborales estables y duraderas con las familias a las que sirven.
 
 
 
