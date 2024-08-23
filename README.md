@@ -24,6 +24,7 @@
 | Aliaga Pimentel, George Arturo         | U20211C273    |
 | Sanchez Ignacio, Jefrey Martin         | U202113324    |
 | Palomino Tito, Abraham Joel            | U202113324    |
+| Grandez Mansilla, Jean Pierre          | U202212484    |
 
 </div>
 
