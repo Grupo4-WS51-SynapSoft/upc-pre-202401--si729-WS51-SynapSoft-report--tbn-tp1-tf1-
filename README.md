@@ -495,7 +495,19 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
+
 ### **2.3.1. User Personas**
+
+#### **User Persona 1: Fabrizio**
+
+<img src="Images/Fabrizio Sanchez.png" alt="UserPersona Fabrizio" width="800"></a><br>
+<br>
+
+### **User Persona 2: Johan**
+
+<img src="Images/Johan Molina.png" alt="UserPersona Johan" width="800"></a><br>
+<br>
+
 ### **2.3.2. User Task Matrix**
 
 <table>
