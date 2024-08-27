@@ -497,6 +497,93 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
 ### **2.3.2. User Task Matrix**
+
+<table>
+  <tr>
+    <th rowspan="2" valign="top"><b><i>User Task Matrix</i></b></th>
+    <th colspan="2" valign="top"><b><i>Fabrizio</i></b></th>
+    <th colspan="2" valign="top"><b><i>Johan</i></b></th>
+  </tr>
+  <tr>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+  </tr>
+  <tr>
+    <td>Búsqueda de cuidadores confiables</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Nunca</i></b></td>
+    <td><b><i>Baja</i></b></td>
+  </tr>
+  <tr>
+    <td>Programación de sesiones de cuidado</td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Revisión de perfiles de cuidadores</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+  </tr>
+  <tr>
+    <td>Seguimiento del desarrollo infantil</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Recepción de actualizaciones en tiempo real</td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+  </tr>
+  <tr>
+    <td>Organización de actividades educativas</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Establecimiento de relaciones con padres</td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Monitoreo de la satisfacción de los niños</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Optimización del tiempo de cuidado</td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Consulta de recursos educativos</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+</table>
+
+
+
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
