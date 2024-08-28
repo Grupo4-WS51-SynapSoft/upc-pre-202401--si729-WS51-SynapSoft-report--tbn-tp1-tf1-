@@ -495,8 +495,12 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
+Mediante el proceso de needfinding, se identificaron las necesidades y deseos de los usuarios finales, permitiendo comprender sus expectativas y requerimientos en relación con la plataforma de cuidado infantil y educación en el hogar.
+A continuación, se presentan los hallazgos más relevantes obtenidos a partir de las entrevistas y observaciones realizadas.
 
 ### **2.3.1. User Personas**
+En este apartado se presentan dos user personas que representan a los usuarios finales de la plataforma de cuidado infantil y educación en el hogar. 
+Estas representaciones ficticias se basan en los datos recopilados durante el proceso de needfinding y reflejan las características, necesidades y comportamientos de los usuarios reales.
 
 #### **User Persona 1: Fabrizio**
 
@@ -509,6 +513,9 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 <br>
 
 ### **2.3.2. User Task Matrix**
+En esta sección se presentará el User Task Matrix, una herramienta que permite identificar las tareas más relevantes para cada segmento, así como la frecuencia e importancia de cada una de ellas.
+
+<br>
 
 <table>
   <tr>
@@ -594,9 +601,26 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
   </tr>
 </table>
 
+### Explicación de la tabla
+
+- **Búsqueda de cuidadores confiables:** Fabrizio realiza esta tarea siempre y la considera de alta importancia, debido a que desea garantizar la seguridad de sus hijos.
+- **Programación de sesiones de cuidado:** Fabrizio la realiza a menudo y la considera de alta importancia, ya que necesita organizar su horario laboral y familiar.
+- **Revisión de perfiles de cuidadores:** Fabrizio la realiza siempre y la considera de alta importancia, ya que le permite evaluar la idoneidad de los cuidadores.
+- **Seguimiento del desarrollo infantil:** Johan la realiza siempre y la considera de alta importancia, ya que es el reflejo de su trabajo como cuidador y tutor.
+- **Recepción de actualizaciones en tiempo real:** Johan la realiza rara vez y la considera de media importancia, ya que prefiere la comunicación directa con los padres.
+- **Organización de actividades educativas:** Johan la realiza siempre y la considera de alta importancia, ya que busca ofrecer una educación de calidad a los niños.
+- **Establecimiento de relaciones con padres:** Johan la realiza siempre y la considera de alta importancia, ya que sus clientes directos son los padres.
+- **Monitoreo de la satisfacción de los niños:** Johan la realiza siempre y la considera de alta importancia, ya que busca garantizar el bienestar de los niños.
+- **Optimización del tiempo de cuidado:** Johan la realiza siempre y la considera de alta importancia, ya que busca maximizar la eficiencia en su trabajo.
 
 
 ### **2.3.3. User Journey Mapping**
+
+  
+Mediante los User Journey Maps, se representa la situación (AS-Is) de la experiencia de los usuarios al interactuar desde la creación hasta la finalización
+del proyecto cuidado infantil y educación en el hogar. Estos mapas permiten visualizar los puntos de contacto, 
+emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora y optimización.
+
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
 
