@@ -480,43 +480,138 @@ Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas q
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
+
+#### Entrevista General:
+
+  1. ¿Podría compartir algunos de sus datos personales básicos?
+  2. ¿Qué sitios web o aplicaciones utiliza con frecuencia para buscar información sobre cuidado infantil o servicios educativos?
+  3. ¿Participa en algún grupo o foro en línea relacionado con el cuidado infantil? De ser así, ¿cuáles?
+  4. ¿Cómo se informa sobre nuevas ofertas de servicios para el cuidado infantil? (Por ejemplo, recomendaciones, redes sociales, publicidad, etc.)
+
+#### Para Padres:
+
+  1. ¿Cuáles son los aspectos más importantes que valora en un servicio de cuidado infantil? (Por ejemplo, seguridad, flexibilidad, calidad educativa, etc.)
+  2. ¿Cómo equilibra sus responsabilidades laborales con el cuidado de sus hijos?
+  3. ¿Qué desafíos ha encontrado al buscar soluciones para el cuidado infantil?
+  4. ¿Ha utilizado servicios de cuidado infantil anteriormente? ¿Cómo fue su experiencia?
+  5. ¿Qué características considera imprescindibles en una plataforma de cuidado infantil?
+  6. ¿Qué tipo de servicios educativos personalizados en el hogar le interesan?
+  7. ¿Qué nivel de flexibilidad busca en los servicios de cuidado infantil?
+  8. ¿Qué tan importante es para usted que los cuidadores estén verificados y certificados?
+  9. ¿Cuál es su presupuesto aproximado para servicios de cuidado infantil?
+
+#### Para Cuidadores (Niñeras y Tutores)
+
+  1. ¿Qué lo motivó a trabajar en el área de cuidado infantil o tutoría?
+  2. ¿Cuáles son los aspectos más importantes que valora en un empleo como cuidador o tutor? (Por ejemplo, flexibilidad, estabilidad, tipo de trabajo, etc.)
+  3. ¿Qué desafíos ha enfrentado en su carrera profesional hasta ahora?
+  4. ¿Qué tipo de servicios ofrece actualmente y cómo llegó a estos clientes?
+  5. ¿Cómo encuentra nuevas oportunidades laborales o clientes?
+  6. ¿Qué cualidades cree que son esenciales para ser un buen cuidador o tutor?
+  7. ¿Qué nivel de flexibilidad busca en su trabajo?
+  8. ¿Qué características valora en una plataforma que conecta cuidadores con familias?
+  9. ¿Qué tan importante es para usted la posibilidad de trabajar en diferentes entornos y con diferentes familias?
+
+
 ### **2.2.2. Registro de entrevistas**
 
-<b>Entrevista X</b><br/>
 
-- Nombre: Edwhin
-- Apellidos: Palomino
+
+<b>Entrevista 4 - Niñera</b><br/>
+
+- Nombre: Luhana
+- Apellidos: Acuña Cuba
 - Edad: 21 años
-- Distrito: Lima - Carabayllo
-- Minuto donde empieza: 
-- Duración: 17:13 minutos
+- Distrito: Callao - Callao
+- Duración: 04:32 minutos
 
 Evidencia de la reunión:
 
 <div align="center">
-    <img src="Images/Entrevista-Edwin.png" style="margin: 10px 0;" width="80%"/>
+    <img src="Images/interview-nanny-luhana.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
 Resumen de la entrevista:
 
-Edwhin Palomino expresa que, aunque no ha utilizado aplicaciones específicas para el cuidado infantil en Perú, reconoce el potencial de una plataforma que ofrezca mayor seguridad y confianza en los cuidadores. Destaca que la principal dificultad que ha enfrentado es la falta de servicios accesibles y confiables, así como la necesidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos, a menudo recurriendo a soluciones temporales y a veces insatisfactorias como recomendaciones personales y guarderías locales.
+Luhana ha estado cuidando niños durante cinco años, todo porque los ama y quiere ayudarlos a crecer fuertes. Durante este tiempo, ha cuidado a niños de distintas edades, desde bebés hasta niños en la escuela.
 
-Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, con la posibilidad de ajustar el costo para cuidados prolongados. En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma intuitiva, con cuidadores verificados y capaces, y está dispuesto a invertir en un servicio que le proporcione tranquilidad y soporte en situaciones emergentes.
+Una de las cosas más difíciles con las que ha tenido que lidiar es cambiar su manera de adaptarse a las necesidades de cada niño, siempre manteniendo la calma, especialmente cuando las cosas se ponen difíciles. Luhana realmente disfruta su trabajo, especialmente ver a los niños crecer y alcanzar nuevas metas.
+
+Si estás pensando en ser niñera, Luhana dice que debes tener paciencia, seguir la corriente y hablar directamente con las personas que te contrataron. Estas cosas son clave para establecer una buena relación laboral y tener un buen desempeño en este tipo de trabajo
+
+
+<b>Entrevista 5 - Tutor</b><br/>
+
+- Nombre: Harold Jaime
+- Apellidos: Mayta Lopez
+- Edad: 20 años
+- Duración: 10:43 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interview-tutor-harold.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Harold compartió su experiencia como tutor, la cual comenzó hace aproximadamente siete años, ayudando a estudiantes con dificultades en materias como matemáticas y ciencias. Con el tiempo, expandió su trabajo a diferentes niveles educativos. Uno de los desafíos principales que ha enfrentado es la necesidad de adaptar su enfoque a las necesidades individuales de cada estudiante, así como motivar a aquellos que inicialmente no muestran interés en la materia. A pesar de estos retos, Harold disfruta profundamente ver a sus estudiantes progresar y ganar confianza en sí mismos, lo cual lo motiva a continuar enseñando.
+
+Harold recordó una anécdota significativa en la que un estudiante, que al principio tenía mucha ansiedad con las matemáticas, logró mejorar considerablemente después de varios meses de trabajo juntos, desarrollando un interés genuino en la materia. Como consejo para futuros tutores, Harold destacó la importancia de ser paciente, flexible y de construir una buena relación con los estudiantes, ya que la confianza es clave para un aprendizaje efectivo.
+
+Al final de la entrevista, le comentamos a Harold sobre nuestra plataforma, y se mostró muy interesado, especialmente cuando se le explicó la sección de calificaciones y los planes de pago para mostrar su oferta en primera plana.
+
+<b>Entrevista 6 - Tutora</b><br/>
+
+- Nombre: Maria Fernanda
+- Apellidos: Gil Moya
+- Edad: 20 años
+- Duración: 10:30 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interview-tutor-maria.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+María Fernanda, con experiencia siendo docente de inglés a nivel secundario, ha encontrado gran satisfacción en ayudar a sus estudiantes a descubrir y desarrollar sus habilidades lingüísticas. Aunque ha enfrentado desafíos, como mantener la motivación de los estudiantes y adaptarse a la enseñanza virtual durante la pandemia, ha superado estos obstáculos con flexibilidad y el uso de nuevas tecnologías.
+
+Durante la conversación, María Fernanda expresó su interés en las plataformas educativas, reconociendo su valor para personalizar el aprendizaje y seguir de cerca el progreso de sus estudiantes. Cuando le explicamos nuestra plataforma, mostró un gran interés, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta en primera plana, viendo en esto una oportunidad para mejorar su interacción educativa y alcanzar a más estudiantes.
+
 
 ### **2.2.3. Análisis de entrevistas**
 
-<h3> ******* entrevistado: Edwhin Palomino </h3>
-<b>Desafíos en el Cuidado Infantil:</b> Edwhin Palomino expresa su preocupación por la falta de servicios de cuidado infantil confiables en Perú. Su experiencia ha estado marcada por dificultades para encontrar opciones accesibles y seguras, reflejando la necesidad de soluciones más efectivas en este ámbito. Esta preocupación destaca la importancia de mejorar la disponibilidad y la confiabilidad de los servicios de cuidado infantil.
 
-<b>Interés en una Plataforma de Cuidado Infantil:</b> Edwhin muestra un gran interés en una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Valora enormemente que los cuidadores estén verificados y certificados, y que la plataforma sea intuitiva y fácil de usar. Esto indica su deseo de contar con una solución que proporcione tranquilidad y soporte confiable en el cuidado de sus hijos.
+<h3> ******* Entrevistada: Luhana Acuña </h3>
+<b>Desafíos en el Trabajo de Niñera:</b> A Luhana le resulta difícil cambiar su forma de adaptarse a las necesidades de cada niño. Es muy importante estar tranquila y paciente, sobretodo cuando los niños recién comienzan a descubrir quiénes son. El desafío se encuentra en la flexibilidad y adaptabilidad en el cuidado infantil
 
-<b>Valoración de la Flexibilidad y Rapidez del Servicio:</b> Edwhin considera crucial que el servicio de cuidado infantil sea flexible y esté disponible en tiempo real. Su enfoque en la rapidez y la capacidad de respuesta para emergencias resalta la importancia de un servicio que pueda adaptarse a necesidades urgentes y cambiantes, reflejando la importancia de la accesibilidad y la eficacia en estos servicios.
+<b>Satisfacción en el Cuidado Infantil:</b> A pesar de todos los desafios a los que se enfrenta diariamente, Luhana encuentra una gran satisfacción en su trabajo como niñera pues le gusta mucho observar el crecimiento y desarrollo de los niños bajo su cuidado. Esta satisfacción y alegría es un factor clave en el que mejora su compromiso y largo plazo en todo lo que es cuidado infantil.
 
-<b>Disposición a Invertir en el Cuidado Infantil:</b> Edwhin está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, mostrando una disposición a invertir en un servicio de calidad que cumpla con sus expectativas de seguridad y confiabilidad. Esta disposición sugiere que valora el servicio adecuado y está preparado para pagar por él, especialmente en situaciones donde se requiere atención urgente.
+<b>Consejos de Luhana para nuevas Niñeras:</b> Ella aconseja a quienes deseen entrar en el campo de cuidado infantil, enfocarse en su paciencia, adaptabilidad y comunicación efectiva con los padres. Se le indicó que podría lograr todo eso es nuestra plataforma y se mostró muy interesada.
 
-<b>Búsqueda de Soluciones y Mejoras en el Cuidado Infantil:</b> En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma fácil de usar. Su interés en cuidadores verificados y certificados, junto con su disposición a pagar por un servicio de calidad, sugiere que está buscando activamente una solución que pueda satisfacer sus necesidades y proporcionar tranquilidad en el cuidado de sus hijos.
+<b>Mejoras en la Plataforma:</b> Luhana cree que en nuestra plataforma debe de haber una sección en donde se indique la clasificación y opiniones de otros tutores o niñeras que hayan cuidado al niño y de esa forma pueda asegurarse de que un niño problematico no afecte su carrera profesional.
 
-Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
+Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada en probar nuestra aplicación y de esa forma tener un trabajo mas rapido, asímismo una comunicación efectiva con todos los padres de familia con niños a su cargo.
+
+<h3> ******* Entrevistada: Harold Mayta </h3>
+<b>Desafios en la Tutoria Personalizada:</b> Harold destacó la importancia de adaptar su enfoque a las necesidades individuales de cada estudiante. Su experiencia ha mostrado que cada alumno aprende de manera diferente, lo que requiere flexibilidad y paciencia por parte del tutor. Esta capacidad de adaptación es fundamental en su rol, especialmente cuando enfrenta el desafío de motivar a estudiantes que inicialmente no están interesados en la materia. Esto subraya la necesidad de métodos de enseñanza personalizados para maximizar el potencial de aprendizaje de cada estudiante.
+
+<b>Progreso y Satisfacción en la Tutoría:</b> Una de las mayores satisfacciones de Harold como tutor es ver a sus estudiantes progresar y ganar confianza en sí mismos. Mencionó cómo su motivación crece al observar a un estudiante que inicialmente luchaba con una materia, finalmente dominarla y sentirse seguro de sus habilidades. Este aspecto destaca la importancia de un enfoque paciente y de apoyo en la tutoría, que no solo mejora las habilidades académicas de los estudiantes, sino también su autoestima.
+
+<b>Interés en una plaaforma educativa:</b> Durante la entrevista, Harold mostró un gran interés en nuestra plataforma educativa, especialmente en las funciones de calificaciones y los planes de pago que permiten mostrar su oferta en primera plana. Su entusiasmo sugiere que aprecia la visibilidad y la oportunidad de destacarse en un entorno competitivo. Además, la plataforma puede ofrecerle una herramienta valiosa para atraer y retener a más estudiantes, asegurando que su enfoque personalizado y sus logros como tutor sean reconocidos y valorados por potenciales clientes.
+
+En resumen, Harold parece ser un usuario potencial ideal para nuestra plataforma, que le ofrece las herramientas necesarias para destacar y crecer en su carrera como tutor. Su disposición a utilizar una plataforma que le proporcione visibilidad, flexibilidad, y la capacidad de personalizar su oferta sugiere que está buscando activamente maneras de mejorar su presencia y éxito en el ámbito educativo.
+
+<h3> ******* entrevistado: Maria Fernanda Gil Moya </h3>
+<b>Desafíos en la enseñanza del idioma Ingles:</b> María Fernanda ha enfrentado varios desafíos en su carrera como docente de inglés, especialmente en motivar a estudiantes que inicialmente no muestran interés en el idioma. Además, la adaptación a la enseñanza virtual durante la pandemia fue un reto significativo, que requirió de flexibilidad y la incorporación de nuevas herramientas tecnológicas. Estos desafíos resaltan la importancia de la innovación y la adaptabilidad en la educación actual.
+
+<b>Interés en el uso de Plataformas Educativas:</b> María Fernanda valora enormemente las plataformas educativas, considerándolas fundamentales para complementar la enseñanza tradicional. Reconoce que estas herramientas permiten personalizar el aprendizaje y realizar un seguimiento más detallado del progreso de los estudiantes. Su interés en estas plataformas sugiere que ve en ellas una manera de mejorar la calidad de la educación que ofrece, haciéndola más accesible y efectiva.
+
+<b>Relevancia de la sección de Calificaciones y Planes de Pago:</b> Durante la conversación, María Fernanda mostró un gran interés en nuestra plataforma, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta de enseñanza en primera plana. Este interés indica que ve un valor significativo en la posibilidad de aumentar su visibilidad y atraer a más estudiantes, aprovechando las funcionalidades que nuestra plataforma ofrece para mejorar su perfil profesional y llegar a un público más amplio.
+
+En resumen, María Fernanda es una usuaria potencialmente ideal para nuestra plataforma. Su interés en las herramientas que permiten personalizar la enseñanza y destacar su oferta refleja una búsqueda activa de maneras de mejorar su práctica docente. La plataforma le ofrece las oportunidades que necesita para crecer en su carrera y ofrecer una educación de mayor calidad a sus estudiantes.
 
 ## **2.3. Needfinding**
 Mediante el proceso de needfinding, se identificaron las necesidades y deseos de los usuarios finales, permitiendo comprender sus expectativas y requerimientos en relación con la plataforma de cuidado infantil y educación en el hogar.
@@ -646,13 +741,49 @@ del proyecto cuidado infantil y educación en el hogar. Estos mapas permiten vis
 emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora y optimización.
 
 ### **2.3.4. Empathy Mapping**
+
+#### Padres de familia
+
+<div align="center">
+    <img src="Images/Empathymap-parents.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+#### Niñeras y Tutores
+<div align="center">
+    <img src="Images/Empathymap-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### **2.3.5. As-is Scenario Mapping**
+
+#### Padres de familia
+
+<div align="center">
+    <img src="Images/tobescenariomapping-parents.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+#### Niñeras y Tutores
+<div align="center">
+    <img src="Images/ScenarioMapping-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ## **2.4. Ubiquitous Language**
 
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
+
+#### Padres de familia
+
+<div align="center">
+    <img src="Images/scenariomapping-parents.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+#### Niñeras y Tutores
+<div align="center">
+    <img src="Images/ScenarioMappingtobe-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
 ## **3.2. User Stories**
 ## **3.3. Impact Mapping**
 ## **3.4. Product Backlog**
