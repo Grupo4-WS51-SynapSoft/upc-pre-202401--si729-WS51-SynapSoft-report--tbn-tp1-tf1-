@@ -515,26 +515,6 @@ Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas q
 
 ### **2.2.2. Registro de entrevistas**
 
-<b>Entrevista 1 - Padres</b><br/>
-
-- Nombre: Edwhin
-- Apellidos: Palomino
-- Edad: 21 años
-- Distrito: Lima - Carabayllo
-- Minuto donde empieza: 
-- Duración: 17:13 minutos
-
-Evidencia de la reunión:
-
-<div align="center">
-    <img src="Images/Entrevista-Edwin.png" style="margin: 10px 0;" width="80%"/>
-</div>
-
-Resumen de la entrevista:
-
-Edwhin Palomino expresa que, aunque no ha utilizado aplicaciones específicas para el cuidado infantil en Perú, reconoce el potencial de una plataforma que ofrezca mayor seguridad y confianza en los cuidadores. Destaca que la principal dificultad que ha enfrentado es la falta de servicios accesibles y confiables, así como la necesidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos, a menudo recurriendo a soluciones temporales y a veces insatisfactorias como recomendaciones personales y guarderías locales.
-
-Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, con la posibilidad de ajustar el costo para cuidados prolongados. En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma intuitiva, con cuidadores verificados y capaces, y está dispuesto a invertir en un servicio que le proporcione tranquilidad y soporte en situaciones emergentes.
 
 
 <b>Entrevista 4 - Niñera</b><br/>
@@ -603,21 +583,6 @@ Durante la conversación, María Fernanda expresó su interés en las plataforma
 
 ### **2.2.3. Análisis de entrevistas**
 
-<h3> ******* entrevistado: Edwhin Palomino </h3>
-<b>Desafíos en el Cuidado Infantil:</b> Edwhin Palomino expresa su preocupación por la falta de servicios de cuidado infantil confiables en Perú. Su experiencia ha estado marcada por dificultades para encontrar opciones accesibles y seguras, reflejando la necesidad de soluciones más efectivas en este ámbito. Esta preocupación destaca la importancia de mejorar la disponibilidad y la confiabilidad de los servicios de cuidado infantil.
-
-<b>Interés en una Plataforma de Cuidado Infantil:</b> Edwhin muestra un gran interés en una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Valora enormemente que los cuidadores estén verificados y certificados, y que la plataforma sea intuitiva y fácil de usar. Esto indica su deseo de contar con una solución que proporcione tranquilidad y soporte confiable en el cuidado de sus hijos.
-
-<b>Valoración de la Flexibilidad y Rapidez del Servicio:</b> Edwhin considera crucial que el servicio de cuidado infantil sea flexible y esté disponible en tiempo real. Su enfoque en la rapidez y la capacidad de respuesta para emergencias resalta la importancia de un servicio que pueda adaptarse a necesidades urgentes y cambiantes, reflejando la importancia de la accesibilidad y la eficacia en estos servicios.
-
-<b>Disposición a Invertir en el Cuidado Infantil:</b> Edwhin está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, mostrando una disposición a invertir en un servicio de calidad que cumpla con sus expectativas de seguridad y confiabilidad. Esta disposición sugiere que valora el servicio adecuado y está preparado para pagar por él, especialmente en situaciones donde se requiere atención urgente.
-
-<b>Búsqueda de Soluciones y Mejoras en el Cuidado Infantil:</b> En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma fácil de usar. Su interés en cuidadores verificados y certificados, junto con su disposición a pagar por un servicio de calidad, sugiere que está buscando activamente una solución que pueda satisfacer sus necesidades y proporcionar tranquilidad en el cuidado de sus hijos.
-
-Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
-
-
-
 
 <h3> ******* Entrevistada: Luhana Acuña </h3>
 <b>Desafíos en el Trabajo de Niñera:</b> A Luhana le resulta difícil cambiar su forma de adaptarse a las necesidades de cada niño. Es muy importante estar tranquila y paciente, sobretodo cuando los niños recién comienzan a descubrir quiénes son. El desafío se encuentra en la flexibilidad y adaptabilidad en el cuidado infantil
@@ -653,7 +618,30 @@ En resumen, María Fernanda es una usuaria potencialmente ideal para nuestra pla
 ### **2.3.2. User Task Matrix**
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
+
+#### Padres de familia
+
+<div align="center">
+    <img src="Images/Empathymap-parents.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+#### Niñeras y Tutores
+<div align="center">
+    <img src="Images/Empathymap-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### **2.3.5. As-is Scenario Mapping**
+
+#### Padres de familia
+
+<div align="center">
+    <img src="Images/tobescenariomapping-parents.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+#### Niñeras y Tutores
+<div align="center">
+    <img src="Images/ScenarioMapping-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ## **2.4. Ubiquitous Language**
 
