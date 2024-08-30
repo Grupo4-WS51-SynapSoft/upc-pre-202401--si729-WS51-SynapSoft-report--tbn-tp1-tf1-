@@ -519,9 +519,132 @@ Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado
 Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
 
 ## **2.3. Needfinding**
+Mediante el proceso de needfinding, se identificaron las necesidades y deseos de los usuarios finales, permitiendo comprender sus expectativas y requerimientos en relación con la plataforma de cuidado infantil y educación en el hogar.
+A continuación, se presentan los hallazgos más relevantes obtenidos a partir de las entrevistas y observaciones realizadas.
+
 ### **2.3.1. User Personas**
+En este apartado se presentan dos user personas que representan a los usuarios finales de la plataforma de cuidado infantil y educación en el hogar. 
+Estas representaciones ficticias se basan en los datos recopilados durante el proceso de needfinding y reflejan las características, necesidades y comportamientos de los usuarios reales.
+
+#### **User Persona 1: Fabrizio**
+
+<img src="Images/Fabrizio Sanchez.png" alt="UserPersona Fabrizio" width="800"></a><br>
+<br>
+
+### **User Persona 2: Johan**
+
+<img src="Images/Johan Molina.png" alt="UserPersona Johan" width="800"></a><br>
+<br>
+
 ### **2.3.2. User Task Matrix**
+En esta sección se presentará el User Task Matrix, una herramienta que permite identificar las tareas más relevantes para cada segmento, así como la frecuencia e importancia de cada una de ellas.
+
+<br>
+
+<table>
+  <tr>
+    <th rowspan="2" valign="top"><b><i>User Task Matrix</i></b></th>
+    <th colspan="2" valign="top"><b><i>Fabrizio</i></b></th>
+    <th colspan="2" valign="top"><b><i>Johan</i></b></th>
+  </tr>
+  <tr>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+  </tr>
+  <tr>
+    <td>Búsqueda de cuidadores confiables</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Nunca</i></b></td>
+    <td><b><i>Baja</i></b></td>
+  </tr>
+  <tr>
+    <td>Programación de sesiones de cuidado</td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Revisión de perfiles de cuidadores</td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+  </tr>
+  <tr>
+    <td>Seguimiento del desarrollo infantil</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Recepción de actualizaciones en tiempo real</td>
+    <td><b><i>A menudo</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+  </tr>
+  <tr>
+    <td>Organización de actividades educativas</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Establecimiento de relaciones con padres</td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Monitoreo de la satisfacción de los niños</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Optimización del tiempo de cuidado</td>
+    <td><b><i>Rara vez</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Consulta de recursos educativos</td>
+    <td><b><i>A veces</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Siempre</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+</table>
+
+### Explicación de la tabla
+
+- **Búsqueda de cuidadores confiables:** Fabrizio realiza esta tarea siempre y la considera de alta importancia, debido a que desea garantizar la seguridad de sus hijos.
+- **Programación de sesiones de cuidado:** Fabrizio la realiza a menudo y la considera de alta importancia, ya que necesita organizar su horario laboral y familiar.
+- **Revisión de perfiles de cuidadores:** Fabrizio la realiza siempre y la considera de alta importancia, ya que le permite evaluar la idoneidad de los cuidadores.
+- **Seguimiento del desarrollo infantil:** Johan la realiza siempre y la considera de alta importancia, ya que es el reflejo de su trabajo como cuidador y tutor.
+- **Recepción de actualizaciones en tiempo real:** Johan la realiza rara vez y la considera de media importancia, ya que prefiere la comunicación directa con los padres.
+- **Organización de actividades educativas:** Johan la realiza siempre y la considera de alta importancia, ya que busca ofrecer una educación de calidad a los niños.
+- **Establecimiento de relaciones con padres:** Johan la realiza siempre y la considera de alta importancia, ya que sus clientes directos son los padres.
+- **Monitoreo de la satisfacción de los niños:** Johan la realiza siempre y la considera de alta importancia, ya que busca garantizar el bienestar de los niños.
+- **Optimización del tiempo de cuidado:** Johan la realiza siempre y la considera de alta importancia, ya que busca maximizar la eficiencia en su trabajo.
+
+
 ### **2.3.3. User Journey Mapping**
+
+  
+Mediante los User Journey Maps, se representa la situación (AS-Is) de la experiencia de los usuarios al interactuar desde la creación hasta la finalización
+del proyecto cuidado infantil y educación en el hogar. Estos mapas permiten visualizar los puntos de contacto, 
+emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora y optimización.
+
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
 
