@@ -111,10 +111,13 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
     - [How (¿Cómo?)](#how-cómo)
     - [How much (¿Cuánto?)](#how-much-cuánto)
     - [**1.2.2 Lean UX Process**](#122-lean-ux-process)
-    - [**1.2.2.1. Lean UX Problem Statements**](#1221-lean-ux-problem-statements)
-    - [**1.2.2.2. Lean UX Assumptions**](#1222-lean-ux-assumptions)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [Problem Statement para Padres:](#problem-statement-para-padres)
+      - [Problem Statement para Cuidadores:](#problem-statement-para-cuidadores)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
+        - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
   - [**1.3. Segmentos objetivo**](#13-segmentos-objetivo)
 - [ **Capítulo II: Requirements Elicitation \& Analysis**](#-capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores**](#21-competidores)
@@ -359,140 +362,173 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 ## **2.1. Competidores**
 ### **2.1.1. Análisis competitivo**
 
-<TABLE BORDER style="width:100%">
-    <tr>
-        <th colspan="6"> Competitive Analysis Landscape</th>
-    </tr>
-    <tr>
-        <td rowspan="2">
-            ¿Por qué llevar a cabo este análisis?
-        </td>
-        <td colspan="5"> 
-        Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis. 
-        </td>
-    </tr>
-    <tr>
-        <td colspan="5"></td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            (En la cabecera colocar por cada competidor nombre y logo)
-        </td>
-        <td>Su Startup</td>
-        <td>Competidor 1</td>
-        <td>Competidor 2</td>
-        <td>Competidor 3</td>
-    </tr>
-    <tr>
-        <th rowspan="2"> Perfil</th>
-        <td>Overview</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            Ventaja competitiva ¿Qué valor ofrece a los clientes?
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th rowspan="2"> Perfil de Marketing</th>
-        <td>Mercado objetivo</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            Estrategias de marketing
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th rowspan="3"> Perfil de Producto</th>
-        <td>Productos & Servicios</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            Precios & Costos
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            Canales de distribución (Web y/o Móvil)
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th rowspan="5"> Análisis SWOT</th>
-        <td colspan="5">
-        Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Fortalezas
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            Debilidades
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-           Oportunidades
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            Amenazas
-        </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</TABLE>
+<div align="center">
+
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2">¿Por qué llevar este análisis?</td>
+    <td colspan="4">Para proporcionar información valiosa acerca de los competidores en el sector de servicios de cuidado infantil, lo cual nos servirá para mejorar la calidad de nuestro servicio y posicionar mejor nuestra oferta.</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td>SafeChild</td>
+    <td>Care.com</td>
+    <td>Sittercity</td>
+    <td>UrbanSitter</td>
+    <td>Bambino</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>SafeChild es una plataforma integral para conectar a padres con cuidadores de confianza, utilizando tecnología avanzada para verificación de antecedentes y gestión de reservas.</td>
+    <td>Care.com es una plataforma globalmente reconocida que ofrece servicios de cuidado infantil, cuidado de ancianos y más, con una extensa base de datos de cuidadores.</td>
+    <td>Sittercity es una plataforma que conecta a familias con niñeras y cuidadores a través de una base de datos amplia y detallada de perfiles de cuidadores.</td>
+    <td>UrbanSitter utiliza una red social para recomendar y conectar a padres con cuidadores, facilitando la contratación a través de referencias de amigos y familiares.</td>
+    <td>Bambino se basa en recomendaciones de amigos y conocidos para ofrecer opciones de cuidadores, combinando la tecnología con la confianza personal.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva: ¿Qué valor ofrece a los clientes?</td>
+    <td>Verificación exhaustiva de cuidadores, tecnología avanzada para gestión y comunicación, sistema de referencias confiables.</td>
+    <td>Base de datos extensa de cuidadores verificados, herramientas robustas para la búsqueda y contratación, amplia presencia en el mercado.</td>
+    <td>Interfaz sencilla, perfiles detallados de cuidadores, revisiones y valoraciones de usuarios, enfoque en facilidad de uso.</td>
+    <td>Conexión rápida con cuidadores a través de referencias, perfil detallado de cuidadores, enfoque en la confianza y la comunidad.</td>
+    <td>Recomendaciones personales, facilidad para encontrar cuidadores recomendados por conocidos, enfoque en la confianza comunitaria.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Padres que buscan una solución completa y confiable para encontrar cuidadores, y cuidadores que buscan una plataforma para ofrecer sus servicios.</td>
+    <td>Padres y cuidadores en busca de una plataforma robusta para diversos tipos de cuidado, desde cuidado infantil hasta cuidado de ancianos.</td>
+    <td>Padres de niños pequeños en busca de cuidadores de confianza y servicios relacionados.</td>
+    <td>Padres que valoran la recomendación social y la confianza en la selección de cuidadores.</td>
+    <td>Padres que prefieren cuidadores recomendados por amigos y conocidos, valorando la confianza y la comunidad.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Marketing digital, SEO, campañas en redes sociales, asociaciones con empresas de referencia, eventos educativos.</td>
+    <td>Marketing en redes sociales, SEO, publicidad digital, asociaciones con proveedores de servicios relacionados con la familia.</td>
+    <td>Publicidad dirigida, marketing en redes sociales, contenido educativo, colaboraciones con comunidades locales.</td>
+    <td>Marketing a través de redes sociales, enfoque en la recomendación social, colaboraciones con influencers y grupos comunitarios.</td>
+    <td>Marketing boca a boca, redes sociales, eventos locales para familias, colaboraciones con comunidades de padres.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Plataforma de conexión de cuidadores, verificación de antecedentes, gestión de reservas, sistema de referencias, comunicación en tiempo real.</td>
+    <td>Plataforma para encontrar cuidadores, incluyendo niñeras, tutores y cuidadores de ancianos, con herramientas para contratación y verificación.</td>
+    <td>Servicios para encontrar niñeras, cuidadores y tutores, con perfiles detallados y herramientas para la gestión de reservas y pagos.</td>
+    <td>Plataforma para reservar cuidadores a través de referencias de amigos, con perfiles detallados y herramientas de comunicación.</td>
+    <td>Servicios basados en recomendaciones de amigos, con una plataforma para buscar y reservar cuidadores confiables.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Varía según el servicio de cuidado y el nivel de verificación; tarifas competitivas basadas en el mercado.</td>
+    <td>Precios varían según el tipo de servicio y la experiencia del cuidador, con opciones de suscripción disponibles.</td>
+    <td>Precios competitivos basados en la experiencia del cuidador y el tipo de servicio, con tarifas de suscripción opcionales.</td>
+    <td>Precios varían según el cuidador y el tipo de servicio, con opciones para tarifas de referencia y suscripción.</td>
+    <td>Precios basados en recomendaciones y el tipo de servicio, con tarifas variadas según el cuidador.</td>
+  </tr>
+  <tr>
+    <td>Canales de Distribución (Web y/o Móvil)</td>
+    <td>Distribución a través de su página web y aplicación móvil.</td>
+    <td>Distribución a través de su página web y aplicación móvil.</td>
+    <td>Distribución a través de su página web y aplicación móvil.</td>
+    <td>Distribución a través de su página web y aplicación móvil.</td>
+    <td>Distribución a través de su página web y aplicación móvil.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Verificación exhaustiva de cuidadores, tecnología avanzada, sistema de referencias confiables.</td>
+    <td>Amplia base de datos de cuidadores verificados, herramientas robustas para búsqueda y contratación, alta visibilidad en el mercado.</td>
+    <td>Interfaz fácil de usar, perfiles detallados, revisiones de usuarios confiables.</td>
+    <td>Enfoque en referencias sociales, perfiles detallados, facilidad de conexión con cuidadores confiables.</td>
+    <td>Confianza basada en recomendaciones personales, facilidad para encontrar cuidadores recomendados.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Dependencia de la tecnología, posible resistencia de usuarios menos tecnológicos.</td>
+    <td>Competencia con plataformas similares, necesidad de mantener la calidad del servicio a gran escala.</td>
+    <td>Dependencia de las revisiones de usuarios, posible variabilidad en la calidad de los cuidadores.</td>
+    <td>Dependencia de la red social para referencias, posible limitación en la disponibilidad de cuidadores.</td>
+    <td>Dependencia de recomendaciones personales, posible limitación en la variedad de cuidadores disponibles.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Expansión a nuevos mercados, integración de nuevas tecnologías, asociaciones estratégicas.</td>
+    <td>Expansión de servicios, integración con otras plataformas, oportunidades de asociaciones estratégicas.</td>
+    <td>Expansión en áreas no cubiertas, mejora de la interfaz y funciones.</td>
+    <td>Expansión de la red de referencias, mejor integración con redes sociales.</td>
+    <td>Expansión de la base de datos de cuidadores, mejora de la tecnología de recomendación.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia intensa, cambios en regulaciones, crisis económicas.</td>
+    <td>Competencia intensa, posibles cambios en regulaciones, crisis económicas.</td>
+    <td>Competencia intensa, necesidad de mantener la calidad del servicio.</td>
+    <td>Competencia de plataformas similares, posibles cambios en las políticas de redes sociales.</td>
+    <td>Competencia con plataformas similares, dependencia de la confianza en las recomendaciones personales.</td>
+  </tr>
+</table>
+
+</div>
+
+</body>
+</html>
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
+
+Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas que emplearemos serán:
+
+- Centrarnos en nuestro aporte de valor: Nosotros no solo proporcionamos una plataforma para encontrar cuidadores y niñeras, sino que también ofrecemos una experiencia completa para ambas partes: padres y cuidadores. Nuestro objetivo es crear una comunidad de confianza y calidad en el cuidado infantil, asegurando que los padres encuentren cuidadores confiables y que estos últimos puedan ofrecer sus servicios en un entorno seguro y reconocido. Buscamos que tanto padres como cuidadores se beneficien de nuestras características únicas, como verificación de antecedentes, recomendaciones basadas en experiencias, y herramientas avanzadas para gestionar y contratar servicios de manera eficiente.
+
+- Hacer publicidad y marketing: Dado que algunos de nuestros competidores pueden no tener una presencia sólida en redes sociales o aplicaciones móviles, decidimos enfocarnos en una estrategia de marketing digital robusta. Promocionaremos nuestros servicios a través de redes sociales, destacando las historias de éxito de nuestras familias y cuidadores, compartiendo consejos sobre cuidado infantil y ofreciendo contenido valioso sobre la seguridad y el bienestar de los niños. También implementaremos campañas de publicidad en línea y colaboraciones con influencers en el ámbito del cuidado infantil para aumentar nuestra visibilidad y alcance.
+
+- Estrategia de posicionamiento: Esperamos posicionarnos como la plataforma líder en la búsqueda y contratación de cuidadores y niñeras, destacando por nuestra calidad y confianza. Nuestra ventaja competitiva radica en la verificación exhaustiva de cuidadores y en las herramientas que facilitamos tanto para padres como para cuidadores. Además, nos enfocaremos en proporcionar un servicio personalizado, donde cada familia y cuidador pueda encontrar exactamente lo que necesitan, y donde la atención al cliente y la seguridad sean nuestras principales prioridades.
+
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
 ### **2.2.2. Registro de entrevistas**
+
+<b>Entrevista X</b><br/>
+
+- Nombre: Edwhin
+- Apellidos: Palomino
+- Edad: 21 años
+- Distrito: Lima - Carabayllo
+- Minuto donde empieza: 
+- Duración: 17:13 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista-Edwin.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Edwhin Palomino expresa que, aunque no ha utilizado aplicaciones específicas para el cuidado infantil en Perú, reconoce el potencial de una plataforma que ofrezca mayor seguridad y confianza en los cuidadores. Destaca que la principal dificultad que ha enfrentado es la falta de servicios accesibles y confiables, así como la necesidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos, a menudo recurriendo a soluciones temporales y a veces insatisfactorias como recomendaciones personales y guarderías locales.
+
+Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, con la posibilidad de ajustar el costo para cuidados prolongados. En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma intuitiva, con cuidadores verificados y capaces, y está dispuesto a invertir en un servicio que le proporcione tranquilidad y soporte en situaciones emergentes.
+
 ### **2.2.3. Análisis de entrevistas**
+
+<h3> ******* entrevistado: Edwhin Palomino </h3>
+<b>Desafíos en el Cuidado Infantil:</b> Edwhin Palomino expresa su preocupación por la falta de servicios de cuidado infantil confiables en Perú. Su experiencia ha estado marcada por dificultades para encontrar opciones accesibles y seguras, reflejando la necesidad de soluciones más efectivas en este ámbito. Esta preocupación destaca la importancia de mejorar la disponibilidad y la confiabilidad de los servicios de cuidado infantil.
+
+<b>Interés en una Plataforma de Cuidado Infantil:</b> Edwhin muestra un gran interés en una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Valora enormemente que los cuidadores estén verificados y certificados, y que la plataforma sea intuitiva y fácil de usar. Esto indica su deseo de contar con una solución que proporcione tranquilidad y soporte confiable en el cuidado de sus hijos.
+
+<b>Valoración de la Flexibilidad y Rapidez del Servicio:</b> Edwhin considera crucial que el servicio de cuidado infantil sea flexible y esté disponible en tiempo real. Su enfoque en la rapidez y la capacidad de respuesta para emergencias resalta la importancia de un servicio que pueda adaptarse a necesidades urgentes y cambiantes, reflejando la importancia de la accesibilidad y la eficacia en estos servicios.
+
+<b>Disposición a Invertir en el Cuidado Infantil:</b> Edwhin está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, mostrando una disposición a invertir en un servicio de calidad que cumpla con sus expectativas de seguridad y confiabilidad. Esta disposición sugiere que valora el servicio adecuado y está preparado para pagar por él, especialmente en situaciones donde se requiere atención urgente.
+
+<b>Búsqueda de Soluciones y Mejoras en el Cuidado Infantil:</b> En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma fácil de usar. Su interés en cuidadores verificados y certificados, junto con su disposición a pagar por un servicio de calidad, sugiere que está buscando activamente una solución que pueda satisfacer sus necesidades y proporcionar tranquilidad en el cuidado de sus hijos.
+
+Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
