@@ -515,6 +515,29 @@ Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas q
 
 ### **2.2.2. Registro de entrevistas**
 
+<b>Entrevista 2 - Padre</b><br/>
+
+- Nombre: Fabrizio
+- Apellidos: Sanchez Zamora
+- Edad: 23 años
+- Distrito: Chorrillos - Lima
+- Duración: 04:29 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interview-Fabrizio.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Fabrizio nos comentó las dificultades que enfrenta día a día cuando se trata del cuidado y enseñanza de sus hijos,
+además de la importancia de encontrar un cuidador confiable y calificado. Nos mencionó que actualmente utiliza
+redes sociales para buscar información sobre cuidado infantil y educación en el hogar. También
+destacó la importancia de la flexibilidad y la calidad educativa en los servicios que busca para sus hijos. Fabrizio
+expresó su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores,
+así como la posibilidad de acceder a servicios educativos personalizados en el hogar. En cuanto a su presupuesto, nos
+comentó que está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
 
 
 <b>Entrevista 4 - Niñera</b><br/>
