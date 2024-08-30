@@ -621,6 +621,12 @@ Mediante los User Journey Maps, se representa la situación (AS-Is) de la experi
 del proyecto cuidado infantil y educación en el hogar. Estos mapas permiten visualizar los puntos de contacto, 
 emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora y optimización.
 
+### Journey Map Padres
+<img src="Images/UJM-Padres.png" alt="UserJourneyMap Padres" width="800"></a><br>
+
+### Journey Map Cuidadores
+<img src="Images/UJM-Cuidadores.png" alt="UserJourneyMap Tutores" width="800"></a><br>
+
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
 
