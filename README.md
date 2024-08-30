@@ -648,6 +648,19 @@ En resumen, María Fernanda es una usuaria potencialmente ideal para nuestra pla
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
+
+#### Padres de familia
+
+<div align="center">
+    <img src="Images/scenariomapping-parents.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+#### Niñeras y Tutores
+<div align="center">
+    <img src="Images/ScenarioMappingtobe-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
 ## **3.2. User Stories**
 ## **3.3. Impact Mapping**
 ## **3.4. Product Backlog**
