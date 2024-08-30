@@ -378,7 +378,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Care.com</td>
     <td>Sittercity</td>
     <td>UrbanSitter</td>
-    <td>Bambino</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -387,7 +386,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Care.com es una plataforma globalmente reconocida que ofrece servicios de cuidado infantil, cuidado de ancianos y más, con una extensa base de datos de cuidadores.</td>
     <td>Sittercity es una plataforma que conecta a familias con niñeras y cuidadores a través de una base de datos amplia y detallada de perfiles de cuidadores.</td>
     <td>UrbanSitter utiliza una red social para recomendar y conectar a padres con cuidadores, facilitando la contratación a través de referencias de amigos y familiares.</td>
-    <td>Bambino se basa en recomendaciones de amigos y conocidos para ofrecer opciones de cuidadores, combinando la tecnología con la confianza personal.</td>
   </tr>
   <tr>
     <td>Ventaja competitiva: ¿Qué valor ofrece a los clientes?</td>
@@ -395,7 +393,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Base de datos extensa de cuidadores verificados, herramientas robustas para la búsqueda y contratación, amplia presencia en el mercado.</td>
     <td>Interfaz sencilla, perfiles detallados de cuidadores, revisiones y valoraciones de usuarios, enfoque en facilidad de uso.</td>
     <td>Conexión rápida con cuidadores a través de referencias, perfil detallado de cuidadores, enfoque en la confianza y la comunidad.</td>
-    <td>Recomendaciones personales, facilidad para encontrar cuidadores recomendados por conocidos, enfoque en la confianza comunitaria.</td>
   </tr>
   <tr>
     <td rowspan="2">Perfil de Marketing</td>
@@ -404,7 +401,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Padres y cuidadores en busca de una plataforma robusta para diversos tipos de cuidado, desde cuidado infantil hasta cuidado de ancianos.</td>
     <td>Padres de niños pequeños en busca de cuidadores de confianza y servicios relacionados.</td>
     <td>Padres que valoran la recomendación social y la confianza en la selección de cuidadores.</td>
-    <td>Padres que prefieren cuidadores recomendados por amigos y conocidos, valorando la confianza y la comunidad.</td>
   </tr>
   <tr>
     <td>Estrategias de Marketing</td>
@@ -412,7 +408,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Marketing en redes sociales, SEO, publicidad digital, asociaciones con proveedores de servicios relacionados con la familia.</td>
     <td>Publicidad dirigida, marketing en redes sociales, contenido educativo, colaboraciones con comunidades locales.</td>
     <td>Marketing a través de redes sociales, enfoque en la recomendación social, colaboraciones con influencers y grupos comunitarios.</td>
-    <td>Marketing boca a boca, redes sociales, eventos locales para familias, colaboraciones con comunidades de padres.</td>
   </tr>
   <tr>
     <td rowspan="3">Perfil de Producto</td>
@@ -421,7 +416,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Plataforma para encontrar cuidadores, incluyendo niñeras, tutores y cuidadores de ancianos, con herramientas para contratación y verificación.</td>
     <td>Servicios para encontrar niñeras, cuidadores y tutores, con perfiles detallados y herramientas para la gestión de reservas y pagos.</td>
     <td>Plataforma para reservar cuidadores a través de referencias de amigos, con perfiles detallados y herramientas de comunicación.</td>
-    <td>Servicios basados en recomendaciones de amigos, con una plataforma para buscar y reservar cuidadores confiables.</td>
   </tr>
   <tr>
     <td>Precios & Costos</td>
@@ -429,11 +423,9 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Precios varían según el tipo de servicio y la experiencia del cuidador, con opciones de suscripción disponibles.</td>
     <td>Precios competitivos basados en la experiencia del cuidador y el tipo de servicio, con tarifas de suscripción opcionales.</td>
     <td>Precios varían según el cuidador y el tipo de servicio, con opciones para tarifas de referencia y suscripción.</td>
-    <td>Precios basados en recomendaciones y el tipo de servicio, con tarifas variadas según el cuidador.</td>
   </tr>
   <tr>
     <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>Distribución a través de su página web y aplicación móvil.</td>
     <td>Distribución a través de su página web y aplicación móvil.</td>
     <td>Distribución a través de su página web y aplicación móvil.</td>
     <td>Distribución a través de su página web y aplicación móvil.</td>
@@ -446,7 +438,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Amplia base de datos de cuidadores verificados, herramientas robustas para búsqueda y contratación, alta visibilidad en el mercado.</td>
     <td>Interfaz fácil de usar, perfiles detallados, revisiones de usuarios confiables.</td>
     <td>Enfoque en referencias sociales, perfiles detallados, facilidad de conexión con cuidadores confiables.</td>
-    <td>Confianza basada en recomendaciones personales, facilidad para encontrar cuidadores recomendados.</td>
   </tr>
   <tr>
     <td>Debilidades</td>
@@ -454,7 +445,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Competencia con plataformas similares, necesidad de mantener la calidad del servicio a gran escala.</td>
     <td>Dependencia de las revisiones de usuarios, posible variabilidad en la calidad de los cuidadores.</td>
     <td>Dependencia de la red social para referencias, posible limitación en la disponibilidad de cuidadores.</td>
-    <td>Dependencia de recomendaciones personales, posible limitación en la variedad de cuidadores disponibles.</td>
   </tr>
   <tr>
     <td>Oportunidades</td>
@@ -462,7 +452,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Expansión de servicios, integración con otras plataformas, oportunidades de asociaciones estratégicas.</td>
     <td>Expansión en áreas no cubiertas, mejora de la interfaz y funciones.</td>
     <td>Expansión de la red de referencias, mejor integración con redes sociales.</td>
-    <td>Expansión de la base de datos de cuidadores, mejora de la tecnología de recomendación.</td>
   </tr>
   <tr>
     <td>Amenazas</td>
@@ -470,7 +459,6 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
     <td>Competencia intensa, posibles cambios en regulaciones, crisis económicas.</td>
     <td>Competencia intensa, necesidad de mantener la calidad del servicio.</td>
     <td>Competencia de plataformas similares, posibles cambios en las políticas de redes sociales.</td>
-    <td>Competencia con plataformas similares, dependencia de la confianza en las recomendaciones personales.</td>
   </tr>
 </table>
 
