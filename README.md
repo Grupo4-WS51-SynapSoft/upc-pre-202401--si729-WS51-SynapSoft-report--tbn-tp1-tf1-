@@ -506,9 +506,566 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
+
 ## **3.2. User Stories**
+
+<CENTER>
+<TABLE BORDER>
+  <tr>
+    <th> Epic </th>
+    <th>Epic Id</th>
+  </tr>
+  <tr>
+    <td>Registro de Usuarios</td>
+    <td>EP01</td>
+  </tr>
+  <tr>
+    <td>Gestión de Cuentas</td>
+    <td>EP02</td>
+  </tr>
+  <tr>
+    <td>Sistema de Busqueda</td>
+    <td>EP03</td>
+  </tr>
+  <tr>
+    <td>Sistema de Reserva</td>
+    <td>EP04</td>
+  </tr>
+  <tr>
+    <td>Sistema de Pago</td>
+    <td>EP05</td>
+  </tr>
+  <tr>
+    <td>Sistema de Reseñas</td>
+    <td>EP06</td>
+  </tr>
+  <tr>
+    <td>Landing Page</td>
+    <td>EP07</td>
+  </tr>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<TABLE BORDER>
+  <tr>
+    <td>Epic / StoryID</td>
+    <td>Título</td>
+    <td>Descripción</td>
+    <td>Criterios de Aceptación</td>
+    <td>Relacionado con (Epic ID)</td>
+ </tr>
+ <tr>
+    <td>US01</td>
+    <td>Registro del Usuario </td>
+    <td>
+      Como Tutor, quiero crear una cuenta en la plataforma para poder buscar cuidadores y gestionar reservas para mi hijo
+    </td>
+    <td>
+      Escenario 1: El tutor visualiza el formulario de registro<br>
+      Dado que el tutor es visitante de la app Cuando el tutor abre la app, se muestra el dasboard de "inicio Sesión" y "Registro" Entonces el sistema muestra el formulario de "Registro" y el formulario contiene los campos obligatorios de ingresar.<br>
+      Escenario 2: El tutor completa y envía  el formulario de registro<br>
+      Dado que el tutor relleno todos los campos obligatorios correctamente Cuando el tutor presione  el botón  "Registrar" Entonces el sistema muestra el mensaje "Se envio correctamente"<br>
+      Escenario 3: El tutor deja campos obligatorios vacíos<br>
+      Dado que el tutor dejo uno o más campos vacíos  Cuando el tutor presione el botón "Registrar" Entonces el sistema muestra el mensaje de error "falta completar datos"<br>
+     </td>
+     <td>EP01</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Registro del Cuidador </td>
+    <td>
+      Como Cuidador, quiero registrarme en la plataforma y crear un perfil detallado, para mostrar mi experiencia y certificaciones a los Tutores, y ofrecer mis servicios de cuidado y enseñanza.
+    </td>
+    <td>
+      Escenario 1: El cuidador visualiza el formulario de registro<br>
+      Dado que el cuidador es visitante del sitio web Cuando el cuidador ingresa a la web, se muestra el dasboard de "inicio Sesión" y "Registro" y selecciona  Entonces el sistema muestra el formulario de "Registro" y el formulario contiene los campos obligatorios de ingresar.<br>
+      Escenario 2: El cuidador completa y envía  el formulario de registro<br>
+      Dado que el cuidador relleno todos los campos obligatorios correctamente Cuando el cuidador presioné el botón "Registrar" Entonces el sistema muestra el mensaje "Se envió correctamente"<br>
+      Escenario 3: El cuidador deja campos obligatorios vacíos<br>
+      Dado que el cuidador dejo uno o más campos vacíos  Cuando el cuidador presioné el botón "Registrar" Entonces el sistema muestra el mensaje de error "falta completar datos"<br>
+     </td>
+     <td>EP01</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Validación de Registro</td>
+    <td>
+      Como administrador, quiero un mecanismo de autentificación segura para verificar las credenciales del registro de cuenta.
+    </td>
+    <td>
+      Escenario 1: El visitante visualiza el mecanismo de autentificación<br>
+      Dado que el visitante está en la sección de registro de datos. Cuando el visitante selecciona "Vincular cuenta" Entonces el sistema muestra las opciones de vinculación de cuentas<br>
+      Escenario 2: El visitante completa exitosamente la vinculación<br>
+      Dado que el visitante selecciona la opción  con que va a registrar su cuenta. Cuando el visitante recibe el código  de verificación y ingrese al formulario. Entonces el sistema muestra el mensaje "Código  correcto" y continuamente se registra la cuenta redireccionando al dashboard de inicio del sitio web <br>
+      Escenario 3: El visitante ingresa mal el código  de verificación<br>
+      ado que el visitante selecciona la opción  con que va a registrar su cuenta. Cuando el visitante recibe el código  de verificación y ingrese un código  incorrecto. Entonces el sistema muestra el mensaje "Código  Incorrecto" y el sistema da un tiempo de 20 segundos para ingresar el nuevo código <br>
+     </td>
+     <td>EP01</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Actualización de cuenta del Tutor</td>
+    <td>
+      Como Tutor, quiero actualizar y completar mi perfil para añadir detalles sobre las necesidades especiales de mi hijo, para asegurarme de que el cuidador pueda cumplirlas.
+    </td>
+    <td>
+      Escenario 1: El tutor visualiza su perfil<br>
+      Dado que el tutor ingresa  al sitio web Cuando el selecciona su icono de perfil Entonces el sistema le redireccionara al dasboard de su perfil y visualizará los datos que relleno cuando registro la cuenta <br>
+      Escenario 2: El tutor actualiza su perfil<br>
+      Dado que el tutor presiona el botón  de actualizar Cuando ingresa los datos actualizados y la información adicional o faltante del perfil y presione el botón  de "Guardar Cambios". Entonces el sistema muestra el mensaje "Se Guardo correctamente"<br>
+     </td>
+     <td>EP02</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Actualización de cuenta del Cuidador</td>
+    <td>
+      Como Cuidador, quiero actualizar y completar mi perfil con mi experiencia y certificaciones, para atraer a más Tutores. 
+    </td>
+    <td>
+      Escenario 1: El cuidador visualiza su perfil<br>
+      Dado que el cuidador ingresa  al sitio web Cuando el selecciona su icono de perfil Entonces el sistema le redireccionara al dashboard de su perfil y visualizará los datos que relleno cuando registro la cuenta <br>
+      Escenario 2: El cuidador actualiza su perfil<br>
+      Dado que el cuidador presiona el botón de actualizar Cuando ingresa los datos actualizados y la información adicional o faltante del perfil y presione el botón de "Guardar Cambios". Entonces el sistema mostrara el mensaje "Se Guardo correctamente"<br>
+      Escenario 3: El cuidador ingresa documentos a su perfil<br>
+      Dado que el tutor presiona el botón de "Subir Documento" muestra un una card  de subir documento Cuando seleccione el documento y presione el botón de "Guardar". Entonces el sistema muestra  el mensaje "Se Subio el Documento Correctamente"<br>
+     </td>
+     <td>EP02</td>
+  </tr> 
+  <tr>
+    <td>US06</td>
+    <td>Filtrado de Búsqueda</td>
+    <td>
+      Como Tutor, quiero buscar cuidadores basados en la ubicación y servicio, para encontrar a alguien cercano a mi hogar. 
+    </td>
+    <td>
+      Escenario 1: El Tutor Visualiza la sección de búsqueda <br>
+      Dado que el Tutor ingresa al sitio web Cuando el selecciona la sección de búsqueda Entonces el sistema le direccionara al dashboard de búsqueda donde visualizará a todos los cuidadores que ofrecen sus servicios de cuidado <br>
+      Escenario 2: El Tutor hace un filtrado de datos por ubicación<br>
+      Dado que el tutor ingresa el dato a buscar y selecciona el tipo de búsqueda Cuando ingresa la opción de búsqueda por "Ubicación" y presiona el botón de buscar Entonces el sistema muestra a todos los cuidadores que son iguales a la ubicación ingresada<br>
+      Escenario 3: El Tutor hace un filtrado de datos por servicio<br>
+      Dado que el tutor ingresa el dato a buscar y selecciona el tipo de búsqueda Cuando ingresa la opción de búsqueda por "Servicio" y presiona el botón de buscar Entonces el sistema muestra a todos los cuidadores que tienen el servicio igual al dato buscado<br>
+     </td>
+     <td>EP03</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Visualización de Perfil</td>
+    <td>
+      Como Tutor, quiero ver las certificaciones y antecedentes de los cuidadores, para asegurarme de que sean adecuados para mi hijo. 
+    </td>
+    <td>
+      Escenario 1: El Tutor selecciona el perfil<br>
+      Dado que el Tutor realiza el filtrado de búsqueda Cuando selecciona al cuidador interesado Entonces el sistema le direccionará al perfil del cuidador y visualizará  todos los datos del cuidador<br>
+     </td>
+     <td>EP03</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td>Ingreso de Horario de Disponibilidad</td>
+    <td>
+      Como Cuidador, quiero ingresar mi disponibilidad de servicios, para asegurar que los Tutores vean los horarios de atención de mis servicios. 
+    </td>
+    <td>
+      Escenario 1: El Cuidador ingresa sus horarios<br>
+      Dado que el Cuidador se encuentre dentro del sitio web Cuando ingrese a su perfil y selecciona "Ingresar Horario". Entonces el sistema muestra el calendario y al ingresar los días disponibles con los horarios a atender. <br>
+      Escenario 2: El Cuidador Guarda sus horarios<br>
+      Dado que el Cuidador rellena los horarios dentro del calendario Cuando presiona el botón de "Guardar Horario" Entonces el sistema da el mensaje "Se guardo Correctamente" 
+     <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US09</td>
+    <td>Gestión de Costos de Servicios</td>
+    <td>
+      Como Cuidador, quiero establecer mis tarifas por hora o sesión, para que los Tutores sepan cuánto cobraré por mis servicios.
+    </td>
+    <td>
+      Escenario 1: El Cuidador establece las Tarifas de sus servicios<br>
+      Dado que el cuidador está en la sección de configuración de tarifas Cuando introduce una tarifa por hora o por sesión y guarda los cambios Entonces el sistema actualiza el perfil del cuidador para mostrar las tarifas establecidas.<br>
+      Escenario 2: El Cuidador actualiza las Tarifas de sus servicios<br>
+      Dado que el Cuidador desea ajustar sus tarifas Cuando modifica la tarifa por hora o por sesión en la sección de configuración y guarda los cambios Entonces el sistema actualiza automáticamente el perfil del cuidador para reflejar las nuevas tarifas</b>
+     <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Solicitud de Reserva</td>
+    <td>
+      Como Tutor, quiero solicitar una reserva para un cuidador, para asegurarme de que estén disponibles en el horario que necesito.
+    </td>
+    <td>
+      Escenario 1: El Tutor selecciona los horarios de atención<br>
+      Dado que el Tutor se encuentra en el Perfil del cuidador seleccionado Cuando presiona la opción de "Solicitar Reserva de Atención" Entonces el sistema mostrara los horarios de atención en un calendario de la semana con la opción de seleccionar los días y hora.<br>
+      Escenario 2: El Tutor manda solicitud de reserva<br>
+      Dado que el Tutor selecciona los horarios de la reserva Cuando presiona la opción de "Enviar Solicitud" Entonces el sistema dará un mensaje de "Se envió la solicitud" y notificara al cuidador de la solicitud de reserva.
+     <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US11</td>
+    <td>Actualización de Solicitud de Reserva</td>
+    <td>
+      Como Tutor, quiero poder actualizar mis reservas, para cambiar horarios o cancelar si es necesario.
+    </td>
+    <td>
+      Escenario 1: El Tutor accede a las solicitudes de reserva<br>
+      Dado que el Tutor ha iniciado sesión en su cuenta Cuando accede a la sección de solicitudes de reserva Entonces visualizara la lista actualizada de todas las solicitudes de reserva, incluyendo aquellas que están aceptadas, pendientes o rechazadas.<br>
+      Escenario 2: El Tutor cambia el horario de la reserva<br>
+      Dado que el Tutor tiene una solicitud de reserva existente Cuando selecciona la opción de cambiar el horario en la solicitud seleccionada Entonces el Tutor visualizara el calendario de horarios disponibles para el cambio, y al seleccionar un nuevo horario y confirmar el cambio. Entonces el sistema debe actualizar la solicitud con el nuevo horario y enviar una notificación de confirmación al Tutor.</br>
+      Escenario 3: El Tutor cancela la solicitud<br>
+      Dado que el Tutor tiene una solicitud de reserva existente Cuando selecciona la opción de cancelar la solicitud Entonces el sistema cancela la solicitud y notificará al Cuidador sobre la cancelación, actualizando la solicitud en la lista del Tutor.
+     <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US12</td>
+    <td>Vista de Solicitudes</td>
+    <td>
+      Como Cuidador, quiero recibir notificación de las solicitudes de reserva en tiempo real, para poder ingresar y visualizar las solicitudes entrantes.
+    </td>
+    <td>
+      Escenario 1: El Cuidador recibe notificación de Solicitud<br>
+      Dado que el Cuidador recibe una notificación al celular de una Solicitud de Reserva Cuando selecciona la notificación Entonces el sistema le redirecciona a la sección de "Solicitudes" del sitio Web. <br>
+      Escenario 2: El Cuidador ingresa a la sección de Solicitud<br>
+      Dado que el Tutor está en el sitio Web y recibe la notificación. Cuando ingresa a la sección "Solicitudes" Entonces el cuidador visualizara la solicitud notificada.<br>
+     <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Gestión  de Solicitudes</td>
+    <td>
+      Como Cuidador, quiero gestionar las solicitudes recibidas, para aceptar o rechazar la reserva.
+    </td>
+    <td>
+      Escenario 1: El Cuidador Acepta la solicitud<br>
+      Dado que el cuidador recibe una solicitud de reserva, Cuando accede a la solicitud en su panel de control y selecciona "Aceptar" Entonces el sistema actualiza el estado de la solicitud a "Aceptada" y notifica al Tutor sobre la confirmación de la reserva. <br>
+      Escenario 2: El Cuidador Rechaza la solicitud<br>
+      Dado que el cuidador recibe una solicitud de reserva, Cuando accede a la solicitud en su panel de control y selecciona "Rechazar" Entonces el sistema actualiza el estado de la solicitud a "Rechazada" y notifica al Tutor sobre la decisión de rechazo.<br>
+     <td>EP04</td>
+  </tr>
+   <tr>
+    <td>US14</td>
+    <td>Sistema de comunicación</td>
+    <td>
+      Como Tutor, quiero enviar mensajes al Cuidador, para discutir detalles y expectativas.
+    </td>
+    <td>
+      Escenario 1: El Tutor accede a la función de mensajería<br>
+      Dado que el Tutor está autenticado en su cuenta Cuando el Tutor accede a la sección de comunicación Entonces el Tutor visualizara una opción para enviar y recibir mensajes del Cuidador.<br>
+      Escenario 2: El Tutor envia un mensaje <br>
+      Dado que el Tutor tiene una conversación con un Cuidador Cuando el Tutor redacta un mensaje y envía Entonces el mensaje se envía al Cuidador y aparece en la conversación correspondiente<br>
+      Escenario 3: El Tutor recibe una notificación del mensaje entrante <br>
+      Dado que se recibe un nuevo mensaje en la conversación Cuando el Tutor recibe el mensaje Entonces el Tutor es notificado sobre el nuevo mensaje.<br>
+     <td>EP04</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Medios de Pagos</td>
+    <td>
+      Como Cuidador, quiero recibir pagos a través de la plataforma, para asegurar una transacción segura y sencilla.
+    </td>
+    <td>
+      Escenario 1: El Cuidador configura los métodos de pago<br>
+      Dado que el Cuidador está en su cuenta Cuando el Cuidador accede a la sección de "Configuración de Pagos" Entonces el Cuidador puede agregar y gestionar métodos de pago, como cuentas bancarias o tarjetas de crédito/débito.<br>
+      Escenario 2: El Cuidador visualiza el pago de sus servicios<br>
+      Dado que el pago ha sido procesado Cuando el Cuidador accede a la sección de "Historial de Pagos" Entonces el Cuidador visualiza el pago registrado, incluyendo detalles como la cantidad, la fecha y el estado del pago.<br>
+      Escenario 3: El Cuidador visualiza el historial de pagos<br>
+      Dado que el Cuidador accede a la sección "Historial de Pagos" Cuando el Cuidador revisa el historial Entonces el cuidador visualiza un registro completo de todos los pagos recibidos, en orden cronológico, con detalles de cada transacción.<br>
+     <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US16</td>
+    <td>Sistema de Pagos</td>
+    <td>
+      Como Tutor, quiero realizar los pagos a través de la plataforma, para asegurar una transacción segura y sencilla.
+    </td>
+    <td>
+      Escenario 1: El Tutor realiza el pago<br>
+      Dado que el Tutor necesita realizar un pago por una sesión o servicio Cuando accede a la sección de "Pagos" y selecciona el monto a pagar Entonces el Tutor puede confirmar y procesar el pago utilizando el método de pago configurado.<br>
+      Escenario 2: El Tutor visualiza el historial de pagos<br>
+      Dado que el Tutor accede a la sección de historial de pagos Cuando el Tutor revisa el historial Entonces el Tutor visualiza un registro completo de todos los pagos realizados, en orden cronológico, con detalles de cada transacción.<br>
+     <td>EP05</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Sistema de Reseñas</td>
+    <td>
+      Como Tutor, quiero dejar una reseña sobre el cuidador, para ayudar a otros Tutores a tomar decisiones informadas.
+    </td>
+    <td>
+      Escenario 1: El Tutor deja una Reseña<br>
+      Dado que el Tutor ha utilizado los servicios del Cuidador Cuando accede a la sección de "Reseñas" en el perfil del Cuidador y escribe una reseña Entonces el sistema guarda la reseña y la muestra en el perfil del cuidador para que otros Tutores la vean.<br>
+      Escenario 2: El Tutor califica al Cuidador<br>
+      Dado que el Tutor desea calificar al cuidador Cuando selecciona una calificación de estrellas, de 1 a 5 estrellas, en la sección de "reseñas", Entonces el sistema guarda la calificación junto con la reseña escrita.<br>
+      Escenario 3: El Tutor elimina una Reseña<br>
+       Dado que el Tutor decide eliminar una reseña que ha dejado Cuando selecciona la opción para eliminar la reseña en la sección de reseñas Entonces el sistema borra la reseña del perfil del Cuidador y muestra un mensaje de confirmación de que la reseña ha sido eliminada.<br>
+     <td>EP06</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Visualización de Reseñas</td>
+    <td>
+      Como Cuidador, quiero visualizar las reseñas dejadas por los tutores de los servicios ofrecidos anteriormente, para ver en que mejorar.
+    </td>
+    <td>
+      Escenario 1: El Cuidador accede a las reseñas de su perfil<br>
+      Dado que el Cuidador está en su cuenta Cuando el Cuidador accede a la sección de "Reseñas" Entonces el sistema muestra una lista de todas las reseñas dejadas por los Tutores que han recibido sus servicios.<br>
+      Escenario 2: El Cuidador visualiza los detalles de la reseña<br>
+      Dado que el Cuidador está en la sección de reseñas Cuando selecciona una reseña específica Entonces el sistema mostrará los detalles completos de la reseña, incluyendo la calificación, comentarios y cualquier otra información relevante proporcionada por el tutor.<br>
+     <td>EP06</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Visualización  del Landing Page</td>
+    <td>
+      Como visitante, quiero entender qué es la plataforma al llegar a la landing page, para evaluar si es una solución adecuada para ofrecer y recibir el servicio de cuidado.
+    </td>
+    <td>
+      Escenario 1: Mensaje Claro de Bienvenida<br>
+      Dado que el visitante llega a la landing page Cuando el visitante carga la página Entonces el visitante visualizara un mensaje claro y atractivo que da la bienvenida y explica brevemente el propósito de la plataforma.<br>
+     <td>EP06</td>
+  </tr>
+  <tr>
+    <td>US20</td>
+    <td>Visualización  del Landing Page</td>
+    <td>
+      Como visitante, quiero entender qué es la plataforma al llegar a la landing page, para evaluar si es una solución adecuada para ofrecer y recivir el servicio de cuidado.
+    </td>
+    <td>
+      Escenario 1: Mensaje Claro de Bienvenida<br>
+      Dado que el visitante llega a la landing page Cuando el visitante carga la página Entonces el visitante visualizara un mensaje claro y atractivo que da la bienvenida y explica brevemente el propósito de la plataforma.<br>
+     <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US21</td>
+    <td>Descripción de Beneficios Ofrecidos</td>
+    <td>
+      Como visitante, quiero ver claramente los beneficios de usar la plataforma, para decidir si me registro.
+    </td>
+    <td>
+      Escenario 1: Descripción de Beneficios<br>
+      Dado que el visitante está en la landing page, Cuando el visitante revisa el contenido de la página Entonces el visitante encuentra una descripción detallada de los Beneficios de cuidado que la plataforma ofrece, tanto para quienes buscan cuidado como para quienes lo proporcionan.<br>
+     <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US22</td>
+    <td>Visualización de testimonios</td>
+    <td>
+      Como visitante, quiero leer testimonios de otros tutores o cuidadores que han usado la plataforma, para sentirme más confiado en la elección de usarla.
+    </td>
+    <td>
+      Escenario 1: Visualización de testimonios<br>
+      Dado que el visitante quiere conocer la experiencia de otros usuarios Cuando el visitante revisa la landing page en la sección de "testimonios" Entonces el visitante ve testimonios y reseñas de usuarios anteriores o actuales, que destacan la efectividad y satisfacción con la plataforma.<br>
+     <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US23</td>
+    <td>Llamada a la acción</td>
+    <td>
+      Como visitante, deseo contactarme con la aplicación para registrarme o probar la plataforma.
+    </td>
+    <td>
+      Escenario 1: Visualización de testimonios<br>
+      Dado que el visitante está listo para actuar Cuando el visitante navega por la página Entonces el visitante encuentra llamadas a la acción claras y prominentes, como botones para registrarse, solicitar más información, o probar la plataforma<br>
+     <td>EP07</td>
+  </tr>
+  <tr>
+    <td>US24</td>
+    <td>Visualización de Planes</td>
+    <td>
+      Como visitante, deseo visualizar los planes que ofrece la aplicación para ves los beneficios que ofrecen.
+    </td>
+    <td>
+      Escenario 1: Visualización de testimonios<br>
+      Dado que el visitante quiere conocer los planes de la aplicación Cuando el visitante revisa la landing page en la sección de "Planes" Entonces el visitante visualizara todos los planes que se brindan dentro de la aplicación.<br>
+     <td>EP07</td>
+  </tr>
+</TABLE>
+</CENTER>
+
 ## **3.3. Impact Mapping**
+
+![Impact Mapping](Images/Impact%20map.png)
+
 ## **3.4. Product Backlog**
+
+<TABLE BORDER>
+  <tr>
+    <th># Orden</th>
+    <th>User Story Id </th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Story Points(1 / 2 / 3 / 5/ 8)</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>US15</td>
+    <td>Medios de Pago</td>
+    <td>Como Cuidador, quiero recibir pagos a través de la plataforma.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>US16</td>
+    <td>Sistema de Pagos</td>
+    <td>Como Tutor, quiero realizar los pagos a través de la plataforma.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>US01</td>
+    <td>Registro del Usuario</td>
+    <td>Como Tutor, quiero crear una cuenta en la plataforma para poder buscar cuidadores y gestionar reservas para mi hijo.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>US02</td>
+    <td>Registro del Cuidador</td>
+    <td>Como Cuidador, quiero registrarme en la plataforma y crear un perfil detallado, para mostrar mi experiencia y certificaciones a los Tutores.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>US10</td>
+    <td>Solicitud de Reserva</td>
+    <td>Como Tutor, quiero solicitar una reserva para un cuidador</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>US11</td>
+    <td>Actualización de Solicitud de Reserva</td>
+    <td>Como Tutor, quiero poder actualizar mis reservas.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>07</td>
+    <td>US13</td>
+    <td>Gestión de Solicitudes</td>
+    <td>Como Cuidador, quiero gestionar las solicitudes recibidas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>08</td>
+    <td>US14</td>
+    <td>Sistema de comunicación</td>
+    <td>Como Tutor, quiero enviar mensajes al Cuidador para discutir detalles y expectativas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>US04</td>
+    <td>Actualización de cuenta del Tutor</td>
+    <td>Como Tutor, quiero actualizar y completar mi perfil para añadir detalles sobre las necesidades especiales de mi hijo.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>US05</td>
+    <td>Actualización de cuenta del Cuidador</td>
+    <td>Como Cuidador, quiero actualizar y completar mi perfil con mi experiencia y certificaciones.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>US08</td>
+    <td>Ingreso de Horario de Disponibilidad</td>
+    <td>Como Cuidador, quiero ingresar mi disponibilidad de servicios.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>US09</td>
+    <td>Gestión de Costos de Servicios</td>
+    <td>Como Cuidador, quiero establecer mis tarifas por hora o sesión.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>US12</td>
+    <td>Vista de Solicitudes</td>
+    <td>Como Cuidador, quiero recibir notificación de las solicitudes de reserva en tiempo real.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>US18</td>
+    <td>Visualización de Reseñas</td>
+    <td>Como Cuidador, quiero visualizar las reseñas dejadas por los tutores de los servicios ofrecidos anteriormente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>US21</td>
+    <td>Descripción de Beneficios Ofrecidos</td>
+    <td>Como visitante, quiero ver claramente los beneficios de usar la plataforma.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>US22</td>
+    <td>Visualización de testimonios</td>
+    <td>Como visitante, quiero leer testimonios de otros tutores o cuidadores que han usado la plataforma.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>US06</td>
+    <td>Filtrado de Búsqueda</td>
+    <td>Como Tutor, quiero buscar cuidadores basados en la ubicación y servicio.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>US19</td>
+    <td>Visualización del Landing Page</td>
+    <td>Como visitante, quiero entender qué es la plataforma al llegar a la landing page.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>US20</td>
+    <td>Visualización del Landing Page</td>
+    <td>Como visitante, quiero entender qué es la plataforma al llegar a la landing page.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>US23</td>
+    <td>Llamada a la acción</td>
+    <td>Como visitante, deseo contactarme con la aplicación para registrarme o probar la plataforma.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>US24</td>
+    <td>Visualización de Planes</td>
+    <td>Como visitante, deseo visualizar los planes que ofrece la aplicación.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>US03</td>
+    <td>Validación de Registro</td>
+    <td>Como administrador, quiero un mecanismo de autentificación segura para verificar las credenciales del registro de cuenta.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>US17</td>
+    <td>Sistema de Reseñas</td>
+    <td>Como Tutor, quiero dejar una reseña sobre el cuidador.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>US07</td>
+    <td>Visualización de Perfil</td>
+    <td>Como Tutor, quiero ver las certificaciones y antecedentes de los cuidadores.</td>
+    <td>3</td>
+  </tr>
+</TABLE>
+
+Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft>
 
 # <font color="red">**Capítulo IV: Product Design**</font>
 
