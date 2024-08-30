@@ -616,7 +616,7 @@ En esta sección se presentará el User Task Matrix, una herramienta que permite
 
 ### **2.3.3. User Journey Mapping**
 
-  
+  gi
 Mediante los User Journey Maps, se representa la situación (AS-Is) de la experiencia de los usuarios al interactuar desde la creación hasta la finalización
 del proyecto cuidado infantil y educación en el hogar. Estos mapas permiten visualizar los puntos de contacto, 
 emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora y optimización.
@@ -625,7 +625,7 @@ emociones y acciones de los usuarios a lo largo de su recorrido, identificando o
 <img src="Images/UJM-Padres.png" alt="UserJourneyMap Padres" width="800"></a><br>
 
 ### Journey Map Cuidadores
-<img src="Images/UJM-Cuidadores.png" alt="UserJourneyMap Tutores" width="800"></a><br>
+<img src="Images/UJM-Tutor.png" alt="UserJourneyMap Tutores" width="800"></a><br>
 
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
