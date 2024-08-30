@@ -1199,7 +1199,10 @@ emociones y acciones de los usuarios a lo largo de su recorrido, identificando o
 
 ## **3.3. Impact Mapping**
 
-![Impact Mapping](Images/Impact%20map.png)
+<div align="center">
+<img src="Images/Impact%20map.png" alt="UserPersona Fabrizio" width="800"></a><br>
+<br>
+</div>
 
 ## **3.4. Product Backlog**
 
