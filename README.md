@@ -697,7 +697,16 @@ Link de las Entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 ### **2.2.3. Análisis de entrevistas**
 
 **Tutores/Padres**
-<h3> ******* entrevistado: Edwhin Palomino </h3>
+
+<h3> Primer Entrevistado: Fabrizio Sanchez  </h3>
+<b>Desafíos en la Búsqueda de Cuidado Infantil:</b> Fabrizio mencionó que uno de los mayores desafíos que enfrenta al buscar cuidado infantil es encontrar un cuidador confiable y calificado para sus hijos. La seguridad y la calidad educativa son aspectos fundamentales que valora en un servicio de cuidado infantil. Además, la flexibilidad y la capacidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos son factores clave en su decisión.
+
+<b>Interés en una Plataforma de Cuidado Infantil:</b> Fabrizio expresó su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como la posibilidad de acceder a servicios educativos personalizados en el hogar. La flexibilidad y la calidad educativa son aspectos que busca en un servicio de cuidado infantil. En cuanto a su presupuesto, está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
+
+En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya que valora la seguridad, la calidad educativa y la flexibilidad en los servicios de cuidado infantil. Su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como servicios educativos personalizados en el hogar, sugiere que busca una solución integral y confiable para el cuidado de sus hijos.
+
+
+<h3> Segundo entrevistado: Edwhin Palomino </h3>
 <b>Desafíos en el Cuidado Infantil:</b> Edwhin Palomino expresa su preocupación por la falta de servicios de cuidado infantil confiables en Perú. Su experiencia ha estado marcada por dificultades para encontrar opciones accesibles y seguras, reflejando la necesidad de soluciones más efectivas en este ámbito. Esta preocupación destaca la importancia de mejorar la disponibilidad y la confiabilidad de los servicios de cuidado infantil.
 
 <b>Interés en una Plataforma de Cuidado Infantil:</b> Edwhin muestra un gran interés en una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Valora enormemente que los cuidadores estén verificados y certificados, y que la plataforma sea intuitiva y fácil de usar. Esto indica su deseo de contar con una solución que proporcione tranquilidad y soporte confiable en el cuidado de sus hijos.
@@ -710,18 +719,10 @@ Link de las Entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 
 Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
 
-<h3>******* Entrevistado: Fabrizio Sanchez  </h3>
-<b>Desafíos en la Búsqueda de Cuidado Infantil:</b> Fabrizio mencionó que uno de los mayores desafíos que enfrenta al buscar cuidado infantil es encontrar un cuidador confiable y calificado para sus hijos. La seguridad y la calidad educativa son aspectos fundamentales que valora en un servicio de cuidado infantil. Además, la flexibilidad y la capacidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos son factores clave en su decisión.
-
-<b>Interés en una Plataforma de Cuidado Infantil:</b> Fabrizio expresó su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como la posibilidad de acceder a servicios educativos personalizados en el hogar. La flexibilidad y la calidad educativa son aspectos que busca en un servicio de cuidado infantil. En cuanto a su presupuesto, está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
-
-
-En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya que valora la seguridad, la calidad educativa y la flexibilidad en los servicios de cuidado infantil. Su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como servicios educativos personalizados en el hogar, sugiere que busca una solución integral y confiable para el cuidado de sus hijos.
-
 
 **Cuidadores/Educadores**
 
-<h3> Entrevistada: Luhana Acuña </h3>
+<h3> Tercer Entrevistado: Luhana Acuña </h3>
 <b>Desafíos en el Trabajo de Niñera:</b> A Luhana le resulta difícil cambiar su forma de adaptarse a las necesidades de cada niño. Es muy importante estar tranquila y paciente, sobretodo cuando los niños recién comienzan a descubrir quiénes son. El desafío se encuentra en la flexibilidad y adaptabilidad en el cuidado infantil
 
 <b>Satisfacción en el Cuidado Infantil:</b> A pesar de todos los desafios a los que se enfrenta diariamente, Luhana encuentra una gran satisfacción en su trabajo como niñera pues le gusta mucho observar el crecimiento y desarrollo de los niños bajo su cuidado. Esta satisfacción y alegría es un factor clave en el que mejora su compromiso y largo plazo en todo lo que es cuidado infantil.
@@ -732,7 +733,7 @@ En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya q
 
 Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada en probar nuestra aplicación y de esa forma tener un trabajo mas rapido, asímismo una comunicación efectiva con todos los padres de familia con niños a su cargo.
 
-<h3> Entrevistado: Maria Fernanda Gil Moya </h3>
+<h3> Cuarto Entrevistado: Maria Fernanda Gil Moya </h3>
 <b>Desafíos en la enseñanza del idioma Ingles:</b> María Fernanda ha enfrentado varios desafíos en su carrera como docente de inglés, especialmente en motivar a estudiantes que inicialmente no muestran interés en el idioma. Además, la adaptación a la enseñanza virtual durante la pandemia fue un reto significativo, que requirió de flexibilidad y la incorporación de nuevas herramientas tecnológicas. Estos desafíos resaltan la importancia de la innovación y la adaptabilidad en la educación actual.
 
 <b>Interés en el uso de Plataformas Educativas:</b> María Fernanda valora enormemente las plataformas educativas, considerándolas fundamentales para complementar la enseñanza tradicional. Reconoce que estas herramientas permiten personalizar el aprendizaje y realizar un seguimiento más detallado del progreso de los estudiantes. Su interés en estas plataformas sugiere que ve en ellas una manera de mejorar la calidad de la educación que ofrece, haciéndola más accesible y efectiva.
@@ -742,7 +743,7 @@ Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada e
 En resumen, María Fernanda es una usuaria potencialmente ideal para nuestra plataforma. Su interés en las herramientas que permiten personalizar la enseñanza y destacar su oferta refleja una búsqueda activa de maneras de mejorar su práctica docente. La plataforma le ofrece las oportunidades que necesita para crecer en su carrera y ofrecer una educación de mayor calidad a sus estudiantes.
 
 
-<h3> Entrevistada: Harold Mayta </h3>
+<h3> Quinto Entrevistado: Harold Mayta </h3>
 <b>Desafios en la Tutoria Personalizada:</b> Harold destacó la importancia de adaptar su enfoque a las necesidades individuales de cada estudiante. Su experiencia ha mostrado que cada alumno aprende de manera diferente, lo que requiere flexibilidad y paciencia por parte del tutor. Esta capacidad de adaptación es fundamental en su rol, especialmente cuando enfrenta el desafío de motivar a estudiantes que inicialmente no están interesados en la materia. Esto subraya la necesidad de métodos de enseñanza personalizados para maximizar el potencial de aprendizaje de cada estudiante.
 
 <b>Progreso y Satisfacción en la Tutoría:</b> Una de las mayores satisfacciones de Harold como tutor es ver a sus estudiantes progresar y ganar confianza en sí mismos. Mencionó cómo su motivación crece al observar a un estudiante que inicialmente luchaba con una materia, finalmente dominarla y sentirse seguro de sus habilidades. Este aspecto destaca la importancia de un enfoque paciente y de apoyo en la tutoría, que no solo mejora las habilidades académicas de los estudiantes, sino también su autoestima.
