@@ -519,8 +519,8 @@ Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas q
 
 - Nombre: Edwhin
 - Apellidos: Palomino
-- Edad: 21 años
-- Distrito: Lima - Carabayllo
+- Edad: 53 años
+- Distrito: Lima - Puente Piedra
 - Minuto donde empieza: 
 - Duración: 17:13 minutos
 
