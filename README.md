@@ -720,6 +720,7 @@ En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya q
 Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
 
 
+
 **Cuidadores/Educadores**
 
 <h3> Tercer Entrevistado: Luhana Acuña </h3>
