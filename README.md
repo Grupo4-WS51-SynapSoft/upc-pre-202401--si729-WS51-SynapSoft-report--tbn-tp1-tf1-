@@ -90,6 +90,51 @@
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSoft>
 
+En el desarrollo del informe, hemos adoptado un enfoque sistemático utilizando un sistema de control de versiones basado en ramas para organizar y gestionar las actividades de elaboración. Este método ha permitido que cada miembro del equipo trabaje de manera independiente en diferentes aspectos del informe, asegurando una integración eficiente y controlada de los avances.
+
+Entregrable 1 o TB1 : (17-08-24 a 23-08-24)
+
+<div align="center">
+  <img src="./Images/Deliverable 1 Image-of-contributors.png"  style="margin: 10px 0;" width="80%">
+</div>
+
+Cada miembro del equipo ha trabajado en ramas específicas para desarrollar diferentes partes del informe.
+
+- Versión 01 (17/08/2024) - Lynn Meza Camayo
+  - Descripción: Se realizó una revisión completa del formato del documento, ajustando estilos de encabezados, márgenes y elementos gráficos para mejorar la claridad y uniformidad.
+
+<div align="center">
+  <img src="./Images/document-format.png"  style="margin: 10px 0;" width="70%">
+</div>
+
+- Versión 02 (20/08/2024) - Jefrey Sanchez Ignacio
+  - Descripción: Se documentaron los antecedentes relevantes y las problemáticas que el proyecto busca resolver, proporcionando contexto y base para el desarrollo posterior.
+
+  <div align="center">
+  <img src="./Images/background and problems.png"  style="margin: 10px 0;" width="70%">
+  </div> 
+
+- Versión 03 (20/08/2024) - George Aliaga Pimentel
+  - Descripción: Se formularon y documentaron las hipótesis clave sobre el comportamiento de los usuarios, estableciendo la base para la validación del proyecto.
+
+  <div align="center">
+  <img src="./Images/Hypothesis Statement.png"  style="margin: 10px 0;" width="70%">
+  </div> 
+
+- Versión 04 (21/08/2024) - Lynn Meza Camayo
+  - Descripción: Se elaboró una descripción detallada de la StartUp y se definieron los segmentos objetivos.
+
+  <div align="center">
+  <img src="./Images/Description of target segments.png"  style="margin: 10px 0;" width="70%">
+  </div> 
+
+- Versión 05 (21/08/2024) - Jean Grandez Mansilla
+  - Descripción: Se definieron las declaraciones de problemas y suposiciones, y se completó el Lean UX Canvas para integrar todos los elementos clave del proyecto.
+
+  <div align="center">
+  <img src="./Images/Lean UX.png"  style="margin: 10px 0;" width="70%">
+  </div> 
+
 # <font color="red">**Contenido**</font>
 ### Tabla de contenidos
 - [**Registro de Versiones del Informe**](#registro-de-versiones-del-informe)
@@ -515,33 +560,14 @@ Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas q
 
 ### **2.2.2. Registro de entrevistas**
 **Tutores/Padres**
-<b>Entrevista 1-Tutor</b><br/>
 
-- Nombre: Edwhin
-- Apellidos: Palomino
-- Edad: 53 años
-- Distrito: Lima - Puente Piedra
-- Minuto donde empieza: 
-- Duración: 17:13 minutos
-
-Evidencia de la reunión:
-
-<div align="center">
-    <img src="Images/Entrevista-Edwin.png" style="margin: 10px 0;" width="80%"/>
-</div>
-
-Resumen de la entrevista:
-
-Edwhin Palomino expresa que, aunque no ha utilizado aplicaciones específicas para el cuidado infantil en Perú, reconoce el potencial de una plataforma que ofrezca mayor seguridad y confianza en los cuidadores. Destaca que la principal dificultad que ha enfrentado es la falta de servicios accesibles y confiables, así como la necesidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos, a menudo recurriendo a soluciones temporales y a veces insatisfactorias como recomendaciones personales y guarderías locales.
-
-Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, con la posibilidad de ajustar el costo para cuidados prolongados. En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma intuitiva, con cuidadores verificados y capaces, y está dispuesto a invertir en un servicio que le proporcione tranquilidad y soporte en situaciones emergentes.
-
-<b>Entrevista 2 - Padre</b><br/>
+<b>Entrevista 1 - Tutor</b><br/>
 
 - Nombre: Fabrizio
 - Apellidos: Sanchez Zamora
 - Edad: 23 años
 - Distrito: Chorrillos - Lima
+- Minuto donde Empieza: 0:00
 - Duración: 04:29 minutos
 
 Evidencia de la reunión:
@@ -560,6 +586,28 @@ expresó su interés en una plataforma que ofrezca verificación de antecedentes
 así como la posibilidad de acceder a servicios educativos personalizados en el hogar. En cuanto a su presupuesto, nos
 comentó que está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
 
+
+<b>Entrevista 2-Tutor</b><br/>
+
+- Nombre: Edwhin
+- Apellidos: Palomino
+- Edad: 53 años
+- Distrito: Lima - Puente Piedra
+- Minuto donde empieza: 4:31
+- Duración: 17:13 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista-Edwin.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Edwhin Palomino expresa que, aunque no ha utilizado aplicaciones específicas para el cuidado infantil en Perú, reconoce el potencial de una plataforma que ofrezca mayor seguridad y confianza en los cuidadores. Destaca que la principal dificultad que ha enfrentado es la falta de servicios accesibles y confiables, así como la necesidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos, a menudo recurriendo a soluciones temporales y a veces insatisfactorias como recomendaciones personales y guarderías locales.
+
+Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, con la posibilidad de ajustar el costo para cuidados prolongados. En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma intuitiva, con cuidadores verificados y capaces, y está dispuesto a invertir en un servicio que le proporcione tranquilidad y soporte en situaciones emergentes.
+
 **Cuidadores/Educadores**
 <b>Entrevista 4 - Niñera</b><br/>
 
@@ -567,6 +615,7 @@ comentó que está dispuesto a invertir en servicios de calidad para el cuidado 
 - Apellidos: Acuña Cuba
 - Edad: 21 años
 - Distrito: Callao - Callao
+- Minuto donde empieza: 21:45
 - Duración: 04:32 minutos
 
 Evidencia de la reunión:
@@ -583,12 +632,32 @@ Una de las cosas más difíciles con las que ha tenido que lidiar es cambiar su 
 
 Si estás pensando en ser niñera, Luhana dice que debes tener paciencia, seguir la corriente y hablar directamente con las personas que te contrataron. Estas cosas son clave para establecer una buena relación laboral y tener un buen desempeño en este tipo de trabajo
 
+<b>Entrevista 5 - Tutora</b><br/>
 
-<b>Entrevista 5 - Tutor</b><br/>
+- Nombre: Maria Fernanda
+- Apellidos: Gil Moya
+- Edad: 20 años
+- Minuto donde empieza: 26:43
+- Duración: 10:30 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interview-tutor-maria.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+María Fernanda, con experiencia siendo docente de inglés a nivel secundario, ha encontrado gran satisfacción en ayudar a sus estudiantes a descubrir y desarrollar sus habilidades lingüísticas. Aunque ha enfrentado desafíos, como mantener la motivación de los estudiantes y adaptarse a la enseñanza virtual durante la pandemia, ha superado estos obstáculos con flexibilidad y el uso de nuevas tecnologías.
+
+Durante la conversación, María Fernanda expresó su interés en las plataformas educativas, reconociendo su valor para personalizar el aprendizaje y seguir de cerca el progreso de sus estudiantes. Cuando le explicamos nuestra plataforma, mostró un gran interés, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta en primera plana, viendo en esto una oportunidad para mejorar su interacción educativa y alcanzar a más estudiantes.
+
+<b>Entrevista 6 - Tutor</b><br/>
 
 - Nombre: Harold Jaime
 - Apellidos: Mayta Lopez
 - Edad: 20 años
+- Minuto donde empieza: 37:14
 - Duración: 10:43 minutos
 
 Evidencia de la reunión:
@@ -605,25 +674,7 @@ Harold recordó una anécdota significativa en la que un estudiante, que al prin
 
 Al final de la entrevista, le comentamos a Harold sobre nuestra plataforma, y se mostró muy interesado, especialmente cuando se le explicó la sección de calificaciones y los planes de pago para mostrar su oferta en primera plana.
 
-<b>Entrevista 6 - Tutora</b><br/>
-
-- Nombre: Maria Fernanda
-- Apellidos: Gil Moya
-- Edad: 20 años
-- Duración: 10:30 minutos
-
-Evidencia de la reunión:
-
-<div align="center">
-    <img src="Images/interview-tutor-maria.png" style="margin: 10px 0;" width="80%"/>
-</div>
-
-Resumen de la entrevista:
-
-María Fernanda, con experiencia siendo docente de inglés a nivel secundario, ha encontrado gran satisfacción en ayudar a sus estudiantes a descubrir y desarrollar sus habilidades lingüísticas. Aunque ha enfrentado desafíos, como mantener la motivación de los estudiantes y adaptarse a la enseñanza virtual durante la pandemia, ha superado estos obstáculos con flexibilidad y el uso de nuevas tecnologías.
-
-Durante la conversación, María Fernanda expresó su interés en las plataformas educativas, reconociendo su valor para personalizar el aprendizaje y seguir de cerca el progreso de sus estudiantes. Cuando le explicamos nuestra plataforma, mostró un gran interés, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta en primera plana, viendo en esto una oportunidad para mejorar su interacción educativa y alcanzar a más estudiantes.
-
+Link de las Entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c273_upc_edu_pe/EYWKTwSKLgBGs1J-CaWh15IBekVBc9rm7plBk2BXxw-JcQ?e=KIiuHM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
 ### **2.2.3. Análisis de entrevistas**
 
@@ -641,9 +692,7 @@ Durante la conversación, María Fernanda expresó su interés en las plataforma
 
 Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
 
-**Cuidadores/Educadores**
-
-<h3> Entrevistado: Fabrizio Sanchez </h3>
+<h3>******* Entrevistado: Fabrizio Sanchez  </h3>
 <b>Desafíos en la Búsqueda de Cuidado Infantil:</b> Fabrizio mencionó que uno de los mayores desafíos que enfrenta al buscar cuidado infantil es encontrar un cuidador confiable y calificado para sus hijos. La seguridad y la calidad educativa son aspectos fundamentales que valora en un servicio de cuidado infantil. Además, la flexibilidad y la capacidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos son factores clave en su decisión.
 
 <b>Interés en una Plataforma de Cuidado Infantil:</b> Fabrizio expresó su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como la posibilidad de acceder a servicios educativos personalizados en el hogar. La flexibilidad y la calidad educativa son aspectos que busca en un servicio de cuidado infantil. En cuanto a su presupuesto, está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
@@ -652,7 +701,7 @@ Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cli
 En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya que valora la seguridad, la calidad educativa y la flexibilidad en los servicios de cuidado infantil. Su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como servicios educativos personalizados en el hogar, sugiere que busca una solución integral y confiable para el cuidado de sus hijos.
 
 
-
+**Cuidadores/Educadores**
 
 <h3> Entrevistada: Luhana Acuña </h3>
 <b>Desafíos en el Trabajo de Niñera:</b> A Luhana le resulta difícil cambiar su forma de adaptarse a las necesidades de cada niño. Es muy importante estar tranquila y paciente, sobretodo cuando los niños recién comienzan a descubrir quiénes son. El desafío se encuentra en la flexibilidad y adaptabilidad en el cuidado infantil
@@ -665,6 +714,16 @@ En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya q
 
 Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada en probar nuestra aplicación y de esa forma tener un trabajo mas rapido, asímismo una comunicación efectiva con todos los padres de familia con niños a su cargo.
 
+<h3> Entrevistado: Maria Fernanda Gil Moya </h3>
+<b>Desafíos en la enseñanza del idioma Ingles:</b> María Fernanda ha enfrentado varios desafíos en su carrera como docente de inglés, especialmente en motivar a estudiantes que inicialmente no muestran interés en el idioma. Además, la adaptación a la enseñanza virtual durante la pandemia fue un reto significativo, que requirió de flexibilidad y la incorporación de nuevas herramientas tecnológicas. Estos desafíos resaltan la importancia de la innovación y la adaptabilidad en la educación actual.
+
+<b>Interés en el uso de Plataformas Educativas:</b> María Fernanda valora enormemente las plataformas educativas, considerándolas fundamentales para complementar la enseñanza tradicional. Reconoce que estas herramientas permiten personalizar el aprendizaje y realizar un seguimiento más detallado del progreso de los estudiantes. Su interés en estas plataformas sugiere que ve en ellas una manera de mejorar la calidad de la educación que ofrece, haciéndola más accesible y efectiva.
+
+<b>Relevancia de la sección de Calificaciones y Planes de Pago:</b> Durante la conversación, María Fernanda mostró un gran interés en nuestra plataforma, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta de enseñanza en primera plana. Este interés indica que ve un valor significativo en la posibilidad de aumentar su visibilidad y atraer a más estudiantes, aprovechando las funcionalidades que nuestra plataforma ofrece para mejorar su perfil profesional y llegar a un público más amplio.
+
+En resumen, María Fernanda es una usuaria potencialmente ideal para nuestra plataforma. Su interés en las herramientas que permiten personalizar la enseñanza y destacar su oferta refleja una búsqueda activa de maneras de mejorar su práctica docente. La plataforma le ofrece las oportunidades que necesita para crecer en su carrera y ofrecer una educación de mayor calidad a sus estudiantes.
+
+
 <h3> Entrevistada: Harold Mayta </h3>
 <b>Desafios en la Tutoria Personalizada:</b> Harold destacó la importancia de adaptar su enfoque a las necesidades individuales de cada estudiante. Su experiencia ha mostrado que cada alumno aprende de manera diferente, lo que requiere flexibilidad y paciencia por parte del tutor. Esta capacidad de adaptación es fundamental en su rol, especialmente cuando enfrenta el desafío de motivar a estudiantes que inicialmente no están interesados en la materia. Esto subraya la necesidad de métodos de enseñanza personalizados para maximizar el potencial de aprendizaje de cada estudiante.
 
@@ -674,14 +733,6 @@ Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada e
 
 En resumen, Harold parece ser un usuario potencial ideal para nuestra plataforma, que le ofrece las herramientas necesarias para destacar y crecer en su carrera como tutor. Su disposición a utilizar una plataforma que le proporcione visibilidad, flexibilidad, y la capacidad de personalizar su oferta sugiere que está buscando activamente maneras de mejorar su presencia y éxito en el ámbito educativo.
 
-<h3> Entrevistado: Maria Fernanda Gil Moya </h3>
-<b>Desafíos en la enseñanza del idioma Ingles:</b> María Fernanda ha enfrentado varios desafíos en su carrera como docente de inglés, especialmente en motivar a estudiantes que inicialmente no muestran interés en el idioma. Además, la adaptación a la enseñanza virtual durante la pandemia fue un reto significativo, que requirió de flexibilidad y la incorporación de nuevas herramientas tecnológicas. Estos desafíos resaltan la importancia de la innovación y la adaptabilidad en la educación actual.
-
-<b>Interés en el uso de Plataformas Educativas:</b> María Fernanda valora enormemente las plataformas educativas, considerándolas fundamentales para complementar la enseñanza tradicional. Reconoce que estas herramientas permiten personalizar el aprendizaje y realizar un seguimiento más detallado del progreso de los estudiantes. Su interés en estas plataformas sugiere que ve en ellas una manera de mejorar la calidad de la educación que ofrece, haciéndola más accesible y efectiva.
-
-<b>Relevancia de la sección de Calificaciones y Planes de Pago:</b> Durante la conversación, María Fernanda mostró un gran interés en nuestra plataforma, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta de enseñanza en primera plana. Este interés indica que ve un valor significativo en la posibilidad de aumentar su visibilidad y atraer a más estudiantes, aprovechando las funcionalidades que nuestra plataforma ofrece para mejorar su perfil profesional y llegar a un público más amplio.
-
-En resumen, María Fernanda es una usuaria potencialmente ideal para nuestra plataforma. Su interés en las herramientas que permiten personalizar la enseñanza y destacar su oferta refleja una búsqueda activa de maneras de mejorar su práctica docente. La plataforma le ofrece las oportunidades que necesita para crecer en su carrera y ofrecer una educación de mayor calidad a sus estudiantes.
 
 ## **2.3. Needfinding**
 Mediante el proceso de needfinding, se identificaron las necesidades y deseos de los usuarios finales, permitiendo comprender sus expectativas y requerimientos en relación con la plataforma de cuidado infantil y educación en el hogar.
@@ -808,16 +859,19 @@ En esta sección se presentará el User Task Matrix, una herramienta que permite
 
 ### **2.3.3. User Journey Mapping**
 
-  gi
 Mediante los User Journey Maps, se representa la situación (AS-Is) de la experiencia de los usuarios al interactuar desde la creación hasta la finalización
 del proyecto cuidado infantil y educación en el hogar. Estos mapas permiten visualizar los puntos de contacto, 
 emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora y optimización.
 
 ### Journey Map Padres
-<img src="Images/UJM-Padres.png" alt="UserJourneyMap Padres" width="800"></a><br>
+<div align="center">
+<img src="Images/UJM-Padres.png" alt="UserJourneyMap Padres" style="margin: 10px 0;" width="80%"></a><br>
+</div>
 
 ### Journey Map Cuidadores
-<img src="Images/UJM-Tutor.png" alt="UserJourneyMap Tutores" width="800"></a><br>
+<div align="center">
+<img src="Images/UJM-Tutor.png" alt="UserJourneyMap Tutores" style="margin: 10px 0;" width="80%"></a><br>
+</div>
 
 ### **2.3.4. Empathy Mapping**
 
