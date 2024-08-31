@@ -536,6 +536,29 @@ Edwhin Palomino expresa que, aunque no ha utilizado aplicaciones específicas pa
 
 Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, con la posibilidad de ajustar el costo para cuidados prolongados. En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma intuitiva, con cuidadores verificados y capaces, y está dispuesto a invertir en un servicio que le proporcione tranquilidad y soporte en situaciones emergentes.
 
+<b>Entrevista 2 - Padre</b><br/>
+
+- Nombre: Fabrizio
+- Apellidos: Sanchez Zamora
+- Edad: 23 años
+- Distrito: Chorrillos - Lima
+- Duración: 04:29 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interview-Fabrizio.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Fabrizio nos comentó las dificultades que enfrenta día a día cuando se trata del cuidado y enseñanza de sus hijos,
+además de la importancia de encontrar un cuidador confiable y calificado. Nos mencionó que actualmente utiliza
+redes sociales para buscar información sobre cuidado infantil y educación en el hogar. También
+destacó la importancia de la flexibilidad y la calidad educativa en los servicios que busca para sus hijos. Fabrizio
+expresó su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores,
+así como la posibilidad de acceder a servicios educativos personalizados en el hogar. En cuanto a su presupuesto, nos
+comentó que está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
 
 **Cuidadores/Educadores**
 <b>Entrevista 4 - Niñera</b><br/>
@@ -620,7 +643,18 @@ Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cli
 
 **Cuidadores/Educadores**
 
-<h3> ******* Entrevistada: Luhana Acuña </h3>
+<h3> Entrevistado: Fabrizio Sanchez </h3>
+<b>Desafíos en la Búsqueda de Cuidado Infantil:</b> Fabrizio mencionó que uno de los mayores desafíos que enfrenta al buscar cuidado infantil es encontrar un cuidador confiable y calificado para sus hijos. La seguridad y la calidad educativa son aspectos fundamentales que valora en un servicio de cuidado infantil. Además, la flexibilidad y la capacidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos son factores clave en su decisión.
+
+<b>Interés en una Plataforma de Cuidado Infantil:</b> Fabrizio expresó su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como la posibilidad de acceder a servicios educativos personalizados en el hogar. La flexibilidad y la calidad educativa son aspectos que busca en un servicio de cuidado infantil. En cuanto a su presupuesto, está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
+
+
+En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya que valora la seguridad, la calidad educativa y la flexibilidad en los servicios de cuidado infantil. Su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como servicios educativos personalizados en el hogar, sugiere que busca una solución integral y confiable para el cuidado de sus hijos.
+
+
+
+
+<h3> Entrevistada: Luhana Acuña </h3>
 <b>Desafíos en el Trabajo de Niñera:</b> A Luhana le resulta difícil cambiar su forma de adaptarse a las necesidades de cada niño. Es muy importante estar tranquila y paciente, sobretodo cuando los niños recién comienzan a descubrir quiénes son. El desafío se encuentra en la flexibilidad y adaptabilidad en el cuidado infantil
 
 <b>Satisfacción en el Cuidado Infantil:</b> A pesar de todos los desafios a los que se enfrenta diariamente, Luhana encuentra una gran satisfacción en su trabajo como niñera pues le gusta mucho observar el crecimiento y desarrollo de los niños bajo su cuidado. Esta satisfacción y alegría es un factor clave en el que mejora su compromiso y largo plazo en todo lo que es cuidado infantil.
@@ -631,7 +665,7 @@ Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cli
 
 Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada en probar nuestra aplicación y de esa forma tener un trabajo mas rapido, asímismo una comunicación efectiva con todos los padres de familia con niños a su cargo.
 
-<h3> ******* Entrevistada: Harold Mayta </h3>
+<h3> Entrevistada: Harold Mayta </h3>
 <b>Desafios en la Tutoria Personalizada:</b> Harold destacó la importancia de adaptar su enfoque a las necesidades individuales de cada estudiante. Su experiencia ha mostrado que cada alumno aprende de manera diferente, lo que requiere flexibilidad y paciencia por parte del tutor. Esta capacidad de adaptación es fundamental en su rol, especialmente cuando enfrenta el desafío de motivar a estudiantes que inicialmente no están interesados en la materia. Esto subraya la necesidad de métodos de enseñanza personalizados para maximizar el potencial de aprendizaje de cada estudiante.
 
 <b>Progreso y Satisfacción en la Tutoría:</b> Una de las mayores satisfacciones de Harold como tutor es ver a sus estudiantes progresar y ganar confianza en sí mismos. Mencionó cómo su motivación crece al observar a un estudiante que inicialmente luchaba con una materia, finalmente dominarla y sentirse seguro de sus habilidades. Este aspecto destaca la importancia de un enfoque paciente y de apoyo en la tutoría, que no solo mejora las habilidades académicas de los estudiantes, sino también su autoestima.
@@ -640,7 +674,7 @@ Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada e
 
 En resumen, Harold parece ser un usuario potencial ideal para nuestra plataforma, que le ofrece las herramientas necesarias para destacar y crecer en su carrera como tutor. Su disposición a utilizar una plataforma que le proporcione visibilidad, flexibilidad, y la capacidad de personalizar su oferta sugiere que está buscando activamente maneras de mejorar su presencia y éxito en el ámbito educativo.
 
-<h3> ******* entrevistado: Maria Fernanda Gil Moya </h3>
+<h3> Entrevistado: Maria Fernanda Gil Moya </h3>
 <b>Desafíos en la enseñanza del idioma Ingles:</b> María Fernanda ha enfrentado varios desafíos en su carrera como docente de inglés, especialmente en motivar a estudiantes que inicialmente no muestran interés en el idioma. Además, la adaptación a la enseñanza virtual durante la pandemia fue un reto significativo, que requirió de flexibilidad y la incorporación de nuevas herramientas tecnológicas. Estos desafíos resaltan la importancia de la innovación y la adaptabilidad en la educación actual.
 
 <b>Interés en el uso de Plataformas Educativas:</b> María Fernanda valora enormemente las plataformas educativas, considerándolas fundamentales para complementar la enseñanza tradicional. Reconoce que estas herramientas permiten personalizar el aprendizaje y realizar un seguimiento más detallado del progreso de los estudiantes. Su interés en estas plataformas sugiere que ve en ellas una manera de mejorar la calidad de la educación que ofrece, haciéndola más accesible y efectiva.
