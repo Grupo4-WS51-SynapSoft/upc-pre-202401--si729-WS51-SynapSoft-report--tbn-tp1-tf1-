@@ -73,16 +73,34 @@
         <td>Desarrollo del Lean UX Problem Statements, Assumptions y Canvas</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>06</td>
+        <td>27/08/24</td>
+        <td>Jean Grandez Mansilla</td>
+        <td>Desarrollo del User person y User task Matrix</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>07</td>
+        <td>29/08/24</td>
+        <td>George Aliaga Pimentel</td>
+        <td>Desarrollo del Análisis competitivo, Estrategias y tácticas frente a competidores , 1 entrevista y analisis</td>
+    </tr>
+    <tr>
+        <td>08</td>
+        <td>30/08/24</td>
+        <td>Jefrey Sanchez Ignacio</td>
+        <td>Desarrollo del empathy mapping, As-Is scenario mapping y 3 entrevista y analisis de niñeras/tutores </td>
+    </tr>
+    <tr>
+        <td>09</td>
+        <td>30/08/24</td>
+        <td>Jean Grandez Mansilla</td>
+        <td>>Desarrollo del User Journey Mapping y 1 entrevista y analisis entrevista tutores</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>30/08/24</td>
+        <td>Lynn Meza Camayo</td>
+        <td>Desarrollo del User Stories, Impact mapping y el  Product Backlog</td>
     </tr>
 </table>
 
