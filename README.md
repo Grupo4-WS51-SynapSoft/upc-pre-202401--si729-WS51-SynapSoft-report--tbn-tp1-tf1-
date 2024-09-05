@@ -111,10 +111,13 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
     - [How (¿Cómo?)](#how-cómo)
     - [How much (¿Cuánto?)](#how-much-cuánto)
     - [**1.2.2 Lean UX Process**](#122-lean-ux-process)
-    - [**1.2.2.1. Lean UX Problem Statements**](#1221-lean-ux-problem-statements)
-    - [**1.2.2.2. Lean UX Assumptions**](#1222-lean-ux-assumptions)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [Problem Statement para Padres:](#problem-statement-para-padres)
+      - [Problem Statement para Cuidadores:](#problem-statement-para-cuidadores)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
+        - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
   - [**1.3. Segmentos objetivo**](#13-segmentos-objetivo)
 - [ **Capítulo II: Requirements Elicitation \& Analysis**](#-capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores**](#21-competidores)
@@ -515,18 +518,159 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 ## **4.1. Style Guidelines**
 ### **4.1.1. General Style Guidelines**
 ### **4.1.2. Web Style Guidelines**
-
 ## **4.2. Information Architecture**
+
+En SafeChild, buscamos ofrecer una plataforma intuitiva, segura y confiable para conectar a padres que buscan servicios de cuidado infantil y cuidadores que desean registrarse para ofrecer sus servicios. Debido a la naturaleza de los servicios que involucran cuidado infantil y transacciones seguras, la arquitectura de la información es clave para lograr nuestros objetivos. A continuación, se presenta el diseño y organización de la plataforma.
+
+<b> 1. Página de Inicio: </b>
+
+- Vista Previa de Cuidadores Disponibles:  <br>
+  Muestra cuidadores destacados o populares para captar la atención de los padres que buscan servicios.
+
+- Registro de Cuidadores: <br>
+  Enlace directo para que nuevos cuidadores puedan registrarse en la plataforma y comenzar a ofrecer sus servicios.
+
+- Quiénes Somos y Contacto: <br>
+  Información sobre la misión de la plataforma, los valores fundamentales y los medios de contacto para consultas o asistencia.
+
+<b> 2. Buscar Cuidadores (Para Padres y Tutores): </b>
+
+- Categorías de Servicios: <br>
+  Sección que agrupa los servicios de cuidado infantil según las necesidades específicas: cuidado a tiempo completo, cuidado parcial, cuidado de niños con necesidades especiales, etc.
+
+- Filtros de Búsqueda: <br>
+  Herramientas que permiten a los padres filtrar cuidadores según criterios como experiencia, calificaciones, precio, ubicación y disponibilidad.
+
+- Vista Detallada de Perfiles: <br>
+  Cada cuidador cuenta con una página individual que muestra su experiencia, calificaciones, tarifas, disponibilidad y certificaciones.
+
+<b> 3. Registro de Cuidadores: </b>
+
+- Formulario de Registro: <br>
+  Formulario para que los cuidadores se registren en la plataforma, ingresando información como experiencia, habilidades, certificaciones y disponibilidad.
+
+- Gestión de Servicios: <br>
+  Una vez registrados, los cuidadores pueden crear o editar su perfil, subir certificaciones y gestionar su disponibilidad.
+
+- Historial de Servicios y Pagos: <br>
+  Los cuidadores pueden revisar un historial de los servicios que han realizado, las calificaciones obtenidas y los pagos recibidos.
+
+<b> 4. Reservar Servicios de Cuidado: </b>
+
+- Interfaz de Reserva: <br>
+  Una interfaz simple para que los padres seleccionen el cuidador, fecha y hora para reservar el servicio de cuidado infantil.
+
+- Vista Previa y Confirmación: <br>
+  Los padres pueden visualizar los detalles de la reserva antes de confirmar, incluyendo la tarifa total y la duración del servicio.
+
 ### **4.2.1. Organization Systems**
+
+El sistema de organización de SafeChild está diseñado para brindar la mejor experiencia posible tanto para los padres que buscan contratar servicios como para los cuidadores que desean ofrecerlos.
+
+<b> 1. Categorización de la Información: </b>
+  
+- Perfiles de Cuidadores: <br>
+  Categorizados por experiencia, tipo de cuidado (niños pequeños, cuidado especializado, cuidado nocturno, etc.) y certificaciones.
+
+- Servicios de Cuidado: <br>
+  Categorizados por tiempo completo, medio tiempo, ocasional, etc.
+
+<b> 2. Filtros y Búsqueda: </b>
+
+- Filtros para Padres: <br>
+  Los padres pueden filtrar los cuidadores según la ubicación, experiencia, precio, calificaciones, disponibilidad y otros parámetros.
+
+- Búsqueda Avanzada: <br> 
+  Función que permite a los padres buscar cuidadores con características específicas, como "cuidadores con experiencia en niños con necesidades especiales" o "cuidadores disponibles los fines de semana".
+
+<b> 3. Interfaz de Usuario Intuitiva: </b>
+
+- Menú Principal: <br> 
+  Un menú claro y accesible que incluye las secciones clave: Buscar Cuidadores, Registro de Cuidadores, Historial de Servicios, y Perfil de Usuario.
+
+- Submenús Contextuales: <br> 
+  Dentro de las secciones principales, los submenús guían a los usuarios hacia opciones específicas como "cuidado a tiempo completo" o "cuidado de niños con necesidades especiales".
+
+<b> 4. Funcionalidades Específicas: </b>
+
+- Perfiles de Cuidadores: <br> 
+  Cada cuidador tiene una página individual que muestra su experiencia, certificaciones, calificaciones, tarifas y disponibilidad, junto con una opción para contactarlo o reservar un servicio.
+
+- Reservas: <br> 
+  Los padres pueden gestionar y ver sus reservas previas, y repetir servicios con cuidadores específicos desde su historial.
+
 ### **4.2.2. Labeling Systems**
+
+Para mejorar la navegación y comprensión, SafeChild utilizará un sistema de etiquetado claro y descriptivo. Ejemplos de etiquetas incluyen:
+
+- Buscar Cuidadores
+- Registrar como Cuidador
+- Reserva de Servicios
+- Perfiles de Cuidadores
+- Historial de Servicios
+  
 ### **4.2.3. SEO Tags and Meta Tags**
+
+<!-- Title Tag -->
+<title>SafeChild | Connecting Families with Trustworthy Childcare Providers</title>
+
+<!-- Meta Description -->
+<meta name="description" content="SafeChild is a trusted platform connecting families with qualified childcare providers. Find experienced caregivers or register as a caregiver today.">
+
+<!-- Meta Keywords -->
+<meta name="keywords" content="childcare, babysitters, caregivers, childcare services, trustworthy care, register as a caregiver, child safety, family services, hire babysitters, certified caregivers, child care search">
+
+<!-- Meta Robots -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+
+<!-- Meta Author -->
+<meta name="author" content="SynapSoft">
+
+<!-- Viewport Tag for Mobile Responsiveness -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+
 ### **4.2.4. Searching Systems**
+
+El sistema de búsqueda dentro de la plataforma permitirá a los padres y cuidadores encontrar la información que necesitan de manera rápida y eficaz.
+
+<b> 1. Búsqueda por Tipo de Cuidado: </b>
+Los padres pueden buscar cuidadores por tipo de cuidado, como "cuidado nocturno", "cuidado a tiempo completo" o "cuidado de niños con necesidades especiales".
+
+<b> 2. Búsqueda por Ubicación: </b>
+Los padres pueden filtrar los resultados de búsqueda de cuidadores según la proximidad a su hogar.
+
+<b> 3. Búsqueda por Disponibilidad: </b>
+Se ofrece una búsqueda avanzada que permite a los padres buscar cuidadores según la disponibilidad en días y horarios específicos.
+
+<b> 4. Búsqueda por Calificaciones:
+Los padres pueden buscar cuidadores con las mejores calificaciones y opiniones de otros usuarios.
+
+<b> 5. Búsqueda por Precio: </b>
+Los usuarios pueden filtrar cuidadores según sus tarifas, buscando servicios que se ajusten a su presupuesto.
+
 ### **4.2.5. Navigation Systems**
+
+El sistema de navegación está diseñado para ofrecer una experiencia fluida, fácil de usar y segura para ambos segmentos (padres y cuidadores).
+
+<b> 1. Menú Principal: </b>
+El menú principal incluirá enlaces a las secciones más importantes: Inicio, Buscar Cuidadores, Registro de Cuidadores, Historial de Servicios y Perfil.
+
+<b> 2. Navegación Contextual: </b>
+Cada sección principal tendrá submenús específicos para ayudar a los usuarios a acceder a opciones más detalladas dentro de la plataforma, como filtros de búsqueda o ajustes de perfil.
+
+<b> 3. Botones de Acción Destacados: </b>
+Botones llamativos como "Buscar Cuidadores", "Registrar como Cuidador" y "Reservar Servicio" estarán estratégicamente ubicados para facilitar la interacción.
+
+<b> 4. Búsqueda y Filtros Visibles: </b>
+La barra de búsqueda y los filtros estarán siempre visibles para que los usuarios puedan ajustar rápidamente los resultados y encontrar cuidadores de acuerdo a sus preferencias.
+
+<b> 5. Flujo de Navegación Intuitivo: </b>
+Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógico y claro que guía a los usuarios en cada etapa, con mensajes de acción y señales visuales que facilitan el proceso.
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
 ### **4.3.2. Landing Page Mock-up**
-
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
 ### **4.4.2. Web Applications Wireflow Diagrams**
