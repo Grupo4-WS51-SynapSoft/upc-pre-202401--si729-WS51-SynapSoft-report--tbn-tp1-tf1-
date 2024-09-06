@@ -1539,9 +1539,146 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 
 ## **5.1. Software Configuration Management**
 ### **5.1.1. Software Development Environment Configuration**
+Esta sección aborda la configuración de las herramientas necesarias para el desarrollo del software, organizadas de acuerdo con las distintas fases y actividades del proyecto.
+
+**Gestión de Proyectos**
+
+Para planificar y coordinar el desarrollo del software, incluyendo la asignación de tareas y el seguimiento del progreso, utilizamos:
+
+- Trello: Esta plataforma de gestión de proyectos basada en tableros nos ayuda a organizar tareas y colaborar en tiempo real, facilitando la visualización del avance y la coordinación entre los miembros del equipo.
+
+**Diseño UX/UI**
+
+En esta sección nos centramos en la creación de interfaces atractivas e intuitivas, considerando las necesidades y preferencias de los usuarios. Las herramientas empleadas son:
+
+- Figma: Permite diseñar y compartir interfaces de usuario de manera colaborativa y eficiente.
+- LucidChart: Usado para crear diagramas UML y diagramas de flujo, ayudando a representar visualmente la arquitectura y los procesos del proyecto.
+- Miro: Utilizado para la lluvia de ideas, definición de problemas y necesidades del cliente, así como la identificación de los Bounded Contexts del proyecto.
+- UXpressia: Herramienta para crear User Personas, Empathy Maps, Journey Maps e Impact Maps, facilitando una comprensión más profunda de los usuarios y sus necesidades.
+
+**Desarrollo de Software**
+
+Para el proceso de creación y programación del software, utilizamos las siguientes herramientas y tecnologías:
+
+- IntelliJ IDEA: Un entorno de desarrollo integrado (IDE) que ofrece características avanzadas como resaltado de sintaxis, depuración y control de versiones integradas, utilizado para escribir y editar el código fuente.
+- GitHub: Plataforma para alojar el repositorio del proyecto y gestionar el control de versiones del código fuente y la documentación, facilitando la colaboración y el seguimiento de cambios.
+
+**Documentación de Software**
+
+La documentación técnica es crucial para el mantenimiento y comprensión del software. Utilizamos:
+
+- Markdown: Un lenguaje de marcado ligero y sencillo para crear documentos con formato, empleándose para redactar la documentación del proyecto de manera clara y estructurada.
 ### **5.1.2. Source Code Management**
+Durante el desarrollo de los sprints futuros, usaremos Git Flow para gestionar el desarrollo de nuevas características, realizar correcciones y preparar lanzamientos. Esta metodología proporciona una estructura organizada que mejora la colaboración y la comprensión del flujo de trabajo entre desarrolladores. Al seguir Git Flow, garantizamos que todos los cambios se integren de manera eficiente, facilitando la coordinación del equipo y la entrega de un producto de alta calidad.
+
+**Uso del Modelo Git Flow**
+
+Para la gestión de cambios en nuestro repositorio, seguimos el modelo Git Flow, que organiza las ramas de la siguiente manera:
+
+- **Ramas Principales:**
+
+  - 'master': Contiene el código estable y listo para el despliegue.
+  - 'develop': Es la rama de integración donde se consolidan las características desarrolladas y se preparan para el próximo lanzamiento.
+
+- **Ramas de Soporte:**
+
+  - feature: Se crean a partir de la rama develop para el desarrollo de nuevas características y se fusionan nuevamente en develop una vez completadas.
+```
+  git checkout -b feature/[nombre-de-la-caracteristica]
+  git add .
+  git commit -m "feat: [descripcion-de-la-caracteristica]"
+  git push -u origin feature/[nombre-de-la-caracteristica]
+```
+Este modelo da una estructura clara y organizada para que los desarrolladores puedan comprender el flujo de trabajo y colaborar de manera eficiente.
+
+**Convenciones de Commits**
+
+Para los nombres de los commits, usamos el estándar Conventional Commits, que proporciona una estructura clara para los mensajes en los commits, facilitando la colaboración y el seguimiento de cambios:
+
+- feat: Nueva característica
+
+```
+git commit -m "feat: [descripcion de la caracteristica]"
+```
+
+- fix: Corrección de errores
+
+```
+git commit -m "fix: [descripcion del error]"
+```
+
+- docs: Cambios en la documentación
+```
+git commit -m "docs: [descripcion de los cambios en la documentacion]"
+```
+
+- style: Cambios en el estilo
+```
+git commit -m "style: [descripcion de los cambios en el estilo que no afectan a la logica del codigo]"
+```
+- refactor: Refactorización del código
+```
+git commit -m "refactor: [descripcion de la refactorizacion]"
+```
+- test: Cambios en las pruebas
+```
+git commit -m "test: [descripcion de los cambios en las pruebas]"
+```
+- chore: Cambios en la configuración
+```
+git commit -m "chore: [descripcion de los cambios en la configuracion]"
+```
+
+Este modelo proporciona una estructura organizada que ayuda a los desarrolladores a entender el flujo de trabajo y colaborar de manera efectiva.
+
 ### **5.1.3. Source Code Style Guide & Conventions**
+
+En el desarrollo del proyecto utilizaremos los siguientes lenguajes y tecnologías: HTML, CSS, JavaScript, Angular y PrimeFlex. A continuación se detallan las convenciones y guías de estilo:
+
+- HTML: Utilizado para diseñar páginas web mediante etiquetas que definen el contenido de la página, como texto, imágenes, vídeos, etc.
+
+- CSS:
+
+  - Variables de colores: Los colores globales se definen en el archivo de estilos principal usando variables en el selector :root, facilitando la reutilización y mantenimiento de los estilos en toda la página.
+
+Convenciones:
+Nombres de Clases Compuestas: Usar guiones (-) para unir las palabras en nombres de clases compuestas.
+
+```
+.box-container {
+}
+```
+Unidad de Medida rem: Usar rem para mantener un diseño responsivo y consistente.
+```
+font-size: 1rem;
+```
+
+- Angular: Framework para construir aplicaciones web modernas.
+
+Convenciones:
+Uso de Componentes: Importar y utilizar componentes siguiendo la documentación oficial.
+
+```
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-root',
+  template: `<button (click)="handleClick()">Click Me</button>`,
+})
+export class AppComponent {
+  handleClick() {
+    console.log('Button clicked');
+  }
+}
+```
+
+- Estructura del Proyecto: Mantener una estructura clara y consistente para los módulos, componentes y servicios.
+- Nombres de Archivos: Utilizar el formato kebab-case para nombres de archivos y carpetas.
+- Servicios: Seguir el patrón de inyección de dependencias para gestionar servicios y mantener una alta cohesión y bajo acoplamiento.
+
 ### **5.1.4. Software Deployment Configuration**
+
+Para desplegar la página de inicio del proyecto, optamos por Netlify, una plataforma que proporciona alojamiento para sitios web estáticos y dinámicos con una integración sencilla desde un repositorio. Hemos creado un repositorio donde subiremos las versiones del proyecto y utilizaremos Netlify para gestionar el despliegue y publicación del sitio web.
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**
