@@ -1540,8 +1540,36 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
+
+<div align="center">
+<img src="Images/diagrama_contexto.png" alt="Diagrama Contexto" width="800"></a><br>
+<br>
+</div>
+
 ### **4.6.2. Software Architecture Container Diagrams**
+
+<div align="center">
+<img src="Images/diagrama_contenedores.png" alt="Diagrama Contenedores" width="800"></a><br>
+<br>
+</div>
+
 ### **4.6.3. Software Architecture Components Diagrams**
+
+<b> Diagrama de Componentes FrontEnd </b>
+
+<div align="center">
+<img src="Images/diagrama_componentes_frontend.png" alt="Diagrama Componentes FrontEnd" width="800"></a><br>
+<br>
+</div>
+
+<b> Diagrama de Componentes BackEnd </b>
+
+<div align="center">
+<img src="Images/diagrama_componentes_backend.png" alt="Diagrama Componentes BackEnd" width="800"></a><br>
+<br>
+</div>
+
+<b> Link del WorkSpace en Structurizr </b> https://structurizr.com/share/87248/9dda83a9-788b-4a41-9bf6-0eab6abebca2
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
