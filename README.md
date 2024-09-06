@@ -610,7 +610,7 @@ Para mejorar la navegación y comprensión, SafeChild utilizará un sistema de e
 - Historial de Servicios
   
 ### **4.2.3. SEO Tags and Meta Tags**
-
+<pre>
 <!-- Title Tag -->
 <title>SafeChild | Connecting Families with Trustworthy Childcare Providers</title>
 
@@ -629,43 +629,44 @@ Para mejorar la navegación y comprensión, SafeChild utilizará un sistema de e
 <!-- Viewport Tag for Mobile Responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
 
+</pre>
 
 ### **4.2.4. Searching Systems**
 
 El sistema de búsqueda dentro de la plataforma permitirá a los padres y cuidadores encontrar la información que necesitan de manera rápida y eficaz.
 
-<b> 1. Búsqueda por Tipo de Cuidado: </b>
+<b> 1. Búsqueda por Tipo de Cuidado: </b> <br>
 Los padres pueden buscar cuidadores por tipo de cuidado, como "cuidado nocturno", "cuidado a tiempo completo" o "cuidado de niños con necesidades especiales".
 
-<b> 2. Búsqueda por Ubicación: </b>
+<b> 2. Búsqueda por Ubicación: </b> <br>
 Los padres pueden filtrar los resultados de búsqueda de cuidadores según la proximidad a su hogar.
 
-<b> 3. Búsqueda por Disponibilidad: </b>
+<b> 3. Búsqueda por Disponibilidad: </b> <br>
 Se ofrece una búsqueda avanzada que permite a los padres buscar cuidadores según la disponibilidad en días y horarios específicos.
 
-<b> 4. Búsqueda por Calificaciones:
+<b> 4. Búsqueda por Calificaciones: </b> <br>
 Los padres pueden buscar cuidadores con las mejores calificaciones y opiniones de otros usuarios.
 
-<b> 5. Búsqueda por Precio: </b>
+<b> 5. Búsqueda por Precio: </b> <br>
 Los usuarios pueden filtrar cuidadores según sus tarifas, buscando servicios que se ajusten a su presupuesto.
 
 ### **4.2.5. Navigation Systems**
 
 El sistema de navegación está diseñado para ofrecer una experiencia fluida, fácil de usar y segura para ambos segmentos (padres y cuidadores).
 
-<b> 1. Menú Principal: </b>
+<b> 1. Menú Principal: </b> <br>
 El menú principal incluirá enlaces a las secciones más importantes: Inicio, Buscar Cuidadores, Registro de Cuidadores, Historial de Servicios y Perfil.
 
-<b> 2. Navegación Contextual: </b>
+<b> 2. Navegación Contextual: </b> <br>
 Cada sección principal tendrá submenús específicos para ayudar a los usuarios a acceder a opciones más detalladas dentro de la plataforma, como filtros de búsqueda o ajustes de perfil.
 
-<b> 3. Botones de Acción Destacados: </b>
+<b> 3. Botones de Acción Destacados: </b> <br>
 Botones llamativos como "Buscar Cuidadores", "Registrar como Cuidador" y "Reservar Servicio" estarán estratégicamente ubicados para facilitar la interacción.
 
-<b> 4. Búsqueda y Filtros Visibles: </b>
+<b> 4. Búsqueda y Filtros Visibles: </b> <br>
 La barra de búsqueda y los filtros estarán siempre visibles para que los usuarios puedan ajustar rápidamente los resultados y encontrar cuidadores de acuerdo a sus preferencias.
 
-<b> 5. Flujo de Navegación Intuitivo: </b>
+<b> 5. Flujo de Navegación Intuitivo: </b> <br>
 Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógico y claro que guía a los usuarios en cada etapa, con mensajes de acción y señales visuales que facilitan el proceso.
 
 ## **4.3. Landing Page UI Design**
