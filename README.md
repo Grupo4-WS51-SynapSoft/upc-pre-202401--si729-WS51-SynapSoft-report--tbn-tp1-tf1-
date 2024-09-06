@@ -147,12 +147,6 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSof
     - [**4.2.1. Organization Systems**](#421-organization-systems)
     - [**4.2.2. Labeling Systems**](#422-labeling-systems)
     - [**4.2.3. SEO Tags and Meta Tags**](#423-seo-tags-and-meta-tags)
-    - [Title Tags:](#title-tags)
-    - [Meta Description](#meta-description)
-    - [Meta Keywords](#meta-keywords)
-    - [Meta Robots](#meta-robots)
-    - [Meta Author](#meta-author)
-    - [Viewport Tag for Mobile Responsiveness](#viewport-tag-for-mobile-responsiveness)
     - [**4.2.4. Searching Systems**](#424-searching-systems)
     - [**4.2.5. Navigation Systems**](#425-navigation-systems)
   - [**4.3. Landing Page UI Design**](#43-landing-page-ui-design)
@@ -617,24 +611,7 @@ Para mejorar la navegación y comprensión, SafeChild utilizará un sistema de e
   
 ### **4.2.3. SEO Tags and Meta Tags**
 
-### Title Tags:
-<title>SafeChild | Connecting Families with Trustworthy Childcare Providers</title>
-
-### Meta Description
-<meta name="description" content="SafeChild is a trusted platform connecting families with qualified childcare providers. Find experienced caregivers or register as a caregiver today.">
-
-### Meta Keywords
-<meta name="keywords" content="childcare, babysitters, caregivers, childcare services, trustworthy care, register as a caregiver, child safety, family services, hire babysitters, certified caregivers, child care search">
-
-### Meta Robots
-<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
-
-### Meta Author
-<meta name="author" content="SynapSoft">
-
-### Viewport Tag for Mobile Responsiveness
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
-
+<img src="./Images/Tags.png" alt="Tags">
 
 ### **4.2.4. Searching Systems**
 
