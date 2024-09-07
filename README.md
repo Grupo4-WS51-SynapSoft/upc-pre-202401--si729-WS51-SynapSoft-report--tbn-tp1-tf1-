@@ -1542,32 +1542,47 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 ### **4.6.1. Software Architecture Context Diagram**
 
 <div align="center">
-<img src="Images/diagrama_contexto.png" alt="Diagrama Contexto" width="800"></a><br>
+<img src="Images/context_diagram.png" alt="Context Diagram" width="800"></a><br>
 <br>
 </div>
 
 ### **4.6.2. Software Architecture Container Diagrams**
 
 <div align="center">
-<img src="Images/diagrama_contenedores.png" alt="Diagrama Contenedores" width="800"></a><br>
+<img src="Images/container_diagram.png" alt="Container Diagram" width="800"></a><br>
 <br>
 </div>
 
 ### **4.6.3. Software Architecture Components Diagrams**
 
-<b> Diagrama de Componentes FrontEnd </b>
+<b> Diagrama de Componentes - User Management Bounded Context </b>
 
 <div align="center">
-<img src="Images/diagrama_componentes_frontend.png" alt="Diagrama Componentes FrontEnd" width="800"></a><br>
+<img src="Images/component_diagram01.png" alt="Component Diagram 01" width="800"></a><br>
 <br>
 </div>
 
-<b> Diagrama de Componentes BackEnd </b>
+<b> Diagrama de Componentes - Payment Bounded Context </b>
 
 <div align="center">
-<img src="Images/diagrama_componentes_backend.png" alt="Diagrama Componentes BackEnd" width="800"></a><br>
+<img src="Images/component_diagram02.png" alt="Component Diagram 02" width="800"></a><br>
 <br>
 </div>
+
+<b> Diagrama de Componentes - Notification Bounded Context </b>
+
+<div align="center">
+<img src="Images/component_diagram03.png" alt="Component Diagram 03" width="800"></a><br>
+<br>
+</div>
+
+<b> Diagrama de Componentes - Appointment Bounded Context </b>
+
+<div align="center">
+<img src="Images/component_diagram04.png" alt="Component Diagram 04" width="800"></a><br>
+<br>
+</div>
+
 
 <b> Link del WorkSpace en Structurizr </b> https://structurizr.com/share/87248/9dda83a9-788b-4a41-9bf6-0eab6abebca2
 
