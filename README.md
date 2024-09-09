@@ -233,6 +233,10 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [Service Features](#service-features)
   - [Contactanos](#contactanos)
     - [**4.3.2. Landing Page Mock-up**](#432-landing-page-mock-up)
+  - [Pantalla Principal](#pantalla-principal-1)
+  - [¿Por qué escogernos?](#por-qué-escogernos-1)
+  - [Service Features](#service-features-1)
+  - [Contactanos](#contactanos-1)
   - [**4.4. Web Applications UX/UI Design**](#44-web-applications-uxui-design)
     - [**4.4.1. Web Applications Wireframes**](#441-web-applications-wireframes)
     - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
@@ -1565,6 +1569,23 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 
 
 ### **4.3.2. Landing Page Mock-up**
+
+## Pantalla Principal
+
+<td><img src="Images/MockupLanding1.png" alt="ImagenInicio" width="1500"></td>
+
+## ¿Por qué escogernos?
+
+<td><img src="Images/MockupLanding2.png" alt="Segundaimagen " width="1500"></td>
+
+## Service Features
+
+<td><img src="Images/MockupLanding3.png" alt="Imagen servicios" width="1500"></td>
+
+## Contactanos
+
+<td><img src="Images/MockupLanding4.png" alt="Contact us" width="1500"></td>
+
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
