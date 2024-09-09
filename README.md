@@ -1515,8 +1515,55 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 
 # <font color="red">**Capítulo IV: Product Design**</font>
 
-## **4.1. Style Guidelines**
+El diseño del producto es una fase crucial en el desarrollo de SafeChild, ya que determina cómo los padres interactuarán con la plataforma, asegurando que la experiencia de usuario sea simple, eficiente y confiable. En este capítulo, detallamos el proceso de diseño seguido para SafeChild, desde las pautas de estilo general hasta la arquitectura de software y la base de datos. Cada sección refleja nuestro enfoque en crear una experiencia de usuario que priorice la facilidad de uso y la confianza en la conexión con niñeras y profesores calificados, tanto en la landing page como en las aplicaciones web.
+
+### **4.1. Style Guidelines**
+En SafeChild, establecimos pautas de estilo claras para garantizar una experiencia visual coherente y profesional. Definimos tanto aspectos generales como específicos para la web, con el objetivo de transmitir confianza y accesibilidad a los usuarios.
+
 ### **4.1.1. General Style Guidelines**
+
+**Task:**
+En esta sección, se detallarán las directrices generales de estilo que guiarán el diseño y la presentación de SafeChild. Estas directrices asegurarán que todos los elementos visuales y textuales sean coherentes y alineados con la identidad de nuestra marca, proporcionando una experiencia de usuario fluida, confiable y profesional.
+
+**Insight:**
+La consistencia en el estilo y diseño es crucial para establecer una identidad de marca sólida y reconocible en SafeChild. Una guía de estilo clara ayuda a mantener la coherencia a lo largo del proyecto, asegurando que la plataforma refleje confianza y profesionalismo en cada interacción, facilitando la navegación y el uso para los padres que buscan cuidadores y profesores confiables.
+
+**Branding:**
+Nuestro logo representa a SafeChild con una figura que sostiene una estrella, simbolizando el cuidado y la confianza que ofrecemos a través de la plataforma. El diseño transmite seguridad y profesionalismo, dos de los valores fundamentales de SafeChild. La tipografía utilizada es moderna y accesible, asegurando legibilidad y fácil reconocimiento del nombre de la marca.
+
+<div align="center">
+<img src="Images/faviconsafechild.png" alt="logo safe child" width="800"></a><br>
+<br>
+</div>
+
+**Typography:**
+Se seleccionó una tipografía moderna, limpia y accesible, diseñada para ser legible en dispositivos móviles y de escritorio. La elección de la tipografía tiene como objetivo mejorar la experiencia de lectura y navegación, asegurando que toda la información relevante sea clara para los usuarios.
+
+<div align="center">
+<img src="Images/tipografiasafechild.png" alt="logo safe child" width="800"></a><br>
+<br>
+</div>
+
+Colors:
+
+**#F7F6F6:** Color de fondo neutro que aporta simplicidad y limpieza a la interfaz.
+**#5CAFF8:** Azul principal utilizado para resaltar elementos clave como botones y encabezados, representando la seguridad y confianza.
+**#6DD8F0:** Azul complementario, aplicado en elementos secundarios para crear una sensación de equilibrio y armonía visual.
+**#0D3A5A:** Azul oscuro usado para el texto principal, proporcionando legibilidad y contraste adecuado en toda la plataforma.
+**#E1D568:** Amarillo utilizado en detalles y elementos decorativos, aportando un toque de calidez.
+**#65C1C0:** Verde suave para complementar el esquema de colores y reforzar el sentido de tranquilidad y bienestar.
+
+<div align="center">
+<img src="Images/colorsafechild.png" alt="logo safe child" width="800"></a><br>
+<br>
+</div>
+
+**Spacing:**
+Se utiliza un espaciado base de 4px para padding y margin en todos los elementos, lo que asegura una apariencia uniforme y ordenada en la interfaz. Este enfoque crea una estructura visual clara y organizada que facilita la navegación, mejorando la experiencia de usuario en dispositivos móviles y web.
+
+
+
+
 ### **4.1.2. Web Style Guidelines**
 ## **4.2. Information Architecture**
 
