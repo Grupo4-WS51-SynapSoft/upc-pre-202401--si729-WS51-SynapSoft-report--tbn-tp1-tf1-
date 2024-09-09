@@ -188,17 +188,31 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**2.1.2. Estrategias y tácticas frente a competidores**](#212-estrategias-y-tácticas-frente-a-competidores)
   - [**2.2. Entrevistas**](#22-entrevistas)
     - [**2.2.1. Diseño de entrevistas**](#221-diseño-de-entrevistas)
+      - [Entrevista General:](#entrevista-general)
+      - [Para Padres:](#para-padres)
+      - [Para Cuidadores (Niñeras y Tutores)](#para-cuidadores-niñeras-y-tutores)
     - [**2.2.2. Registro de entrevistas**](#222-registro-de-entrevistas)
     - [**2.2.3. Análisis de entrevistas**](#223-análisis-de-entrevistas)
   - [**2.3. Needfinding**](#23-needfinding)
     - [**2.3.1. User Personas**](#231-user-personas)
+      - [**User Persona 1: Fabrizio**](#user-persona-1-fabrizio)
+    - [**User Persona 2: Johan**](#user-persona-2-johan)
     - [**2.3.2. User Task Matrix**](#232-user-task-matrix)
+    - [Explicación de la tabla](#explicación-de-la-tabla)
     - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
+    - [Journey Map Padres](#journey-map-padres)
+    - [Journey Map Cuidadores](#journey-map-cuidadores)
     - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
+      - [Padres de familia](#padres-de-familia)
+      - [Niñeras y Tutores](#niñeras-y-tutores)
     - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
+      - [Padres de familia](#padres-de-familia-1)
+      - [Niñeras y Tutores](#niñeras-y-tutores-1)
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
+      - [Padres de familia](#padres-de-familia-2)
+      - [Niñeras y Tutores](#niñeras-y-tutores-2)
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
@@ -214,6 +228,10 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**4.2.5. Navigation Systems**](#425-navigation-systems)
   - [**4.3. Landing Page UI Design**](#43-landing-page-ui-design)
     - [**4.3.1. Landing Page Wireframe**](#431-landing-page-wireframe)
+  - [Pantalla Principal](#pantalla-principal)
+  - [¿Por qué escogernos?](#por-qué-escogernos)
+  - [Service Features](#service-features)
+  - [Contactanos](#contactanos)
     - [**4.3.2. Landing Page Mock-up**](#432-landing-page-mock-up)
   - [**4.4. Web Applications UX/UI Design**](#44-web-applications-uxui-design)
     - [**4.4.1. Web Applications Wireframes**](#441-web-applications-wireframes)
@@ -1528,6 +1546,24 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
+
+## Pantalla Principal
+
+<td><img src="Images/LandingPageWireframe1.png" alt="Imagen del Inicio" width="1500"></td>
+
+## ¿Por qué escogernos?
+
+<td><img src="Images/LandingPageWireframe2.png" alt="Segunda imagen " width="1500"></td>
+
+## Service Features
+
+<td><img src="Images/LandingPageWireframe3.png" alt="Imagen de los servicios" width="1500"></td>
+
+## Contactanos
+
+<td><img src="Images/LandingPageWireframe4.png" alt="Imagen del Contact us" width="1500"></td>
+
+
 ### **4.3.2. Landing Page Mock-up**
 
 ## **4.4. Web Applications UX/UI Design**
