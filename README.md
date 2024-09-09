@@ -1288,59 +1288,50 @@ Este lenguaje facilita la comprensión y el consenso en torno a los conceptos y 
       Dado que el visitante llega a la landing page Cuando el visitante carga la página Entonces el visitante visualizara un mensaje claro y atractivo que da la bienvenida y explica brevemente el propósito de la plataforma.<br>
      <td>EP06</td>
   </tr>
-  <tr>
     <td>US20</td>
-    <td>Visualización  del Landing Page</td>
+    <td>Navegacion</td>
     <td>
-      Como visitante, quiero entender qué es la plataforma al llegar a la landing page, para evaluar si es una solución adecuada para ofrecer y recivir el servicio de cuidado.
+      Como visitante, quiero un navbar intuitivo para que pueda navegar fácilmente por el sitio.
     </td>
     <td>
-      Escenario 1: Mensaje Claro de Bienvenida<br>
-      Dado que el visitante llega a la landing page Cuando el visitante carga la página Entonces el visitante visualizara un mensaje claro y atractivo que da la bienvenida y explica brevemente el propósito de la plataforma.<br>
+      Escenario 1: Visualizacion del Navbar<br>
+      Dado que el visitante está en la landing page, Cuando visualiza la barra de navegación en la parte superior de la página, Entonces debe ver los enlaces a las secciones principales del sitio: home, Suscripciones, etc. <br>
      <td>EP07</td>
   </tr>
   <tr>
     <td>US21</td>
-    <td>Descripción de Beneficios Ofrecidos</td>
+    <td>Visualización del inicio</td>
     <td>
-      Como visitante, quiero ver claramente los beneficios de usar la plataforma, para decidir si me registro.
+      Como visitante, quiero ver la sección "Why Choose Us?" en la página de inicio para entender las razones para elegir este proyecto o servicio.
     </td>
     <td>
-      Escenario 1: Descripción de Beneficios<br>
-      Dado que el visitante está en la landing page, Cuando el visitante revisa el contenido de la página Entonces el visitante encuentra una descripción detallada de los Beneficios de cuidado que la plataforma ofrece, tanto para quienes buscan cuidado como para quienes lo proporcionan.<br>
+      Escenario 1: Visualización del inicio del landing page<br>
+      Dado que el visitante accede a la página de inicio, Cuando desplaza hacia abajo por la página, Entonces visualizara una sección claramente titulada "Why Choose Us?" que presenta los beneficios o razones destacadas para elegir el proyecto, con texto y/o imágenes explicativas.<br>
      <td>EP07</td>
   </tr>
   <tr>
     <td>US22</td>
-    <td>Visualización de testimonios</td>
+    <td>Visualizacion de Suscripciones</td>
     <td>
-      Como visitante, quiero leer testimonios de otros tutores o cuidadores que han usado la plataforma, para sentirme más confiado en la elección de usarla.
+      Como visitante, quiero tener la opción de suscribirme para recibir actualizaciones y contenido relevante.
     </td>
     <td>
-      Escenario 1: Visualización de testimonios<br>
-      Dado que el visitante quiere conocer la experiencia de otros usuarios Cuando el visitante revisa la landing page en la sección de "testimonios" Entonces el visitante ve testimonios y reseñas de usuarios anteriores o actuales, que destacan la efectividad y satisfacción con la plataforma.<br>
+      Escenario 1: Visualización de Suscripciones<br>
+      Dado que el visistante visita la sección de Suscripciones, Cuando se encuentra en la página de suscripción, Entonces visualizara dos opciones de planes de suscripción claramente diferenciados, con descripciones y precios para cada plan.<br>
      <td>EP07</td>
   </tr>
+
   <tr>
     <td>US23</td>
-    <td>Llamada a la acción</td>
+    <td>Visualización de reseñas</td>
     <td>
-      Como visitante, deseo contactarme con la aplicación para registrarme o probar la plataforma.
+      Como visitante, quiero ver la sección de Reseñas y el pie de página para conocer la opinión de otros usuarios sobre el proyecto y tener acceso a la información de contacto y enlaces importantes.
     </td>
     <td>
-      Escenario 1: Visualización de testimonios<br>
-      Dado que el visitante está listo para actuar Cuando el visitante navega por la página Entonces el visitante encuentra llamadas a la acción claras y prominentes, como botones para registrarse, solicitar más información, o probar la plataforma<br>
-     <td>EP07</td>
-  </tr>
-  <tr>
-    <td>US24</td>
-    <td>Visualización de Planes</td>
-    <td>
-      Como visitante, deseo visualizar los planes que ofrece la aplicación para ves los beneficios que ofrecen.
-    </td>
-    <td>
-      Escenario 1: Visualización de testimonios<br>
-      Dado que el visitante quiere conocer los planes de la aplicación Cuando el visitante revisa la landing page en la sección de "Planes" Entonces el visitante visualizara todos los planes que se brindan dentro de la aplicación.<br>
+      Escenario 1: Visualización de reseñas<br>
+      Dado que el visitante accede a la seccion de reseñas, Cuando visualiza la sección de Reseñas, Entonces visualizara una lista clara y detallada de reseñas de usuarios anteriores, con comentarios y calificaciones que reflejan sus experiencias con el proyecto o servicio.<br>
+      Escenario 2: Visualización de footer <br>
+      Dado que el usuario llega al final de la página, Cuando visualiza el pie de página (footer),Entonces debe encontrar información relevante organizada de manera clara.
      <td>EP07</td>
   </tr>
 </TABLE>
@@ -1958,6 +1949,7 @@ En el desarrollo del proyecto utilizaremos los siguientes lenguajes y tecnologí
 
   - Variables de colores: Los colores globales se definen en el archivo de estilos principal usando variables en el selector :root, facilitando la reutilización y mantenimiento de los estilos en toda la página.
 
+
 Convenciones:
 Nombres de Clases Compuestas: Usar guiones (-) para unir las palabras en nombres de clases compuestas.
 
@@ -1995,18 +1987,254 @@ export class AppComponent {
 
 ### **5.1.4. Software Deployment Configuration**
 
-Para desplegar la página de inicio del proyecto, optamos por Netlify, una plataforma que proporciona alojamiento para sitios web estáticos y dinámicos con una integración sencilla desde un repositorio. Hemos creado un repositorio donde subiremos las versiones del proyecto y utilizaremos Netlify para gestionar el despliegue y publicación del sitio web.
+Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una plataforma que ofrece alojamiento para sitios web estáticos directamente desde un repositorio de GitHub. Hemos creado un repositorio en GitHub donde subiremos las versiones del proyecto y utilizaremos GitHub Pages para gestionar el despliegue y la publicación del sitio web.
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**
+
 ### **5.2.1.1. Sprint Planning 1**
+
+<table BORDER>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>07/09/2024</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>El desarrollo de la reunion se realizo virtualmente por medio de Discort</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Meza Camayo, Lynn Jeeferzon /Aliaga Pimentel, George Arturo/ Sánchez Ignacio/ Jefrey Martín/Grandez Mansilla, Jean Pierre</td>
+  </tr>
+  <tr>
+    <td>Sprint 0 Review Summary</td>
+    <td>En este caso recién se realizará el primer sprint</td>
+  </tr>
+  <tr>
+    <td>Sprint 0 Review Summary</td>
+    <td>En este caso recién se realizará el primer sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td>
+    <td>Desarrollar y desplegar el landing page para agregarlo a repositorio del grupo</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>2 semanas</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>8</td>
+  </tr>
+  
+</table>
+
+
 ### **5.2.1.2. Sprint Backlog 1**
+
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 1</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-20</td>
+        <td>Navegacion</td>
+        <td>W-01</td>
+        <td>Apartado de Home y Navbar</td>
+        <td>Se creará una sección HOME y un navbar.</td>
+        <td>2</td>
+        <td>Lynn</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-21</td>
+        <td>Beneficios Destacados</td>
+        <td>W-02</td>
+        <td>Creación de la sección de "Why Choose Us?"</td>
+        <td>Se craerá la sección Why Choose Us? que presenta los beneficios o razones destacadas del producto</td>
+        <td>2</td>
+        <td>Georgy</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-23</td>
+        <td>Visualización de Suscripciones</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Planes</td>
+        <td>Creación de una seccion de suscripciones con descripciones y precios para cada plan</td>
+        <td>2</td>
+        <td>Jean</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-23</td>
+        <td>Visualización de Reseñas</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Reseñas y pie de pagina</td>
+        <td>Creación de una seccion de Reseñas y el pie de página para conocer la opinión de otros usuarios </td>
+        <td>2</td>
+        <td>Jefrey</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft>
+
 ### **5.2.1.3. Development Evidence for Sprint Review**
+
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>Landing-page</td>
+        <td>Develop</td>
+        <td>55374c84feddb94a8ea197a2b0f0ee36ede9c450</td>
+        <td>git commit part jefrey</td>
+        <td>Agrego el modelo del landing apge y el apartado de reseñas y footer</td>
+        <td>06/09/2024</td>
+    </tr>
+    <tr>
+        <td>Landing-page</td>
+        <td>Develop</td>
+        <td>b0b34b6bdfd01cc0133ca3d9084c9b585af60b59</td>
+        <td>git commit feat:implementation of the home section and the header</td>
+        <td>Se implemento la sección Home y el navbar</td>
+        <td>09/04/2024</td>
+    </tr>
+    <tr>
+        <td>Landing-page</td>
+        <td>Develop</td>
+        <td>921d85b952c47c44c9151eed615b0c6eb32a544f</td>
+        <td>git commit feat: section subscription added</td>
+        <td>Se implemento la sección de suscripción</td>
+        <td>13/03/2024</td>
+    </tr>
+        <tr>
+        <td>Landing-page</td>
+        <td>Develop</td>
+        <td>83c5dc7a9de846dcae063591e5fe48bc6a29de5e</td>
+        <td>feat: Update Landing</td>
+        <td>Se implemento "Why Choose Us?"</td>
+        <td>09/09/2024</td>
+    </tr>
+</table>
+
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>Unit-Test</td>
+        <td>main</td>
+        <td>aed6eb913afc1e9a16dc81bf35b41423e90197eb</td>
+        <td>git commit feat: Unit test Sprint 1/td>
+        <td>Se desarrollo los Unit Test del Sprint 1</td>
+        <td>09/09/2024</td>
+    </tr>
+ </table>
+
 ### **5.2.1.5. Execution Evidence for Sprint Review**
+
+En este Sprint, se logró el desarrollo del landing page. A continuación, presentamos capturas de pantalla de las principales vistas implementadas en este Sprint:
+
+- Navbar:
+<div align="center">
+  <img src="Images/nabvar-landing-page.png">
+</div>
+
+- Home:
+<div align="center">
+  <img src="Images/home-landingPage.png">
+</div>
+
+- Why Choose Us?:
+<div align="center">
+  <img src="Images/Why Choose Us-landingPage.png">
+</div>
+
+- Subscriptions:
+<div align="center">
+  <img src="Images/Suscription-landingpage.png">
+</div>
+
+- Reviews:
+<div align="center">
+  <img src="Images/review-landingPage.png">
+</div>
+
+- Footer and Contact:
+<div align="center">
+  <img src="Images/footer-contact-landingPage.png">
+</div>
+
 ### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+
+Durante este sprint, se ha completado el desarrollo y la documentación de la landing page. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados a la landing page. Aunque la landing page en sí misma es una interfaz de usuario estático.
+
 ### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+
+<h3>Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en GitHub Pages. A continuación, detallamos los pasos realizados:</h3>
+<ol>
+  <li><strong>Creación del Repositorio en GitHub:</strong> Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.</li>
+  <li><strong>Configuración de la Rama main:</strong> Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.</li>
+  <li><strong>Preparación del Contenido:</strong> Desarrollamos y diseñamos nuestra landing page, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.</li>
+  <li><strong>Generación del Enlace de GitHub Pages:</strong> Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.</li>
+  <li><strong>Despliegue Automático:</strong> GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.</li>
+</ol>
+
+<div align="center">
+  <img src="Images/Despliegue-Sprint1.png">
+</div>
+
+
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
+
+<div align="center">
+  <img src="Images/evidencie-sprint1.png">
+</div>
+<div align="center">
+  <img src="Images/colaboradores-sprint1.png">
+</div>
+
 
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
