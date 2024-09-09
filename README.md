@@ -24,7 +24,6 @@
 | Meza Camayo, Lynn Jeeferzon            | U20201C320    |
 | Aliaga Pimentel, George Arturo         | U20211C273    |
 | Sanchez Ignacio, Jefrey Martin         | U202113324    |
-| Palomino Tito, Abraham Joel            | U202113324    |
 | Grandez Mansilla, Jean Pierre          | U202212484    |
 
 </div>
@@ -108,6 +107,10 @@
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSoft>
 
+URL del Landing-Page desplegado: <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
+
+URL de los Unit-Test: <https://github.com/Grupo4-WS51-SynapSoft/Unit_Test-SafeChild>
+
 En el desarrollo del informe, hemos adoptado un enfoque sistemático utilizando un sistema de control de versiones basado en ramas para organizar y gestionar las actividades de elaboración. Este método ha permitido que cada miembro del equipo trabaje de manera independiente en diferentes aspectos del informe, asegurando una integración eficiente y controlada de los avances.
 
 Entregrable 1 o TB1 : (17-08-24 a 23-08-24)
@@ -152,6 +155,17 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   <div align="center">
   <img src="./Images/Lean UX.png"  style="margin: 10px 0;" width="70%">
   </div> 
+
+**Entregable TB1:**
+
+<div align="center">
+  <img src="./Images/evidencie-sprint1.png"  style="margin: 10px 0;" width="70%">
+</div> 
+
+<div align="center">
+  <img src="./Images/colaboradores-sprint1.png"  style="margin: 10px 0;" width="70%">
+</div> 
+
 
 # <font color="red">**Contenido**</font>
 ### Tabla de contenidos
@@ -280,6 +294,49 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
 - [**Anexos**](#anexos)
 
 # <font color="red">**Student Outcome**</font>
+
+<table >
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  <tr>
+  <tr>
+    <th>Comunica oralmente con efectividad a diferentes rangos de audiencia.</th>
+    <td>
+      <strong>Jean Grandez-TB1</strong><br>
+      Aportó a la colaboración con el equipo de manera efectiva mediante el desarrollo del Lean UX Canvas, Lean UX Problem Statements y Lean UX Assumptions. Además, realizó la creación de User Personas, User Task Matrix y User Journey Mapping, facilitando una comprensión profunda de los usuarios y sus necesidades.<br>
+      <strong>George Aliaga-TB1</strong>
+      Contribuyó al desempeño completo de la realización del Sprint 1, liderando el desarrollo de Lean UX Hypothesis Statements y realizando el análisis competitivo, así como estableciendo estrategias y tácticas frente a la competencia. También desarrolló las General Style Guidelines, Web Style Guidelines y Information Architecture, y colaboró en la elaboración del PPT.<br>
+      <strong>Lynn Meza-TB1</strong><br>
+      Fomentó la colaboración y el liderazgo compartido al participar en la descripción del StartUp y los segmentos objetivos. Desarrolló el Capítulo III: Especificación de Requisitos y trabajó en el Sprint 1 y Software Configuration Management. También se encargó del desarrollo de la sección Home y el navbar de la landing page.<br> 
+      <strong>Jeffrey Sanchez - TB1</strong><br>
+      Conceptualizó las características y soluciones del perfil de la startup, realizó entrevistas al segmento cuidador, y desarrolló la arquitectura de software. Además, trabajó en los Antecedentes y Problemática, así como en la elaboración de Empathy Mapping, As-is Scenario Mapping y To-Be Scenario Mapping. También desarrolló la sección de reseñas y el footer de la landing page.<br>
+    </td>
+    <td>
+    <strong>TB1</strong><br>
+    El equipo demostró una comunicación efectiva al adaptar sus mensajes a diferentes audiencias, presentando información técnica y estratégica de manera clara y comprensible. Esta habilidad facilitó un entendimiento común y alineó los esfuerzos del proyecto, contribuyendo al éxito y a una colaboración eficiente entre todos los miembros y partes interesadas.<br>
+    </td>
+  <tr>
+  <tr>
+    <th>Comunica por escrito con efectividad a diferentes rangos de audiencia</th>
+    <th>
+      <strong>Jean Grandez - TB1</strong><br>
+      Colaboró activamente mediante el uso de un repositorio en GitHub y Trello para agregar los objetivos a desarrollar durante el Sprint 1, facilitando la planificación y el seguimiento de las tareas del equipo.<br>
+      <strong>George Aliaga - TB1</strong><br>
+      Participó en la creación de un entorno colaborativo al desarrollar las distintas metas propuestas para el primer sprint y trabajar en el análisis competitivo y las estrategias de la competencia.<br>
+      <strong>Lynn Meza - TB1</strong><br>
+      Contribuyó al desarrollo de las distintas metas propuestas para el primer sprint, trabajando en la descripción del startup, la especificación de requisitos, y el diseño y desarrollo de la landing page, asegurando la correcta implementación de la sección Home y el navbar.<br>
+      <strong>Jeffrey Sanchez- TB1</strong><br>
+      Mantuvo una comunicación y colaboración constante con los compañeros, facilitando la elaboración del PPT de presentación y asegurando que el contenido refleja adecuadamente el progreso y los resultados del proyecto. Además, gestionó eficazmente la planificación de tareas y la implementación de la arquitectura de software.<br>
+    </th>
+    <th>
+      <strong>TB1:</strong><br>
+      El equipo sobresalió en la comunicación escrita al adaptar documentos y presentaciones para distintos públicos, asegurando que la información técnica y estratégica fuera clara y accesible. Su capacidad para redactar especificaciones, informes y presentaciones adecuadas para diversas audiencias facilitó la comprensión y alineación de objetivos, contribuyendo significativamente al éxito y cohesión del proyecto<br>
+    </th>
+  </tr>
+</table>
+
 
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
@@ -1899,6 +1956,16 @@ Para la gestión de cambios en nuestro repositorio, seguimos el modelo Git Flow,
 ```
 Este modelo da una estructura clara y organizada para que los desarrolladores puedan comprender el flujo de trabajo y colaborar de manera eficiente.
 
+<div align="center">
+  <img src="Images/ramas1.png">
+</div>
+<div align="center">
+  <img src="Images/ramas2.png">
+</div>
+<div align="center">
+  <img src="Images/ramas3.png">
+</div>
+
 **Convenciones de Commits**
 
 Para los nombres de los commits, usamos el estándar Conventional Commits, que proporciona una estructura clara para los mensajes en los commits, facilitando la colaboración y el seguimiento de cambios:
@@ -1988,6 +2055,8 @@ export class AppComponent {
 ### **5.1.4. Software Deployment Configuration**
 
 Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una plataforma que ofrece alojamiento para sitios web estáticos directamente desde un repositorio de GitHub. Hemos creado un repositorio en GitHub donde subiremos las versiones del proyecto y utilizaremos GitHub Pages para gestionar el despliegue y la publicación del sitio web.
+
+Link del Landing Page desplegado: <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**
@@ -2205,6 +2274,8 @@ En este Sprint, se logró el desarrollo del landing page. A continuación, prese
 <div align="center">
   <img src="Images/footer-contact-landingPage.png">
 </div>
+
+Link del landfing apge desplegado: <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
 
 ### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
