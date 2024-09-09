@@ -1546,12 +1546,12 @@ Se seleccionó una tipografía moderna, limpia y accesible, diseñada para ser l
 
 Colors:
 
-**#F7F6F6:** Color de fondo neutro que aporta simplicidad y limpieza a la interfaz.
-**#5CAFF8:** Azul principal utilizado para resaltar elementos clave como botones y encabezados, representando la seguridad y confianza.
-**#6DD8F0:** Azul complementario, aplicado en elementos secundarios para crear una sensación de equilibrio y armonía visual.
-**#0D3A5A:** Azul oscuro usado para el texto principal, proporcionando legibilidad y contraste adecuado en toda la plataforma.
-**#E1D568:** Amarillo utilizado en detalles y elementos decorativos, aportando un toque de calidez.
-**#65C1C0:** Verde suave para complementar el esquema de colores y reforzar el sentido de tranquilidad y bienestar.
+**#F7F6F6:** Color de fondo neutro que aporta simplicidad y limpieza a la interfaz. <br>
+**#5CAFF8:** Azul principal utilizado para resaltar elementos clave como botones y encabezados, representando la seguridad y confianza.<br>
+**#6DD8F0:** Azul complementario, aplicado en elementos secundarios para crear una sensación de equilibrio y armonía visual. <br>
+**#0D3A5A:** Azul oscuro usado para el texto principal, proporcionando legibilidad y contraste adecuado en toda la plataforma. <br>
+**#E1D568:** Amarillo utilizado en detalles y elementos decorativos, aportando un toque de calidez. <br>
+**#65C1C0:** Verde suave para complementar el esquema de colores y reforzar el sentido de tranquilidad y bienestar. <br>
 
 <div align="center">
 <img src="Images/colorsafechild.png" alt="logo safe child" width="800"></a><br>
@@ -1561,10 +1561,28 @@ Colors:
 **Spacing:**
 Se utiliza un espaciado base de 4px para padding y margin en todos los elementos, lo que asegura una apariencia uniforme y ordenada en la interfaz. Este enfoque crea una estructura visual clara y organizada que facilita la navegación, mejorando la experiencia de usuario en dispositivos móviles y web.
 
-
-
-
 ### **4.1.2. Web Style Guidelines**
+
+En SafeChild, la Landing Page se ha diseñado para ofrecer a los padres un acceso fácil y rápido a la información clave, como las opciones de inscripción, los beneficios del servicio y el proceso para conectar con niñeras y profesores de confianza. Esta estructura permite captar la atención de los usuarios desde el primer momento, proporcionando una navegación intuitiva y eficiente.
+
+<div align="center">
+<img src="Images/landingwebinterface.png" alt="landing safe child" width="800"></a><br>
+<br>
+</div>
+
+**Web Style**<br>
+El diseño de la interfaz es completamente responsivo, asegurando que se ajuste a cualquier dispositivo, ya sea un móvil, tableta o computadora de escritorio, sin perder calidad en la presentación. Los elementos clave están organizados para que la experiencia de usuario sea fluida en todas las plataformas.
+
+**Espaciado y Alineación**<br>
+El espaciado se basa en múltiplos de 4px para padding y margin en todos los elementos, asegurando una organización coherente y un diseño limpio. Esto contribuye a una interfaz intuitiva que facilita la interacción de los padres al buscar cuidadores y profesores para sus hijos.
+
+**Colores y Tipografía**<br>
+Se han elegido colores suaves y amigables que transmiten confianza y calidez, como se detalla en la paleta de colores de la plataforma. Los colores, junto con el tamaño y alineación del texto, garantizan una excelente legibilidad en todos los dispositivos. La tipografía empleada distingue claramente los títulos y los textos informativos, manteniendo un estilo profesional que se alinea con la misión de SafeChild.
+
+**Imágenes y Fondos**<br>
+Las imágenes utilizadas en la plataforma son cuidadosamente seleccionadas para representar el objetivo de SafeChild: el bienestar y la educación infantil. Se han optado por imágenes que reflejan confianza y cuidado, alineadas con los valores de la plataforma. El uso de fondos claros y limpios asegura que la atención del usuario permanezca en la información y las llamadas a la acción principales.
+
+
 ## **4.2. Information Architecture**
 
 En SafeChild, buscamos ofrecer una plataforma intuitiva, segura y confiable para conectar a padres que buscan servicios de cuidado infantil y cuidadores que desean registrarse para ofrecer sus servicios. Debido a la naturaleza de los servicios que involucran cuidado infantil y transacciones seguras, la arquitectura de la información es clave para lograr nuestros objetivos. A continuación, se presenta el diseño y organización de la plataforma.
