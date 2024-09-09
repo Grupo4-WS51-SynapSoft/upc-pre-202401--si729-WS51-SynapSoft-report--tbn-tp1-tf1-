@@ -1719,6 +1719,14 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
 ### **4.3.2. Landing Page Mock-up**
+
+<a href="landing"><img src="./Images/mockup01.png" alt="mockup1" border="0"></a>
+<a href="landing"><img src="./Images/mockup02.png" alt="mockup2" border="0"></a>
+<a href="landing"><img src="./Images/mockup03.png" alt="mockup3" border="0"></a>
+<a href="landing"><img src="./Images/mockup04.png" alt="mockup4" border="0"></a>
+<a href="landing"><img src="./Images/mockup05.png" alt="mockup5" border="0"></a>
+<a href="landing"><img src="./Images/mockup06.png" alt="mockup6" border="0"></a>
+
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
 ### **4.4.2. Web Applications Wireflow Diagrams**
