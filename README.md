@@ -175,8 +175,6 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [How much (¿Cuánto?)](#how-much-cuánto)
     - [**1.2.2 Lean UX Process**](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [Problem Statement para Padres:](#problem-statement-para-padres)
-      - [Problem Statement para Cuidadores:](#problem-statement-para-cuidadores)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
@@ -188,17 +186,31 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**2.1.2. Estrategias y tácticas frente a competidores**](#212-estrategias-y-tácticas-frente-a-competidores)
   - [**2.2. Entrevistas**](#22-entrevistas)
     - [**2.2.1. Diseño de entrevistas**](#221-diseño-de-entrevistas)
+      - [Entrevista General:](#entrevista-general)
+      - [Para Padres:](#para-padres)
+      - [Para Cuidadores (Niñeras y Tutores)](#para-cuidadores-niñeras-y-tutores)
     - [**2.2.2. Registro de entrevistas**](#222-registro-de-entrevistas)
     - [**2.2.3. Análisis de entrevistas**](#223-análisis-de-entrevistas)
   - [**2.3. Needfinding**](#23-needfinding)
     - [**2.3.1. User Personas**](#231-user-personas)
+      - [**User Persona 1: Fabrizio**](#user-persona-1-fabrizio)
+    - [**User Persona 2: Johan**](#user-persona-2-johan)
     - [**2.3.2. User Task Matrix**](#232-user-task-matrix)
+    - [Explicación de la tabla](#explicación-de-la-tabla)
     - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
+    - [Journey Map Padres](#journey-map-padres)
+    - [Journey Map Cuidadores](#journey-map-cuidadores)
     - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
+      - [Padres de familia](#padres-de-familia)
+      - [Niñeras y Tutores](#niñeras-y-tutores)
     - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
+      - [Padres de familia](#padres-de-familia-1)
+      - [Niñeras y Tutores](#niñeras-y-tutores-1)
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
+      - [Padres de familia](#padres-de-familia-2)
+      - [Niñeras y Tutores](#niñeras-y-tutores-2)
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
@@ -286,113 +298,57 @@ La misión de SynapSoft es diseñar y desarrollar soluciones tecnológicas innov
 
 ### **1.2.1 Antecedentes y problemática**
 ### What (¿Qué?)
-**Problema:** La creciente dificultad para acceder a cuidadores calificados y confiables para el cuidado infantil y la educación en el hogar. Este problema se traduce en un déficit en la atención personalizada que los niños necesitan para su desarrollo.  
-**Consecuencias:** Esta situación genera un alto nivel de estrés en los padres, quienes se sienten inseguros acerca del bienestar de sus hijos y la calidad de la educación que reciben en ausencia de supervisión adecuada.
+La creciente demanda de servicios de cuidado infantil y la falta de acceso a cuidadores calificados y confiables representan un problema importante en el Perú. Las familias, en especial aquellas con varios hijos o encabezadas por padres que trabajan, se ven afectadas por la escasez de opciones que garanticen la seguridad y el desarrollo adecuado de los niños. Esta problemática tiene graves consecuencias, incluyendo el aumento del estrés parental y posibles efectos negativos en el desarrollo infantil.
+
 
 ### Who (¿Quién?)
-**Afectados:** Principalmente, padres y tutores que requieren apoyo adicional para equilibrar sus responsabilidades laborales y familiares. Este grupo incluye padres trabajadores, madres solteras y familias con múltiples hijos.  
-**Cuidadores:** Niñeras, tutores y educadores en busca de oportunidades laborales, quienes a menudo carecen de una plataforma eficiente para conectarse con las familias que necesitan sus servicios.
+El problema afecta principalmente a los padres, madres solteras y tutores que necesitan equilibrar sus responsabilidades laborales y familiares. También impacta a los cuidadores potenciales, como niñeras y tutores, que tienen dificultades para conectarse con las familias que requieren sus servicios. Los niños, quienes dependen de un entorno de cuidado seguro y estimulante para su desarrollo, también se ven afectados por esta situación.
 
 ### Where (¿Dónde?)
-**Contexto:** En entornos urbanos y suburbanos de Perú, donde las familias enfrentan desafíos logísticos para encontrar cuidadores. Esto se agrava en áreas con alta densidad poblacional y donde las redes familiares son limitadas.
+Este problema es más evidente en áreas urbanas y suburbanas de Perú, donde la densidad poblacional dificulta el acceso a cuidadores calificados. En estas zonas, las familias enfrentan mayores dificultades logísticas para encontrar cuidadores que se adapten a sus necesidades y expectativas..
 
 ### When (¿Cuándo?)
-**Oportunidad:** La demanda de servicios de cuidado infantil y educación ha aumentado notablemente, especialmente tras la pandemia de COVID-19. Muchos padres buscan alternativas flexibles que se adapten a sus horarios y necesidades, haciendo que este sea el momento ideal para abordar esta problemática.
+La problemática ha sido más notable desde la pandemia de COVID-19, que ha exacerbado las dificultades de las familias para encontrar cuidadores confiables debido a cambios en las dinámicas laborales y el distanciamiento social. Sin embargo, la necesidad de servicios de cuidado infantil es una constante que ha ido creciendo en los últimos años debido a las presiones económicas y familiares.
+
+
 
 ### Why (¿Por qué?)
-**Necesidad:** Los padres desean asegurar el bienestar y desarrollo educativo de sus hijos, pero enfrentan barreras como la falta de información sobre cuidadores verificados, altos costos y la incertidumbre sobre la calidad de los servicios disponibles. Esta situación no solo afecta la confianza de los padres, sino que también impacta el desarrollo emocional y educativo de los niños.
+Este problema es el resultado de varios factores: el cambio en las estructuras familiares, el aumento de hogares monoparentales y la falta de redes de apoyo locales. Además, la escasez de cuidadores capacitados y los altos costos del servicio limitan las opciones disponibles para muchas familias. Esta situación afecta desproporcionadamente a las familias de ingresos bajos y medios, que enfrentan barreras económicas para acceder a servicios de calidad (FasterCapital, 2024).
 
 ### How (¿Cómo?)
-**Soluciones:** Se propone desarrollar un sistema integral que facilite la búsqueda y conexión entre padres y cuidadores, garantizando que los perfiles de los cuidadores sean verificados a través de un proceso riguroso. Además, la implementación de recursos educativos y seguimiento del desarrollo infantil puede fortalecer la relación entre padres y cuidadores.
+La falta de una plataforma eficiente para conectar a los cuidadores con las familias que necesitan sus servicios agrava el problema. La búsqueda de cuidadores calificados suele ser lenta y poco efectiva, lo que aumenta la incertidumbre de los padres y reduce las oportunidades de trabajo para los cuidadores. Las familias también enfrentan dificultades al no contar con información clara y accesible sobre los servicios de cuidado infantil disponibles.
 
 ### How much (¿Cuánto?)
-**Impacto económico:** Los costos de contratar cuidadores a menudo son prohibitivos y pueden variar significativamente. La falta de opciones accesibles puede llevar a decisiones que no favorecen el bienestar infantil, lo que a su vez afecta la estabilidad emocional de las familias. La implementación de una plataforma eficiente puede no solo optimizar costos, sino también mejorar la calidad del servicio ofrecido.
+El impacto económico es significativo. Muchas familias no pueden permitirse los costos elevados del cuidado infantil, lo que a menudo las obliga a tomar decisiones que pueden comprometer el bienestar de sus hijos. La escasez de cuidadores capacitados también incrementa los precios, lo que hace que el cuidado infantil de calidad esté fuera del alcance de muchas familias, perpetuando desigualdades socioeconómicas.
 ### **1.2.2 Lean UX Process**
 ### 1.2.2.1. Lean UX Problem Statements
 
-#### Problem Statement para Padres:
+Nuestra plataforma "SafeChild" busca abordar un problema significativo en el cuidado infantil al conectar a padres con cuidadores confiables. Los padres enfrentan dificultades para encontrar opciones de cuidado infantil y educación de calidad en el hogar, lo que genera un alto nivel de estrés y afecta su capacidad para equilibrar responsabilidades laborales y familiares. Al mismo tiempo, los cuidadores y educadores a menudo tienen dificultades para encontrar familias que necesiten sus servicios, lo que limita sus oportunidades laborales y afecta la disponibilidad de servicios adecuados para las familias.
 
-"Los padres enfrentan dificultades para encontrar cuidadores y educadores confiables que ofrezcan un cuidado infantil y educación de calidad en el hogar. Esto genera un alto nivel de estrés, afectando su capacidad para equilibrar responsabilidades laborales y familiares, mientras se aseguran de que sus hijos reciban la atención adecuada."
+¿Cómo podemos resolver la falta de conexión eficiente entre padres que necesitan cuidado infantil de calidad y cuidadores que buscan oportunidades laborales? Al comprender las barreras que enfrentan ambos grupos, nuestro objetivo es superar estos obstáculos mediante una plataforma que facilite la conexión y mejora la disponibilidad y calidad del cuidado infantil, beneficiando tanto a los padres como a los cuidadores.
 
-#### Problem Statement para Cuidadores:
 
-"Los cuidadores y educadores carecen de una plataforma eficiente que les permita conectar con familias que necesitan sus servicios, limitando sus oportunidades laborales y dificultando el acceso de las familias a servicios confiables y personalizados."
 
 ### 1.2.2.2. Lean UX Assumptions
 
-- **Asumimos que** los padres valorarán una plataforma que les permita acceder fácilmente a perfiles verificados de cuidadores y educadores, organizados según sus necesidades específicas.
-  - **Sabremos que esto es cierto cuando** veamos un aumento en el uso regular de la plataforma para reservar servicios.
+  **Business Assumptions** 
 
-- **Asumimos que** los cuidadores y educadores estarán dispuestos a unirse a la plataforma si se les ofrece una audiencia de familias que buscan servicios personalizados y verificados.
-  - **Sabremos que esto es cierto cuando** observemos un incremento en el número de cuidadores registrados y activos.
+<ul> <li><b>Los padres estarán dispuestos a adoptar una plataforma digital para encontrar cuidadores confiables, especialmente si la plataforma ofrece perfiles verificados y opciones personalizadas para el cuidado infantil.</b></li> <li><b>La demanda de servicios de cuidado infantil de calidad está creciendo debido al aumento de la preocupación por la seguridad y el desarrollo infantil en el hogar.</b></li> <li><b>Los cuidadores estarán interesados en unirse a una plataforma que les permita conectarse con familias que buscan sus servicios, especialmente si la plataforma facilita la visibilidad y las oportunidades de empleo.</b></li> <li><b>Existe una capacidad técnica y recursos disponibles para desarrollar y mantener la plataforma SafeChild, asegurando su funcionalidad y escalabilidad.</b></li> <li><b>La accesibilidad y la usabilidad serán características clave para el éxito de la plataforma, garantizando que tanto padres como cuidadores puedan utilizarla de manera efectiva sin importar su nivel de experiencia tecnológica.</b></li> <li><b>El mercado de servicios de cuidado infantil está en crecimiento y presenta oportunidades para el éxito comercial de SafeChild.</b></li> <li><b>La seguridad y la privacidad de los datos de los usuarios serán aspectos fundamentales, y los usuarios confiarán en que sus datos estarán protegidos y manejados de manera responsable.</b></li> <li><b>La plataforma será capaz de adaptarse a diferentes necesidades de cuidado infantil y educativo, lo que atraerá a una amplia variedad de padres y cuidadores que buscan opciones personalizadas y de calidad.</b></li> </ul>
 
-- **Asumimos que** la inclusión de actualizaciones en tiempo real sobre las actividades de los niños será un factor decisivo para los padres al elegir la plataforma.
-  - **Sabremos que esto es cierto cuando** notemos un alto nivel de satisfacción entre los padres que utilizan esta funcionalidad.
 
-- **Asumimos que** los recursos educativos y el seguimiento del desarrollo infantil atraerán tanto a padres como a educadores, mejorando la retención en la plataforma.
-  - **Sabremos que esto es cierto cuando** observemos un uso continuo de estos recursos por parte de ambos grupos.
+  **User Assumptions** 
+  <ul> <li><b>¿Quién es el usuario?:</b> Nuestro segmento objetivo incluye a padres que buscan cuidadores confiables para el cuidado infantil en en el hogar, así como a los mismo cuidadores que desean ofrecer sus servicios a estas familias.</li> <li><b>¿Dónde encaja nuestro producto, en su trabajo o vida?:</b> SafeChild encaja en la vida diaria de los padres que necesitan encontrar y gestionar servicios de cuidado infantil, y en la vida profesional de los cuidadores que buscan oportunidades para ofrecer sus servicios.</li> <li><b>¿Qué problemas tiene nuestro producto y cómo se pueden resolver?:</b> SafeChild enfrenta desafíos como la necesidad de verificar la calidad y la fiabilidad de los cuidadores y educadores, la integración de actualizaciones en tiempo real sobre las actividades de los niños, y la retención de usuarios a través de recursos educativos y seguimiento del desarrollo. Estos problemas pueden abordarse mediante un sistema de verificación riguroso, características de seguimiento y comunicación en tiempo real, y la oferta de recursos educativos valiosos tanto para padres como para cuidadores.</li> <li><b>¿Cuándo y cómo es usado nuestro producto?:</b> SafeChild se utiliza cuando los padres necesitan encontrar y gestionar servicios de cuidado infantil, y cuando los cuidadores buscan oportunidades laborales y conexión con familias. La plataforma se usa para reservas, comunicación y seguimiento de actividades.</li> <li><b>¿Qué características son importantes?:</b> Es crucial que SafeChild ofrezca perfiles verificados de cuidadores, opciones de personalización para adaptarse a las necesidades específicas de cada familia, actualizaciones en tiempo real sobre las actividades de los niños, y recursos educativos útiles.</li> <li><b>¿Cómo debe verse nuestro producto y cómo debe comportarse?:</b> SafeChild debe presentar una interfaz intuitiva y fácil de usar que facilite la búsqueda y reserva de servicios, la comunicación entre padres y cuidadores, y el acceso a recursos educativos. La plataforma debe ofrecer una experiencia de usuario segura y confiable, asegurando que tanto padres como cuidadores puedan navegar y utilizar sus funciones con facilidad.</li> </ul>
+
 
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
-<ol>
-<li> <b>Creemos que</b> que los padres estarán satisfechos con la capacidad de buscar y seleccionar cuidadores verificados según sus necesidades específicas. <b>Sabremos que</b> esta afirmación sea cierta <b>cuando</b> observemos un alto índice de retención y repetición de reservas de servicios en la plataforma.
-</li>
-<li> <b>Creemos que</b> los cuidadores apreciarán la facilidad de uso de la plataforma para conectar con familias que requieren sus servicios. <b>Sabremos que</b> esta suposición es cierta cuando veamos un incremento en la cantidad de cuidadores registrados y activos en la plataforma.
-</li>
-<li> <b>Creemos que</b> la implementación de un proceso de verificación riguroso para los cuidadores mejorará la confianza de los padres en la plataforma. <b>Sabremos que</b> esta suposición es cierta cuando notemos una reducción en las consultas relacionadas con la seguridad y un aumento en el número de usuarios que completan el proceso de registro.
-</ol>
+<ol> <li><b>Creemos que</b> los padres estarán satisfechos con la capacidad de buscar y seleccionar cuidadores verificados de acuerdo con sus necesidades específicas. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> observemos un alto índice de retención de usuarios y una frecuencia creciente en las reservas de servicios dentro de la plataforma.</li> <li><b>Creemos que</b> los cuidadores valorarán la facilidad de uso de la plataforma para conectarse con familias que buscan sus servicios. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> veamos un aumento en el número de cuidadores registrados y activos, así como una alta tasa de interacción con los perfiles de las familias.</li> <li><b>Creemos que</b> la implementación de un proceso de verificación riguroso para los cuidadores y educadores fortalecerá la confianza de los padres en la plataforma. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> notemos una disminución en las consultas relacionadas con la seguridad y un aumento en el número de usuarios que completan el proceso de registro y confirman sus reservas.</li> <li><b>Creemos que</b> ofrecer actualizaciones en tiempo real sobre las actividades de los niños será un factor decisivo para los padres al elegir utilizar la plataforma. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> observemos una alta tasa de uso de la función de actualizaciones en tiempo real y una mayor satisfacción reportada por los padres en sus evaluaciones.</li> <li><b>Creemos que</b> la disponibilidad de recursos educativos y herramientas de seguimiento del desarrollo infantil mejorará la retención de usuarios tanto para padres como para cuidadores. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> notemos un uso continuo de estos recursos y una mayor fidelización de usuarios a lo largo del tiempo.</li> </ol>
 
 ### **1.2.2.4. Lean UX Canvas**
 
 ##### 1.2.2.1. Lean UX Canvas
-<table>
-  <tr>
-    <th valign="top">
-      <p><b>1. Business Problem</b></p>
-      <p>Los padres tienen dificultades para encontrar cuidadores y educadores confiables para sus hijos, lo que genera estrés y afecta su capacidad para equilibrar sus responsabilidades. Los cuidadores carecen de una plataforma efectiva para ofrecer sus servicios.</p>
-    </th>
-    <th valign="top">
-      <p><b>2. Business Outcomes</b></p>
-      <p>- Aumento en la retención de usuarios (padres y cuidadores).</p>
-      <p>- Incremento en la tasa de reservas repetidas.</p>
-      <p>- Mejora en la satisfacción del usuario.</p>
-      <p>- Expansión de la base de usuarios.</p>
-    </th>
-    <th rowspan="2" valign="top">
-      <p><b>5. Solutions</b></p>
-      <p>- Desarrollo de una plataforma que conecte a padres con cuidadores verificados.</p>
-      <p>- Funcionalidades como la programación de sesiones, actualizaciones en tiempo real, recursos educativos, y seguimiento del desarrollo infantil.</p>
-    </th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><b>3. Users</b></p>
-      <p>- Usuarios primarios: Padres que necesitan servicios de cuidado infantil y educación en el hogar.</p>
-      <p>- Usuarios secundarios: Niñeras, tutores, y educadores en busca de oportunidades laborales.</p>
-      <p>- Clientes: Familias que pagan por los servicios y cuidadores que pagan por publicidad o acceso a más oportunidades.</p>
-    </td>
-    <td valign="top">
-      <p><b>4. User Benefits</b></p>
-      <p>- Padres: Acceso a perfiles verificados de cuidadores y educadores, posibilidad de programar servicios según sus necesidades, y recibir actualizaciones en tiempo real sobre las actividades de sus hijos.</p>
-      <p>- Cuidadores: Oportunidades laborales directas y una plataforma que valida y promueve sus servicios.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><b>6. Hypothesis</b></p>
-      <p>- Creemos que los padres estarán más inclinados a usar la plataforma si pueden confiar en la calidad y verificación de los cuidadores.</p>
-      <p>- Sabremos que esta suposición es cierta cuando veamos un aumento en la tasa de retención y un mayor uso de las funciones de seguridad.</p>
-    </td>
-    <td valign="top">
-      <p><b>7. What’s the most important thing we need to learn first?</b></p>
-      <p>Necesitamos validar si los usuarios valorarán la seguridad, personalización y la calidad del servicio proporcionado por la plataforma.</p>
-    </td>
-    <td valign="top">
-      <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
-      <p>Lanzaremos una versión beta con funcionalidades clave y analizaremos la adopción y el feedback para validar la propuesta de valor.</p>
-    </td>
-  </tr>
-</table>
+
+<table> <tr> <th valign="top"> <p><b>1. Business Problem</b></p> <p>La creciente demanda de servicios de cuidado infantil y la falta de acceso a cuidadores calificados y confiables en Perú afectan a padres y cuidadores. Las familias enfrentan estrés por la escasez de opciones seguras y adecuadas, mientras que los cuidadores luchan por encontrar oportunidades laborales. La falta de una plataforma eficiente para conectar estos dos grupos agrava el problema.</p> </th> <th valign="top"> <p><b>2. Business Outcomes</b></p> <p>- Aumento en la retención de usuarios (padres y cuidadores).</p> <p>- Incremento en la tasa de reservas repetidas.</p> <p>- Mejora en la satisfacción del usuario.</p> <p>- Expansión de la base de usuarios.</p> </th> <th rowspan="2" valign="top"> <p><b>5. Solutions</b></p> <p>- Desarrollo de una plataforma que conecte a padres con cuidadores verificados.</p> <p>- Funcionalidades como la programación de sesiones, actualizaciones en tiempo real, recursos educativos, y seguimiento del desarrollo infantil.</p> </th> </tr> <tr> <td valign="top"> <p><b>3. Users</b></p> <p>- Usuarios primarios: Padres que necesitan servicios de cuidado infantil y educación en el hogar.</p> <p>- Usuarios secundarios: Niñeras, tutores, y educadores en busca de oportunidades laborales.</p> <p>- Clientes: Familias que pagan por los servicios y cuidadores que pagan por publicidad o acceso a más oportunidades.</p> </td> <td valign="top"> <p><b>4. User Benefits</b></p> <p>- Padres: Acceso a perfiles verificados de cuidadores y educadores, posibilidad de programar servicios según sus necesidades, y recibir actualizaciones en tiempo real sobre las actividades de sus hijos.</p> <p>- Cuidadores: Oportunidades laborales directas y una plataforma que valida y promueve sus servicios.</p> </td> </tr> <tr> <td valign="top"> <p><b>6. Hypothesis</b></p> <p>- Creemos que los padres estarán satisfechos con la capacidad de buscar y seleccionar cuidadores verificados. Sabremos que esta afirmación es cierta cuando observemos un alto índice de retención de usuarios y una frecuencia creciente en las reservas.</p> <p>- Creemos que los cuidadores valorarán la facilidad de uso para conectarse con familias. Sabremos que esta afirmación es cierta cuando veamos un aumento en el número de cuidadores registrados y activos, así como una alta tasa de interacción con los perfiles de las familias.</p> <p>- Creemos que un proceso de verificación riguroso fortalecerá la confianza de los padres. Sabremos que esta afirmación es cierta cuando notemos una disminución en las consultas relacionadas con la seguridad y un aumento en el número de usuarios que completan el proceso de registro y confirman sus reservas.</p> <p>- Creemos que ofrecer actualizaciones en tiempo real será un factor decisivo para los padres. Sabremos que esta afirmación es cierta cuando observemos una alta tasa de uso de esta función y una mayor satisfacción reportada por los padres.</p> <p>- Creemos que la disponibilidad de recursos educativos y herramientas de seguimiento mejorará la retención de usuarios. Sabremos que esta afirmación es cierta cuando notemos un uso continuo de estos recursos y una mayor fidelización a lo largo del tiempo.</p> </td> <td valign="top"> <p><b>7. What’s the most important thing we need to learn first?</b></p> <p>Necesitamos validar si los usuarios valorarán la seguridad, personalización y la calidad del servicio proporcionado por la plataforma.</p> </td> <td valign="top"> <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p> <p>Lanzaremos una versión beta con funcionalidades clave y analizaremos la adopción y el feedback para validar la propuesta de valor.</p> </td> </tr> </table>
 
 
 ## **1.3. Segmentos objetivo**
