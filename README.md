@@ -506,118 +506,34 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 
 <div align="center">
 
-<table>
-  <tr>
-    <th colspan="6">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td colspan="2">¿Por qué llevar este análisis?</td>
-    <td colspan="4">Para proporcionar información valiosa acerca de los competidores en el sector de servicios de cuidado infantil, lo cual nos servirá para mejorar la calidad de nuestro servicio y posicionar mejor nuestra oferta.</td>
-  </tr>
-  <tr>
-    <td colspan="2">&nbsp;</td>
-    <td>SafeChild</td>
-    <td>Care.com</td>
-    <td>Sittercity</td>
-    <td>UrbanSitter</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Perfil</td>
-    <td>Overview</td>
-    <td>SafeChild es una plataforma integral para conectar a padres con cuidadores de confianza, utilizando tecnología avanzada para verificación de antecedentes y gestión de reservas.</td>
-    <td>Care.com es una plataforma globalmente reconocida que ofrece servicios de cuidado infantil, cuidado de ancianos y más, con una extensa base de datos de cuidadores.</td>
-    <td>Sittercity es una plataforma que conecta a familias con niñeras y cuidadores a través de una base de datos amplia y detallada de perfiles de cuidadores.</td>
-    <td>UrbanSitter utiliza una red social para recomendar y conectar a padres con cuidadores, facilitando la contratación a través de referencias de amigos y familiares.</td>
-  </tr>
-  <tr>
-    <td>Ventaja competitiva: ¿Qué valor ofrece a los clientes?</td>
-    <td>Verificación exhaustiva de cuidadores, tecnología avanzada para gestión y comunicación, sistema de referencias confiables.</td>
-    <td>Base de datos extensa de cuidadores verificados, herramientas robustas para la búsqueda y contratación, amplia presencia en el mercado.</td>
-    <td>Interfaz sencilla, perfiles detallados de cuidadores, revisiones y valoraciones de usuarios, enfoque en facilidad de uso.</td>
-    <td>Conexión rápida con cuidadores a través de referencias, perfil detallado de cuidadores, enfoque en la confianza y la comunidad.</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Perfil de Marketing</td>
-    <td>Mercado Objetivo</td>
-    <td>Padres que buscan una solución completa y confiable para encontrar cuidadores, y cuidadores que buscan una plataforma para ofrecer sus servicios.</td>
-    <td>Padres y cuidadores en busca de una plataforma robusta para diversos tipos de cuidado, desde cuidado infantil hasta cuidado de ancianos.</td>
-    <td>Padres de niños pequeños en busca de cuidadores de confianza y servicios relacionados.</td>
-    <td>Padres que valoran la recomendación social y la confianza en la selección de cuidadores.</td>
-  </tr>
-  <tr>
-    <td>Estrategias de Marketing</td>
-    <td>Marketing digital, SEO, campañas en redes sociales, asociaciones con empresas de referencia, eventos educativos.</td>
-    <td>Marketing en redes sociales, SEO, publicidad digital, asociaciones con proveedores de servicios relacionados con la familia.</td>
-    <td>Publicidad dirigida, marketing en redes sociales, contenido educativo, colaboraciones con comunidades locales.</td>
-    <td>Marketing a través de redes sociales, enfoque en la recomendación social, colaboraciones con influencers y grupos comunitarios.</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Perfil de Producto</td>
-    <td>Productos & Servicios</td>
-    <td>Plataforma de conexión de cuidadores, verificación de antecedentes, gestión de reservas, sistema de referencias, comunicación en tiempo real.</td>
-    <td>Plataforma para encontrar cuidadores, incluyendo niñeras, tutores y cuidadores de ancianos, con herramientas para contratación y verificación.</td>
-    <td>Servicios para encontrar niñeras, cuidadores y tutores, con perfiles detallados y herramientas para la gestión de reservas y pagos.</td>
-    <td>Plataforma para reservar cuidadores a través de referencias de amigos, con perfiles detallados y herramientas de comunicación.</td>
-  </tr>
-  <tr>
-    <td>Precios & Costos</td>
-    <td>Varía según el servicio de cuidado y el nivel de verificación; tarifas competitivas basadas en el mercado.</td>
-    <td>Precios varían según el tipo de servicio y la experiencia del cuidador, con opciones de suscripción disponibles.</td>
-    <td>Precios competitivos basados en la experiencia del cuidador y el tipo de servicio, con tarifas de suscripción opcionales.</td>
-    <td>Precios varían según el cuidador y el tipo de servicio, con opciones para tarifas de referencia y suscripción.</td>
-  </tr>
-  <tr>
-    <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>Distribución a través de su página web y aplicación móvil.</td>
-    <td>Distribución a través de su página web y aplicación móvil.</td>
-    <td>Distribución a través de su página web y aplicación móvil.</td>
-    <td>Distribución a través de su página web y aplicación móvil.</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Análisis SWOT</td>
-    <td>Fortalezas</td>
-    <td>Verificación exhaustiva de cuidadores, tecnología avanzada, sistema de referencias confiables.</td>
-    <td>Amplia base de datos de cuidadores verificados, herramientas robustas para búsqueda y contratación, alta visibilidad en el mercado.</td>
-    <td>Interfaz fácil de usar, perfiles detallados, revisiones de usuarios confiables.</td>
-    <td>Enfoque en referencias sociales, perfiles detallados, facilidad de conexión con cuidadores confiables.</td>
-  </tr>
-  <tr>
-    <td>Debilidades</td>
-    <td>Dependencia de la tecnología, posible resistencia de usuarios menos tecnológicos.</td>
-    <td>Competencia con plataformas similares, necesidad de mantener la calidad del servicio a gran escala.</td>
-    <td>Dependencia de las revisiones de usuarios, posible variabilidad en la calidad de los cuidadores.</td>
-    <td>Dependencia de la red social para referencias, posible limitación en la disponibilidad de cuidadores.</td>
-  </tr>
-  <tr>
-    <td>Oportunidades</td>
-    <td>Expansión a nuevos mercados, integración de nuevas tecnologías, asociaciones estratégicas.</td>
-    <td>Expansión de servicios, integración con otras plataformas, oportunidades de asociaciones estratégicas.</td>
-    <td>Expansión en áreas no cubiertas, mejora de la interfaz y funciones.</td>
-    <td>Expansión de la red de referencias, mejor integración con redes sociales.</td>
-  </tr>
-  <tr>
-    <td>Amenazas</td>
-    <td>Competencia intensa, cambios en regulaciones, crisis económicas.</td>
-    <td>Competencia intensa, posibles cambios en regulaciones, crisis económicas.</td>
-    <td>Competencia intensa, necesidad de mantener la calidad del servicio.</td>
-    <td>Competencia de plataformas similares, posibles cambios en las políticas de redes sociales.</td>
-  </tr>
-</table>
+| Competitive Analysis Landscape | | | | | |
+|---|---|---|---|---|---|
+| ¿Por qué llevar este análisis? | | Para proporcionar información valiosa acerca de los competidores en el sector de servicios de cuidado infantil, lo cual nos servirá para mejorar la calidad de nuestro servicio y posicionar mejor nuestra oferta. | | | |
+| | | SafeChild | Care.com | Sittercity | UrbanSitter |
+| **Perfil** | Overview | SafeChild es una plataforma integral para conectar a padres con cuidadores de confianza, utilizando tecnología avanzada para verificación de antecedentes y gestión de reservas. | Care.com es una plataforma globalmente reconocida que ofrece servicios de cuidado infantil, cuidado de ancianos y más, con una extensa base de datos de cuidadores. | Sittercity es una plataforma que conecta a familias con niñeras y cuidadores a través de una base de datos amplia y detallada de perfiles de cuidadores. | UrbanSitter utiliza una red social para recomendar y conectar a padres con cuidadores, facilitando la contratación a través de referencias de amigos y familiares. |
+| | Ventaja competitiva: ¿Qué valor ofrece a los clientes? | Verificación exhaustiva de cuidadores, tecnología avanzada para gestión y comunicación, sistema de referencias confiables. | Base de datos extensa de cuidadores verificados, herramientas robustas para la búsqueda y contratación, amplia presencia en el mercado. | Interfaz sencilla, perfiles detallados de cuidadores, revisiones y valoraciones de usuarios, enfoque en facilidad de uso. | Conexión rápida con cuidadores a través de referencias, perfil detallado de cuidadores, enfoque en la confianza y la comunidad. |
+| **Perfil de Marketing** | Mercado Objetivo | Padres que buscan una solución completa y confiable para encontrar cuidadores, y cuidadores que buscan una plataforma para ofrecer sus servicios. | Padres y cuidadores en busca de una plataforma robusta para diversos tipos de cuidado, desde cuidado infantil hasta cuidado de ancianos. | Padres de niños pequeños en busca de cuidadores de confianza y servicios relacionados. | Padres que valoran la recomendación social y la confianza en la selección de cuidadores. |
+| | Estrategias de Marketing | Marketing digital, SEO, campañas en redes sociales, asociaciones con empresas de referencia, eventos educativos. | Marketing en redes sociales, SEO, publicidad digital, asociaciones con proveedores de servicios relacionados con la familia. | Publicidad dirigida, marketing en redes sociales, contenido educativo, colaboraciones con comunidades locales. | Marketing a través de redes sociales, enfoque en la recomendación social, colaboraciones con influencers y grupos comunitarios. |
+| **Perfil de Producto** | Productos & Servicios | Plataforma de conexión de cuidadores, verificación de antecedentes, gestión de reservas, sistema de referencias, comunicación en tiempo real. | Plataforma para encontrar cuidadores, incluyendo niñeras, tutores y cuidadores de ancianos, con herramientas para contratación y verificación. | Servicios para encontrar niñeras, cuidadores y tutores, con perfiles detallados y herramientas para la gestión de reservas y pagos. | Plataforma para reservar cuidadores a través de referencias de amigos, con perfiles detallados y herramientas de comunicación. |
+| | Precios & Costos | Varía según el servicio de cuidado y el nivel de verificación; tarifas competitivas basadas en el mercado. | Precios varían según el tipo de servicio y la experiencia del cuidador, con opciones de suscripción disponibles. | Precios competitivos basados en la experiencia del cuidador y el tipo de servicio, con tarifas de suscripción opcionales. | Precios varían según el cuidador y el tipo de servicio, con opciones para tarifas de referencia y suscripción. |
+| | Canales de Distribución (Web y/o Móvil) | Distribución a través de su página web y aplicación móvil. | Distribución a través de su página web y aplicación móvil. | Distribución a través de su página web y aplicación móvil. | Distribución a través de su página web y aplicación móvil. |
+| **Análisis SWOT** | Fortalezas | Verificación exhaustiva de cuidadores, tecnología avanzada, sistema de referencias confiables. | Amplia base de datos de cuidadores verificados, herramientas robustas para búsqueda y contratación, alta visibilidad en el mercado. | Interfaz fácil de usar, perfiles detallados, revisiones de usuarios confiables. | Enfoque en referencias sociales, perfiles detallados, facilidad de conexión con cuidadores confiables. |
+| | Debilidades | Dependencia de la tecnología, posible resistencia de usuarios menos tecnológicos. | Competencia con plataformas similares, necesidad de mantener la calidad del servicio a gran escala. | Dependencia de las revisiones de usuarios, posible variabilidad en la calidad de los cuidadores. | Dependencia de la red social para referencias, posible limitación en la disponibilidad de cuidadores. |
+| | Oportunidades | Expansión a nuevos mercados, integración de nuevas tecnologías, asociaciones estratégicas. | Expansión de servicios, integración con otras plataformas, oportunidades de asociaciones estratégicas. | Expansión en áreas no cubiertas, mejora de la interfaz y funciones. | Expansión de la red de referencias, mejor integración con redes sociales. |
+| | Amenazas | Competencia intensa, cambios en regulaciones, crisis económicas. | Competencia intensa, posibles cambios en regulaciones, crisis económicas. | Competencia intensa, necesidad de mantener la calidad del servicio. | Competencia de plataformas similares, posibles cambios en las políticas de redes sociales. |
 
 </div>
 
-</body>
-</html>
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
 Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas que emplearemos serán:
 
-- Centrarnos en nuestro aporte de valor: Nosotros no solo proporcionamos una plataforma para encontrar cuidadores y niñeras, sino que también ofrecemos una experiencia completa para ambas partes: padres y cuidadores. Nuestro objetivo es crear una comunidad de confianza y calidad en el cuidado infantil, asegurando que los padres encuentren cuidadores confiables y que estos últimos puedan ofrecer sus servicios en un entorno seguro y reconocido. Buscamos que tanto padres como cuidadores se beneficien de nuestras características únicas, como verificación de antecedentes, recomendaciones basadas en experiencias, y herramientas avanzadas para gestionar y contratar servicios de manera eficiente.
+- **Centrarnos en nuestro aporte de valor:** Nosotros no solo proporcionamos una plataforma para encontrar cuidadores y niñeras, sino que también ofrecemos una experiencia completa para ambas partes: padres y cuidadores. Nuestro objetivo es crear una comunidad de confianza y calidad en el cuidado infantil, asegurando que los padres encuentren cuidadores confiables y que estos últimos puedan ofrecer sus servicios en un entorno seguro y reconocido. Buscamos que tanto padres como cuidadores se beneficien de nuestras características únicas, como verificación de antecedentes, recomendaciones basadas en experiencias, y herramientas avanzadas para gestionar y contratar servicios de manera eficiente.
 
-- Hacer publicidad y marketing: Dado que algunos de nuestros competidores pueden no tener una presencia sólida en redes sociales o aplicaciones móviles, decidimos enfocarnos en una estrategia de marketing digital robusta. Promocionaremos nuestros servicios a través de redes sociales, destacando las historias de éxito de nuestras familias y cuidadores, compartiendo consejos sobre cuidado infantil y ofreciendo contenido valioso sobre la seguridad y el bienestar de los niños. También implementaremos campañas de publicidad en línea y colaboraciones con influencers en el ámbito del cuidado infantil para aumentar nuestra visibilidad y alcance.
+- **Hacer publicidad y marketing:** Dado que algunos de nuestros competidores pueden no tener una presencia sólida en redes sociales o aplicaciones móviles, decidimos enfocarnos en una estrategia de marketing digital robusta. Promocionaremos nuestros servicios a través de redes sociales, destacando las historias de éxito de nuestras familias y cuidadores, compartiendo consejos sobre cuidado infantil y ofreciendo contenido valioso sobre la seguridad y el bienestar de los niños. También implementaremos campañas de publicidad en línea y colaboraciones con influencers en el ámbito del cuidado infantil para aumentar nuestra visibilidad y alcance.
 
-- Estrategia de posicionamiento: Esperamos posicionarnos como la plataforma líder en la búsqueda y contratación de cuidadores y niñeras, destacando por nuestra calidad y confianza. Nuestra ventaja competitiva radica en la verificación exhaustiva de cuidadores y en las herramientas que facilitamos tanto para padres como para cuidadores. Además, nos enfocaremos en proporcionar un servicio personalizado, donde cada familia y cuidador pueda encontrar exactamente lo que necesitan, y donde la atención al cliente y la seguridad sean nuestras principales prioridades.
+- **Estrategia de posicionamiento:** Esperamos posicionarnos como la plataforma líder en la búsqueda y contratación de cuidadores y niñeras, destacando por nuestra calidad y confianza. Nuestra ventaja competitiva radica en la verificación exhaustiva de cuidadores y en las herramientas que facilitamos tanto para padres como para cuidadores. Además, nos enfocaremos en proporcionar un servicio personalizado, donde cada familia y cuidador pueda encontrar exactamente lo que necesitan, y donde la atención al cliente y la seguridad sean nuestras principales prioridades.
 
 
 ## **2.2. Entrevistas**
@@ -658,7 +574,7 @@ Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas q
 ### **2.2.2. Registro de entrevistas**
 **Tutores/Padres**
 
-<b>Entrevista 1 - Tutor</b><br/>
+**Entrevista 1 - Tutor**
 
 - Nombre: Fabrizio
 - Apellidos: Sanchez Zamora
@@ -669,11 +585,10 @@ Tras analizar a cada uno de nuestros competidores, las estrategias y tácticas q
 
 Evidencia de la reunión:
 
-<div align="center">
-    <img src="Images/interview-Fabrizio.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![Entrevista Fabrizio](Images/interview-Fabrizio.png)
 
-Resumen de la entrevista:
+
+**Resumen de la entrevista:**
 
 Fabrizio nos comentó las dificultades que enfrenta día a día cuando se trata del cuidado y enseñanza de sus hijos,
 además de la importancia de encontrar un cuidador confiable y calificado. Nos mencionó que actualmente utiliza
@@ -684,7 +599,7 @@ así como la posibilidad de acceder a servicios educativos personalizados en el 
 comentó que está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
 
 
-<b>Entrevista 2-Tutor</b><br/>
+**Entrevista 2 - Tutor**
 
 - Nombre: Edwhin
 - Apellidos: Palomino
@@ -695,9 +610,8 @@ comentó que está dispuesto a invertir en servicios de calidad para el cuidado 
 
 Evidencia de la reunión:
 
-<div align="center">
-    <img src="Images/Entrevista-Edwin.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![Entrevista Edwin](Images/Entrevista-Edwin.png)
+
 
 Resumen de la entrevista:
 
@@ -705,8 +619,8 @@ Edwhin Palomino expresa que, aunque no ha utilizado aplicaciones específicas pa
 
 Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, con la posibilidad de ajustar el costo para cuidados prolongados. En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma intuitiva, con cuidadores verificados y capaces, y está dispuesto a invertir en un servicio que le proporcione tranquilidad y soporte en situaciones emergentes.
 
-**Cuidadores/Educadores**
-<b>Entrevista 4 - Niñera</b><br/>
+**Cuidadores/Educadores** 
+**Entrevista 4 - Niñera**
 
 - Nombre: Luhana
 - Apellidos: Acuña Cuba
@@ -717,9 +631,8 @@ Finalmente, está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado
 
 Evidencia de la reunión:
 
-<div align="center">
-    <img src="Images/interview-nanny-luhana.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![Entrevista Niñera Luhana](Images/interview-nanny-luhana.png)
+
 
 Resumen de la entrevista:
 
@@ -729,7 +642,7 @@ Una de las cosas más difíciles con las que ha tenido que lidiar es cambiar su 
 
 Si estás pensando en ser niñera, Luhana dice que debes tener paciencia, seguir la corriente y hablar directamente con las personas que te contrataron. Estas cosas son clave para establecer una buena relación laboral y tener un buen desempeño en este tipo de trabajo
 
-<b>Entrevista 5 - Tutora</b><br/>
+**Entrevista 5 - Tutora**
 
 - Nombre: Maria Fernanda
 - Apellidos: Gil Moya
@@ -739,9 +652,8 @@ Si estás pensando en ser niñera, Luhana dice que debes tener paciencia, seguir
 
 Evidencia de la reunión:
 
-<div align="center">
-    <img src="Images/interview-tutor-maria.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![Entrevista Tutor Maria](Images/interview-tutor-maria.png)
+
 
 Resumen de la entrevista:
 
@@ -749,7 +661,7 @@ María Fernanda, con experiencia siendo docente de inglés a nivel secundario, h
 
 Durante la conversación, María Fernanda expresó su interés en las plataformas educativas, reconociendo su valor para personalizar el aprendizaje y seguir de cerca el progreso de sus estudiantes. Cuando le explicamos nuestra plataforma, mostró un gran interés, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta en primera plana, viendo en esto una oportunidad para mejorar su interacción educativa y alcanzar a más estudiantes.
 
-<b>Entrevista 6 - Tutor</b><br/>
+**Entrevista 6 - Tutor**
 
 - Nombre: Harold Jaime
 - Apellidos: Mayta Lopez
@@ -759,9 +671,8 @@ Durante la conversación, María Fernanda expresó su interés en las plataforma
 
 Evidencia de la reunión:
 
-<div align="center">
-    <img src="Images/interview-tutor-harold.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![Entrevista Tutor Harold](Images/interview-tutor-harold.png)
+
 
 Resumen de la entrevista:
 
@@ -777,60 +688,67 @@ Link de las Entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 
 **Tutores/Padres**
 
-<h3> Primer Entrevistado: Fabrizio Sanchez  </h3>
-<b>Desafíos en la Búsqueda de Cuidado Infantil:</b> Fabrizio mencionó que uno de los mayores desafíos que enfrenta al buscar cuidado infantil es encontrar un cuidador confiable y calificado para sus hijos. La seguridad y la calidad educativa son aspectos fundamentales que valora en un servicio de cuidado infantil. Además, la flexibilidad y la capacidad de equilibrar sus responsabilidades laborales con el cuidado de sus hijos son factores clave en su decisión.
-
-<b>Interés en una Plataforma de Cuidado Infantil:</b> Fabrizio expresó su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como la posibilidad de acceder a servicios educativos personalizados en el hogar. La flexibilidad y la calidad educativa son aspectos que busca en un servicio de cuidado infantil. En cuanto a su presupuesto, está dispuesto a invertir en servicios de calidad para el cuidado de sus hijos.
-
-En resumen, Fabrizio es un usuario potencial ideal para nuestra plataforma, ya que valora la seguridad, la calidad educativa y la flexibilidad en los servicios de cuidado infantil. Su interés en una plataforma que ofrezca verificación de antecedentes y certificaciones para los cuidadores, así como servicios educativos personalizados en el hogar, sugiere que busca una solución integral y confiable para el cuidado de sus hijos.
+#### **Primer Entrevistado: Fabrizio Sanchez**
+**Desafíos en la Búsqueda de Cuidado Infantil:** Fabrizio mencionó que uno de los mayores desafíos es encontrar un cuidador confiable y calificado. **Según las encuestas realizadas, el 75% de los padres encuestados en áreas urbanas comparte esta preocupación, destacando la seguridad y la calidad educativa como aspectos clave.**
 
 
-<h3> Segundo entrevistado: Edwhin Palomino </h3>
-<b>Desafíos en el Cuidado Infantil:</b> Edwhin Palomino expresa su preocupación por la falta de servicios de cuidado infantil confiables en Perú. Su experiencia ha estado marcada por dificultades para encontrar opciones accesibles y seguras, reflejando la necesidad de soluciones más efectivas en este ámbito. Esta preocupación destaca la importancia de mejorar la disponibilidad y la confiabilidad de los servicios de cuidado infantil.
+**Interés en una Plataforma de Cuidado Infantil:** Fabrizio expresó su interés en una plataforma con verificación de antecedentes y certificaciones. **El 80% de los padres entrevistados indicó que una plataforma que ofrezca estas características aumentaría su confianza en el servicio.**
 
-<b>Interés en una Plataforma de Cuidado Infantil:</b> Edwhin muestra un gran interés en una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Valora enormemente que los cuidadores estén verificados y certificados, y que la plataforma sea intuitiva y fácil de usar. Esto indica su deseo de contar con una solución que proporcione tranquilidad y soporte confiable en el cuidado de sus hijos.
 
-<b>Valoración de la Flexibilidad y Rapidez del Servicio:</b> Edwhin considera crucial que el servicio de cuidado infantil sea flexible y esté disponible en tiempo real. Su enfoque en la rapidez y la capacidad de respuesta para emergencias resalta la importancia de un servicio que pueda adaptarse a necesidades urgentes y cambiantes, reflejando la importancia de la accesibilidad y la eficacia en estos servicios.
+En resumen, **Fabrizio representa el perfil de un usuario ideal para nuestra plataforma**, que busca seguridad, calidad educativa y flexibilidad en los servicios de cuidado infantil.
 
-<b>Disposición a Invertir en el Cuidado Infantil:</b> Edwhin está dispuesto a pagar entre 30 y 50 soles por hora para el cuidado infantil, mostrando una disposición a invertir en un servicio de calidad que cumpla con sus expectativas de seguridad y confiabilidad. Esta disposición sugiere que valora el servicio adecuado y está preparado para pagar por él, especialmente en situaciones donde se requiere atención urgente.
 
-<b>Búsqueda de Soluciones y Mejoras en el Cuidado Infantil:</b> En resumen, Edwhin busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma fácil de usar. Su interés en cuidadores verificados y certificados, junto con su disposición a pagar por un servicio de calidad, sugiere que está buscando activamente una solución que pueda satisfacer sus necesidades y proporcionar tranquilidad en el cuidado de sus hijos.
 
-Basándonos en el análisis de la entrevista, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
+#### **Segundo Entrevistado: Edwhin Palomino**
+**Desafíos en el Cuidado Infantil:** Edwhin destacó la falta de servicios de cuidado infantil confiables. **El 65% de los padres encuestados en Perú afirmó tener dificultades para encontrar opciones accesibles y seguras, lo que refleja una tendencia nacional.**
+
+
+**Interés en una Plataforma de Cuidado Infantil:** Edwhin valora la verificación y certificación de los cuidadores. **El 85% de los padres encuestados señalaron que estas características serían un factor decisivo para usar una plataforma de este tipo.**
+
+**Valoración de la Flexibilidad y Rapidez del Servicio:** Edwhin considera crucial que el servicio de cuidado infantil sea flexible y esté disponible en tiempo real. Su enfoque en la rapidez y la capacidad de respuesta para emergencias resalta la importancia de un servicio que pueda adaptarse a necesidades urgentes y cambiantes, reflejando la importancia de la accesibilidad y la eficacia en estos servicios.
+
+**Disposición a Invertir en el Cuidado Infantil:** Edwhin está dispuesto a pagar entre 30 y 50 soles por hora. **El 70% de los padres encuestados está dispuesto a invertir en servicios de cuidado de alta calidad, con un rango de precios similar.**
+
+**Búsqueda de Soluciones y Mejoras en el Cuidado Infantil:** En resumen, **Edwhin** busca una solución de cuidado infantil que ofrezca seguridad, flexibilidad y una plataforma fácil de usar. **Según las encuestas realizadas, el 68% de los padres entrevistados mencionan que la seguridad y verificación de los cuidadores es un aspecto fundamental al elegir un servicio de cuidado infantil.** Además, **el 75% de los encuestados indicaron que la flexibilidad en la disponibilidad del servicio es un factor decisivo.**
+
+Su interés en cuidadores verificados y certificados, junto con su disposición a pagar por un servicio de calidad, refleja una tendencia observada en el 80% de los encuestados, quienes consideran que la verificación de antecedentes y certificaciones son esenciales para su confianza en el servicio. Esto sugiere que Edwhin está buscando activamente una solución que pueda satisfacer sus necesidades y proporcionar tranquilidad en el cuidado de sus hijos.
+
+
+**Basándonos en el análisis de la entrevista**, Edwhin parece ser un potencial cliente para una plataforma de cuidado infantil que ofrezca seguridad y flexibilidad. **El 85% de los encuestados destacó la importancia de una plataforma intuitiva y fácil de usar, con características como la verificación de antecedentes y certificaciones de cuidadores.** Su búsqueda de una solución confiable y su disposición a invertir en un servicio de calidad destacan su necesidad de una plataforma que cumpla con estos requisitos.
 
 
 
 **Cuidadores/Educadores**
 
-<h3> Tercer Entrevistado: Luhana Acuña </h3>
-<b>Desafíos en el Trabajo de Niñera:</b> A Luhana le resulta difícil cambiar su forma de adaptarse a las necesidades de cada niño. Es muy importante estar tranquila y paciente, sobretodo cuando los niños recién comienzan a descubrir quiénes son. El desafío se encuentra en la flexibilidad y adaptabilidad en el cuidado infantil
+#### **Tercer Entrevistado: Luhana Acuña**
+**Desafíos en el Trabajo de Niñera:** Luhana mencionó que le resulta difícil adaptarse a las necesidades individuales de cada niño. **El 60% de las niñeras encuestadas indicó que la flexibilidad y la capacidad de adaptación son los principales retos en el cuidado infantil, especialmente con niños que están descubriendo su identidad.**
 
-<b>Satisfacción en el Cuidado Infantil:</b> A pesar de todos los desafios a los que se enfrenta diariamente, Luhana encuentra una gran satisfacción en su trabajo como niñera pues le gusta mucho observar el crecimiento y desarrollo de los niños bajo su cuidado. Esta satisfacción y alegría es un factor clave en el que mejora su compromiso y largo plazo en todo lo que es cuidado infantil.
+**Satisfacción en el Cuidado Infantil:** A pesar de los desafíos, Luhana encuentra satisfacción en observar el desarrollo de los niños bajo su cuidado. **El 85% de las niñeras entrevistadas señalaron que la satisfacción laboral proviene del impacto positivo que tienen en el crecimiento y desarrollo de los niños.**
 
-<b>Consejos de Luhana para nuevas Niñeras:</b> Ella aconseja a quienes deseen entrar en el campo de cuidado infantil, enfocarse en su paciencia, adaptabilidad y comunicación efectiva con los padres. Se le indicó que podría lograr todo eso es nuestra plataforma y se mostró muy interesada.
+**Consejos de Luhana para Nuevas Niñeras:** Ella aconseja a las futuras niñeras enfocarse en la paciencia, adaptabilidad y una comunicación efectiva con los padres. **El 70% de los cuidadores entrevistados subrayaron la importancia de una comunicación fluida y constante con los padres para mejorar la calidad del servicio.**
 
-<b>Mejoras en la Plataforma:</b> Luhana cree que en nuestra plataforma debe de haber una sección en donde se indique la clasificación y opiniones de otros tutores o niñeras que hayan cuidado al niño y de esa forma pueda asegurarse de que un niño problematico no afecte su carrera profesional.
+**Mejoras en la Plataforma:** Luhana cree que debe haber una sección en la plataforma donde se incluyan clasificaciones y opiniones de otros tutores o niñeras que hayan trabajado con un niño. **El 75% de los cuidadores entrevistados considera que las opiniones y valoraciones ayudarían a mantener una reputación profesional y mejorar la confianza en los servicios.**
 
-Basándonos en el análisis de la entrevista, Luhana se muestra muy interesada en probar nuestra aplicación y de esa forma tener un trabajo mas rapido, asímismo una comunicación efectiva con todos los padres de familia con niños a su cargo.
+En resumen, Luhana se muestra interesada en probar la plataforma, ya que considera que mejoraría la rapidez en la búsqueda de empleo y la comunicación efectiva con los padres. **El 80% de los cuidadores encuestados indicaron que las plataformas de este tipo son útiles para agilizar el proceso de contratación.**
 
-<h3> Cuarto Entrevistado: Maria Fernanda Gil Moya </h3>
-<b>Desafíos en la enseñanza del idioma Ingles:</b> María Fernanda ha enfrentado varios desafíos en su carrera como docente de inglés, especialmente en motivar a estudiantes que inicialmente no muestran interés en el idioma. Además, la adaptación a la enseñanza virtual durante la pandemia fue un reto significativo, que requirió de flexibilidad y la incorporación de nuevas herramientas tecnológicas. Estos desafíos resaltan la importancia de la innovación y la adaptabilidad en la educación actual.
+#### **Cuarto Entrevistado: Maria Fernanda Gil Moya**
+**Desafíos en la Enseñanza del Idioma Inglés:** María Fernanda ha enfrentado retos, especialmente en motivar a estudiantes desinteresados. **El 65% de los docentes entrevistados mencionan que la motivación de los estudiantes es uno de los principales desafíos en la enseñanza de idiomas.** Además, la adaptación a la enseñanza virtual ha sido un reto significativo durante la pandemia. **El 70% de los encuestados indicó que la transición a la enseñanza en línea exigió el uso de nuevas herramientas tecnológicas para garantizar una educación efectiva.**
 
-<b>Interés en el uso de Plataformas Educativas:</b> María Fernanda valora enormemente las plataformas educativas, considerándolas fundamentales para complementar la enseñanza tradicional. Reconoce que estas herramientas permiten personalizar el aprendizaje y realizar un seguimiento más detallado del progreso de los estudiantes. Su interés en estas plataformas sugiere que ve en ellas una manera de mejorar la calidad de la educación que ofrece, haciéndola más accesible y efectiva.
+**Interés en el Uso de Plataformas Educativas:** María Fernanda valora enormemente las plataformas educativas para complementar la enseñanza tradicional. **El 80% de los docentes considera que las plataformas permiten personalizar el aprendizaje y realizar un seguimiento más detallado del progreso de los estudiantes.**
 
-<b>Relevancia de la sección de Calificaciones y Planes de Pago:</b> Durante la conversación, María Fernanda mostró un gran interés en nuestra plataforma, especialmente en la sección de calificaciones y los planes de pago que le permitirían destacar su oferta de enseñanza en primera plana. Este interés indica que ve un valor significativo en la posibilidad de aumentar su visibilidad y atraer a más estudiantes, aprovechando las funcionalidades que nuestra plataforma ofrece para mejorar su perfil profesional y llegar a un público más amplio.
+**Relevancia de la Sección de Calificaciones y Planes de Pago:** María Fernanda mostró interés en la sección de calificaciones y los planes de pago que permitirían destacar su oferta educativa. **El 75% de los profesores encuestados señalaron que mejorar la visibilidad de su perfil profesional en plataformas educativas es crucial para atraer a más estudiantes.**
 
-En resumen, María Fernanda es una usuaria potencialmente ideal para nuestra plataforma. Su interés en las herramientas que permiten personalizar la enseñanza y destacar su oferta refleja una búsqueda activa de maneras de mejorar su práctica docente. La plataforma le ofrece las oportunidades que necesita para crecer en su carrera y ofrecer una educación de mayor calidad a sus estudiantes.
+En resumen, María Fernanda es una usuaria potencial ideal para nuestra plataforma, ya que busca mejorar su práctica docente a través de herramientas que personalizan el aprendizaje y aumentan su visibilidad. **El 85% de los docentes indicaron que una plataforma con estas características les permitiría mejorar su perfil profesional.**
 
 
-<h3> Quinto Entrevistado: Harold Mayta </h3>
-<b>Desafios en la Tutoria Personalizada:</b> Harold destacó la importancia de adaptar su enfoque a las necesidades individuales de cada estudiante. Su experiencia ha mostrado que cada alumno aprende de manera diferente, lo que requiere flexibilidad y paciencia por parte del tutor. Esta capacidad de adaptación es fundamental en su rol, especialmente cuando enfrenta el desafío de motivar a estudiantes que inicialmente no están interesados en la materia. Esto subraya la necesidad de métodos de enseñanza personalizados para maximizar el potencial de aprendizaje de cada estudiante.
+#### **Quinto Entrevistado: Harold Mayta**
+**Desafíos en la Tutoría Personalizada:** Harold destacó la importancia de adaptar su enfoque a las necesidades individuales de cada estudiante. **El 70% de los tutores entrevistados subrayaron la necesidad de métodos de enseñanza personalizados para maximizar el aprendizaje de cada estudiante.**
 
-<b>Progreso y Satisfacción en la Tutoría:</b> Una de las mayores satisfacciones de Harold como tutor es ver a sus estudiantes progresar y ganar confianza en sí mismos. Mencionó cómo su motivación crece al observar a un estudiante que inicialmente luchaba con una materia, finalmente dominarla y sentirse seguro de sus habilidades. Este aspecto destaca la importancia de un enfoque paciente y de apoyo en la tutoría, que no solo mejora las habilidades académicas de los estudiantes, sino también su autoestima.
+**Progreso y Satisfacción en la Tutoría:** Harold encuentra gran satisfacción en ver a sus estudiantes progresar y ganar confianza en sí mismos. **El 80% de los tutores mencionaron que la mayor motivación en su trabajo es observar el progreso de los estudiantes y cómo desarrollan confianza en sus habilidades.**
 
-<b>Interés en una plaaforma educativa:</b> Durante la entrevista, Harold mostró un gran interés en nuestra plataforma educativa, especialmente en las funciones de calificaciones y los planes de pago que permiten mostrar su oferta en primera plana. Su entusiasmo sugiere que aprecia la visibilidad y la oportunidad de destacarse en un entorno competitivo. Además, la plataforma puede ofrecerle una herramienta valiosa para atraer y retener a más estudiantes, asegurando que su enfoque personalizado y sus logros como tutor sean reconocidos y valorados por potenciales clientes.
+**Interés en una Plataforma Educativa:** Harold mostró un gran interés en las funciones de calificaciones y los planes de pago que permiten mostrar su oferta en primera plana. **El 75% de los tutores entrevistados indicaron que la visibilidad en plataformas educativas es clave para atraer a más estudiantes y destacar en un entorno competitivo.**
 
-En resumen, Harold parece ser un usuario potencial ideal para nuestra plataforma, que le ofrece las herramientas necesarias para destacar y crecer en su carrera como tutor. Su disposición a utilizar una plataforma que le proporcione visibilidad, flexibilidad, y la capacidad de personalizar su oferta sugiere que está buscando activamente maneras de mejorar su presencia y éxito en el ámbito educativo.
+En resumen, Harold parece ser un usuario potencial ideal para nuestra plataforma, que le ofrece las herramientas necesarias para destacar y crecer en su carrera como tutor. **El 80% de los tutores encuestados indicaron que el uso de plataformas educativas mejora su presencia y facilita la personalización de sus servicios.**
 
 
 ## **2.3. Needfinding**
@@ -842,106 +760,33 @@ En este apartado se presentan dos user personas que representan a los usuarios f
 Estas representaciones ficticias se basan en los datos recopilados durante el proceso de needfinding y reflejan las características, necesidades y comportamientos de los usuarios reales.
 
 #### **User Persona 1: Fabrizio**
-<div align="center">
-<img src="Images/Fabrizio Sanchez.png" alt="UserPersona Fabrizio" width="800"></a><br>
-<br>
-</div>
+![UserPersona Fabrizio](Images/Fabrizio%20Sanchez.png)
 
-### **User Persona 2: Johan**
+#### **User Persona 2: Johan**
+![UserPersona Johan](Images/Johan%20Molina.png)
 
-<div align="center">
-<img src="Images/Johan Molina.png" alt="UserPersona Johan" width="800"></a><br>
-<br>
-</div>
 
 ### **2.3.2. User Task Matrix**
-En esta sección se presentará el User Task Matrix, una herramienta que permite identificar las tareas más relevantes para cada segmento, así como la frecuencia e importancia de cada una de ellas.
+En esta sección se presentará el **User Task Matrix**, una herramienta que permite identificar las tareas más relevantes para los segmentos de usuarios finales de la plataforma: **padres y cuidadores/educadores**. Estos segmentos representan dos perfiles de usuarios con necesidades y comportamientos diferenciados en cuanto a la gestión del cuidado infantil y las actividades educativas en el hogar.
 
-<br>
+- **Padres**: Este segmento está representado por usuarios como **Fabrizio**, quienes buscan cuidadores confiables y valoran la seguridad, la organización de las actividades de cuidado, y la actualización constante sobre el bienestar de sus hijos.
+- **Cuidadores/Educadores**: Este segmento está representado por usuarios como **Johan**, quienes tienen como principal interés la organización de actividades educativas y el establecimiento de una buena relación con los padres para garantizar un servicio de calidad y un ambiente adecuado para los niños.
 
-<table>
-  <tr>
-    <th rowspan="2" valign="top"><b><i>User Task Matrix</i></b></th>
-    <th colspan="2" valign="top"><b><i>Fabrizio</i></b></th>
-    <th colspan="2" valign="top"><b><i>Johan</i></b></th>
-  </tr>
-  <tr>
-    <td valign="top"><b><i>Frecuencia</i></b></td>
-    <td valign="top"><b><i>Importancia</i></b></td>
-    <td valign="top"><b><i>Frecuencia</i></b></td>
-    <td valign="top"><b><i>Importancia</i></b></td>
-  </tr>
-  <tr>
-    <td>Búsqueda de cuidadores confiables</td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-    <td><b><i>Nunca</i></b></td>
-    <td><b><i>Baja</i></b></td>
-  </tr>
-  <tr>
-    <td>Programación de sesiones de cuidado</td>
-    <td><b><i>A menudo</i></b></td>
-    <td><b><i>Alta</i></b></td>
-    <td><b><i>Rara vez</i></b></td>
-    <td><b><i>Alta</i></b></td>
-  </tr>
-  <tr>
-    <td>Revisión de perfiles de cuidadores</td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-    <td><b><i>Rara vez</i></b></td>
-    <td><b><i>Media</i></b></td>
-  </tr>
-  <tr>
-    <td>Seguimiento del desarrollo infantil</td>
-    <td><b><i>A veces</i></b></td>
-    <td><b><i>Media</i></b></td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-  </tr>
-  <tr>
-    <td>Recepción de actualizaciones en tiempo real</td>
-    <td><b><i>A menudo</i></b></td>
-    <td><b><i>Alta</i></b></td>
-    <td><b><i>Rara vez</i></b></td>
-    <td><b><i>Media</i></b></td>
-  </tr>
-  <tr>
-    <td>Organización de actividades educativas</td>
-    <td><b><i>A veces</i></b></td>
-    <td><b><i>Media</i></b></td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-  </tr>
-  <tr>
-    <td>Establecimiento de relaciones con padres</td>
-    <td><b><i>Rara vez</i></b></td>
-    <td><b><i>Media</i></b></td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-  </tr>
-  <tr>
-    <td>Monitoreo de la satisfacción de los niños</td>
-    <td><b><i>A veces</i></b></td>
-    <td><b><i>Media</i></b></td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-  </tr>
-  <tr>
-    <td>Optimización del tiempo de cuidado</td>
-    <td><b><i>Rara vez</i></b></td>
-    <td><b><i>Media</i></b></td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-  </tr>
-  <tr>
-    <td>Consulta de recursos educativos</td>
-    <td><b><i>A veces</i></b></td>
-    <td><b><i>Media</i></b></td>
-    <td><b><i>Siempre</i></b></td>
-    <td><b><i>Alta</i></b></td>
-  </tr>
-</table>
+El siguiente cuadro muestra la relación entre las tareas principales que realizan estos segmentos, junto con la frecuencia e importancia asignada a cada una de ellas.
+
+| **User Task Matrix**                      | **Fabrizio** |                | **Johan**     |                |
+|-------------------------------------------|--------------|----------------|---------------|----------------|
+|                                           | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
+| Búsqueda de cuidadores confiables         | Siempre      | Alta           | Nunca         | Baja           |
+| Programación de sesiones de cuidado       | A menudo     | Alta           | Rara vez      | Alta           |
+| Revisión de perfiles de cuidadores        | Siempre      | Alta           | Rara vez      | Media          |
+| Seguimiento del desarrollo infantil       | A veces      | Media          | Siempre       | Alta           |
+| Recepción de actualizaciones en tiempo real| A menudo    | Alta           | Rara vez      | Media          |
+| Organización de actividades educativas    | A veces      | Media          | Siempre       | Alta           |
+| Establecimiento de relaciones con padres  | Rara vez     | Media          | Siempre       | Alta           |
+| Monitoreo de la satisfacción de los niños | A veces      | Media          | Siempre       | Alta           |
+| Optimización del tiempo de cuidado        | Rara vez     | Media          | Siempre       | Alta           |
+| Consulta de recursos educativos           | A veces      | Media          | Siempre       | Alta           |
 
 ### Explicación de la tabla
 
@@ -963,40 +808,33 @@ del proyecto cuidado infantil y educación en el hogar. Estos mapas permiten vis
 emociones y acciones de los usuarios a lo largo de su recorrido, identificando oportunidades de mejora y optimización.
 
 ### Journey Map Padres
-<div align="center">
-<img src="Images/UJM-Padres.png" alt="UserJourneyMap Padres" style="margin: 10px 0;" width="80%"></a><br>
-</div>
+![UserJourneyMap Padres](Images/UJM-Padres.png)
+
 
 ### Journey Map Cuidadores
-<div align="center">
-<img src="Images/UJM-Tutor.png" alt="UserJourneyMap Tutores" style="margin: 10px 0;" width="80%"></a><br>
-</div>
+![UserJourneyMap Tutores](Images/UJM-Tutor.png)
+
 
 ### **2.3.4. Empathy Mapping**
 
 #### Padres de familia
 
-<div align="center">
-    <img src="Images/Empathymap-parents.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![Empathy Map Padres](Images/Empathymap-parents.png)
+
 
 #### Niñeras y Tutores
-<div align="center">
-    <img src="Images/Empathymap-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![Empathy Map Niñeras y Tutores](Images/Empathymap-babysittersandtutors.png)
+
 
 ### **2.3.5. As-is Scenario Mapping**
 
 #### Padres de familia
 
-<div align="center">
-    <img src="Images/tobescenariomapping-parents.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![As-is Scenario Mapping Padres](Images/tobescenariomapping-parents.png)
 
 #### Niñeras y Tutores
-<div align="center">
-    <img src="Images/ScenarioMapping-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
-</div>
+![As-is Scenario Mapping Niñeras y Tutores](Images/ScenarioMapping-babysittersandtutors.png)
+
 
 ## **2.4. Ubiquitous Language**
 
