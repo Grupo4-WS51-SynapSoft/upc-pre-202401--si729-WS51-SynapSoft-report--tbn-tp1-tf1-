@@ -1836,50 +1836,33 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
 
-<div align="center">
-<img src="Images/context_diagram.png" alt="Context Diagram" width="800"></a><br>
-<br>
-</div>
+![Context Diagram](Images/context_diagram.png)
 
 ### **4.6.2. Software Architecture Container Diagrams**
 
-<div align="center">
-<img src="Images/container_diagram.png" alt="Container Diagram" width="800"></a><br>
-<br>
-</div>
+![Container Diagram](Images/container_diagram.png)
 
 ### **4.6.3. Software Architecture Components Diagrams**
 
-<b> Diagrama de Componentes - User Management Bounded Context </b>
+**Diagrama de Componentes - User Management Bounded Context**
 
-<div align="center">
-<img src="Images/component_diagram01.png" alt="Component Diagram 01" width="800"></a><br>
-<br>
-</div>
+![Component Diagram 01](Images/component_diagram01.png)
 
-<b> Diagrama de Componentes - Payment Bounded Context </b>
+**Diagrama de Componentes - Appointment Bounded Context**
 
-<div align="center">
-<img src="Images/component_diagram02.png" alt="Component Diagram 02" width="800"></a><br>
-<br>
-</div>
+![Component Diagram 02](Images/component_diagram02.png)
 
-<b> Diagrama de Componentes - Notification Bounded Context </b>
+**Diagrama de Componentes - Notification Bounded Context**
 
-<div align="center">
-<img src="Images/component_diagram03.png" alt="Component Diagram 03" width="800"></a><br>
-<br>
-</div>
+![Component Diagram 03](Images/component_diagram03.png)
 
-<b> Diagrama de Componentes - Appointment Bounded Context </b>
+**Diagrama de Componentes - Payment Bounded Context**
 
-<div align="center">
-<img src="Images/component_diagram04.png" alt="Component Diagram 04" width="800"></a><br>
-<br>
-</div>
+![Component Diagram 04](Images/component_diagram04.png)
 
+**Link del WorkSpace en Structurizr**  
+[Structurizr Workspace](https://structurizr.com/share/87248/9dda83a9-788b-4a41-9bf6-0eab6abebca2)
 
-<b> Link del WorkSpace en Structurizr </b> https://structurizr.com/share/87248/9dda83a9-788b-4a41-9bf6-0eab6abebca2
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
