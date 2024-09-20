@@ -188,17 +188,31 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**2.1.2. Estrategias y tácticas frente a competidores**](#212-estrategias-y-tácticas-frente-a-competidores)
   - [**2.2. Entrevistas**](#22-entrevistas)
     - [**2.2.1. Diseño de entrevistas**](#221-diseño-de-entrevistas)
+      - [Entrevista General:](#entrevista-general)
+      - [Para Padres:](#para-padres)
+      - [Para Cuidadores (Niñeras y Tutores)](#para-cuidadores-niñeras-y-tutores)
     - [**2.2.2. Registro de entrevistas**](#222-registro-de-entrevistas)
     - [**2.2.3. Análisis de entrevistas**](#223-análisis-de-entrevistas)
   - [**2.3. Needfinding**](#23-needfinding)
     - [**2.3.1. User Personas**](#231-user-personas)
+      - [**User Persona 1: Fabrizio**](#user-persona-1-fabrizio)
+    - [**User Persona 2: Johan**](#user-persona-2-johan)
     - [**2.3.2. User Task Matrix**](#232-user-task-matrix)
+    - [Explicación de la tabla](#explicación-de-la-tabla)
     - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
+    - [Journey Map Padres](#journey-map-padres)
+    - [Journey Map Cuidadores](#journey-map-cuidadores)
     - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
+      - [Padres de familia](#padres-de-familia)
+      - [Niñeras y Tutores](#niñeras-y-tutores)
     - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
+      - [Padres de familia](#padres-de-familia-1)
+      - [Niñeras y Tutores](#niñeras-y-tutores-1)
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
+      - [Padres de familia](#padres-de-familia-2)
+      - [Niñeras y Tutores](#niñeras-y-tutores-2)
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
@@ -217,8 +231,25 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**4.3.2. Landing Page Mock-up**](#432-landing-page-mock-up)
   - [**4.4. Web Applications UX/UI Design**](#44-web-applications-uxui-design)
     - [**4.4.1. Web Applications Wireframes**](#441-web-applications-wireframes)
+  - [Login](#login)
+  - [Registro](#registro)
+  - [Pagina Principal / Lista de Usuarios Cuidadores](#pagina-principal--lista-de-usuarios-cuidadores)
+  - [Profile del usuario](#profile-del-usuario)
+  - [Información de un cuidador](#información-de-un-cuidador)
+  - [Acción de reserva de servicios de un cuidador"](#acción-de-reserva-de-servicios-de-un-cuidador)
+  - [Lista de Reservas](#lista-de-reservas)
+  - [Mensajeria](#mensajeria)
+- [Envio y recibo de mensajes](#envio-y-recibo-de-mensajes)
     - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
     - [**4.4.3. Web Applications Mock-ups**](#443-web-applications-mock-ups)
+  - [Login](#login-1)
+  - [Registro](#registro-1)
+  - [Pagina Principal / Lista de Usuarios Cuidadores](#pagina-principal--lista-de-usuarios-cuidadores-1)
+  - [Información de un cuidador](#información-de-un-cuidador-1)
+  - [Acción de reserva de servicios de un cuidador"](#acción-de-reserva-de-servicios-de-un-cuidador-1)
+  - [Lista de Reservas](#lista-de-reservas-1)
+  - [Mensajeria](#mensajeria-1)
+- [Envio y recibo de mensajes](#envio-y-recibo-de-mensajes-1)
     - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
   - [**4.5. Web Applications Prototyping**](#45-web-applications-prototyping)
   - [**4.6. Domain-Driven Software Architecture**](#46-domain-driven-software-architecture)
@@ -1532,9 +1563,102 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
+
+## Login
+
+<td><img src="Images/WebApplicationsWireFrames1.png" alt="Imagen del Login" width="1500"></td>
+
+## Registro
+
+<td><img src="Images/WebApplicationsWireFrames2.png" alt="Imagen del Registro" width="1500"></td>
+
+## Pagina Principal / Lista de Usuarios Cuidadores 
+
+<td><img src="Images/WebApplicationsWireFrames3.png" alt="Imagen del Home" width="1500"></td>
+
+## Profile del usuario 
+
+<td><img src="Images/WebApplicationsWireFrames4.png" alt="Imagen del Profile" width="1500"></td>
+
+## Información de un cuidador
+
+<td><img src="Images/WebApplicationsWireFrames9.png" alt="Imagen del perfil del cuidador" width="1500"></td>
+
+## Acción de reserva de servicios de un cuidador"
+
+<td><img src="Images/WebApplicationsWireFrames12.png" alt="Imagen de reserva añadida" width="1500"></td>
+
+## Lista de Reservas 
+
+<td><img src="Images/WebApplicationsWireFrames13.png" alt="Imagen del Reservas" width="1500"></td>
+
+## Mensajeria
+
+<td><img src="Images/WebApplicationsWireFrames14.png" alt="Imagen de mensajeria" width="1500"></td>
+
+# Envio y recibo de mensajes
+
+<td><img src="Images/WebApplicationsWireFrames15.png" alt="Imagen de chat entre usuario y cuidador" width="1500"></td>
+
+
 ### **4.4.2. Web Applications Wireflow Diagrams**
+
+<td><img src="Images/Wire1.png" alt="Wire1" width="1500"></td>
+
+<td><img src="Images/Wire2.png" alt="Wire2" width="1500"></td>
+
+<td><img src="Images/Wire3.png" alt="Wire3" width="1500"></td>
+
+<td><img src="Images/Wire4.png" alt="Wire4" width="1500"></td>
+
+<td><img src="Images/Wire5.png" alt="Wire5" width="1500"></td>
+
 ### **4.4.3. Web Applications Mock-ups**
+
+## Login
+
+<td><img src="Images/MockWeb1" alt="Login" width="1500"></td>
+
+## Registro
+
+<td><img src="Images/MockWeb2.png" alt="Registro" width="1500"></td>
+
+## Pagina Principal / Lista de Usuarios Cuidadores 
+
+<td><img src="Images/MockWeb3.png" alt="Home" width="1500"></td>
+
+## Información de un cuidador
+
+<td><img src="Images/MockWeb4.png" alt="Cuidador" width="1500"></td>
+
+## Acción de reserva de servicios de un cuidador"
+
+<td><img src="Images/MockWeb8.png" alt="Reserva añadida" width="1500"></td>
+
+## Lista de Reservas 
+
+<td><img src="Images/MockWeb5.png" alt="Reservas" width="1500"></td>
+
+## Mensajeria
+
+<td><img src="Images/MockWeb6.png" alt="Imagen de mensajeria" width="1500"></td>
+
+# Envio y recibo de mensajes
+
+<td><img src="Images/MockWeb7.png" alt="Imagen de chat entre usuario y cuidador" width="1500"></td>
+
+
 ### **4.4.4. Web Applications User Flow Diagrams**
+
+<td><img src="Images/Flow1.png" alt="Wire1" width="1500"></td>
+
+<td><img src="Images/Flow2.png" alt="Wire2" width="1500"></td>
+
+<td><img src="Images/Flow3.png" alt="Wire3" width="1500"></td>
+
+<td><img src="Images/Flow4.png" alt="Wire4" width="1500"></td>
+
+<td><img src="Images/Flow5.png" alt="Wire5" width="1500"></td>
 
 ## **4.5. Web Applications Prototyping**
 
