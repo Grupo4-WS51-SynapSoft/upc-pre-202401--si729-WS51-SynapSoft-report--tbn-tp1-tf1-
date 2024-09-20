@@ -1224,14 +1224,27 @@ Esta sección aborda la configuración de las herramientas necesarias para el de
 Para planificar y coordinar el desarrollo del software, incluyendo la asignación de tareas y el seguimiento del progreso, utilizamos:
 
 - Trello: Esta plataforma de gestión de proyectos basada en tableros nos ayuda a organizar tareas y colaborar en tiempo real, facilitando la visualización del avance y la coordinación entre los miembros del equipo.
+  ![Trello](/Images/trello-logo-1.2.jpg)
+  Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft>
 
 **Diseño UX/UI**
 
 En esta sección nos centramos en la creación de interfaces atractivas e intuitivas, considerando las necesidades y preferencias de los usuarios. Las herramientas empleadas son:
 
 - Figma: Permite diseñar y compartir interfaces de usuario de manera colaborativa y eficiente.
+
+  Link de figma:<https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=114-2&t=4TbGk5miNn81gVPl-1>
+
+  ![Figma](Images/figma-logo.png)
+
 - LucidChart: Usado para crear diagramas UML y diagramas de flujo, ayudando a representar visualmente la arquitectura y los procesos del proyecto.
+
+  Link de LucidChar:
+
+  ![LucidChart](/Images/lucidchart-logo.png)
+
 - Miro: Utilizado para la lluvia de ideas, definición de problemas y necesidades del cliente, así como la identificación de los Bounded Contexts del proyecto.
+
 - UXpressia: Herramienta para crear User Personas, Empathy Maps, Journey Maps e Impact Maps, facilitando una comprensión más profunda de los usuarios y sus necesidades.
 
 **Desarrollo de Software**
@@ -1239,7 +1252,16 @@ En esta sección nos centramos en la creación de interfaces atractivas e intuit
 Para el proceso de creación y programación del software, utilizamos las siguientes herramientas y tecnologías:
 
 - IntelliJ IDEA: Un entorno de desarrollo integrado (IDE) que ofrece características avanzadas como resaltado de sintaxis, depuración y control de versiones integradas, utilizado para escribir y editar el código fuente.
+
+  ![Intellif](/Images/inteliIj-idea-logo.jpeg)
+
+  Descargar IntelliJ IDEA: https://www.jetbrains.com/idea/download/
+
 - GitHub: Plataforma para alojar el repositorio del proyecto y gestionar el control de versiones del código fuente y la documentación, facilitando la colaboración y el seguimiento de cambios.
+
+  ![Github](/Images/github-logo.jpg)
+
+  Link: <https://github.com/>
 
 **Documentación de Software**
 
@@ -1247,41 +1269,68 @@ La documentación técnica es crucial para el mantenimiento y comprensión del s
 
 - Markdown: Un lenguaje de marcado ligero y sencillo para crear documentos con formato, empleándose para redactar la documentación del proyecto de manera clara y estructurada.
 
+  ![Github](/Images/markdown-logo.png)
+
 ### **5.1.2. Source Code Management**
 
-Durante el desarrollo de los sprints futuros, usaremos Git Flow para gestionar el desarrollo de nuevas características, realizar correcciones y preparar lanzamientos. Esta metodología proporciona una estructura organizada que mejora la colaboración y la comprensión del flujo de trabajo entre desarrolladores. Al seguir Git Flow, garantizamos que todos los cambios se integren de manera eficiente, facilitando la coordinación del equipo y la entrega de un producto de alta calidad.
+Durante el desarrollo de los sprints futuros, utilizaremos Git Flow para gestionar el desarrollo de nuevas características, realizar correcciones y preparar lanzamientos. Esta metodología proporciona una estructura organizada que mejora la colaboración y la comprensión del flujo de trabajo entre los desarrolladores. Al seguir Git Flow, garantizamos que todos los cambios se integren de manera eficiente, facilitando la coordinación del equipo y la entrega de un producto de alta calidad.
 
-**Uso del Modelo Git Flow**
+**Repositorios GitHub**
 
-Para la gestión de cambios en nuestro repositorio, seguimos el modelo Git Flow, que organiza las ramas de la siguiente manera:
+Los repositorios de GitHub que utilizaremos para cada uno de los productos del proyecto son los siguientes:
 
-- **Ramas Principales:**
+- **Landing Page:** [Repositorio de GitHub - Landing Page](https://github.com/Grupo4-WS51-SynapSoft/SafeChild_LandingPage.github.io)
+- **Documentacion:** [Repositorio de GitHub - Web Services](https://github.com/Grupo4-WS51-SynapSoft/upc-pre-202401--si729-WS51-SynapSoft-report--tbn-tp1-tf1-)
 
-  - 'master': Contiene el código estable y listo para el despliegue.
-  - 'develop': Es la rama de integración donde se consolidan las características desarrolladas y se preparan para el próximo lanzamiento.
+#### Implementación de Git Flow
 
-- **Ramas de Soporte:**
+Git Flow se implementará como el **workflow principal** de control de versiones para gestionar eficientemente el desarrollo del software. La estructura de Git Flow organiza las ramas de la siguiente manera:
 
-  - feature: Se crean a partir de la rama develop para el desarrollo de nuevas características y se fusionan nuevamente en develop una vez completadas.
+- **Ramas Principales**:
 
-```
-  git checkout -b feature/[nombre-de-la-caracteristica]
-  git add .
-  git commit -m "feat: [descripcion-de-la-caracteristica]"
-  git push -u origin feature/[nombre-de-la-caracteristica]
-```
+  - `master` o `main`: Contiene el código estable y listo para el despliegue en producción.
+  - `develop`: Rama de integración donde se consolidan las nuevas características que se preparan para el próximo lanzamiento.
 
-Este modelo da una estructura clara y organizada para que los desarrolladores puedan comprender el flujo de trabajo y colaborar de manera eficiente.
+- **Ramas de Soporte**:
 
-<div align="center">
-  <img src="Images/ramas1.png">
-</div>
-<div align="center">
-  <img src="Images/ramas2.png">
-</div>
-<div align="center">
-  <img src="Images/ramas3.png">
-</div>
+  - **Feature branches:** Se crean desde `develop` para desarrollar nuevas características.
+
+    - Convención de nombres: `feature/[nombre-de-la-caracteristica]`
+    - Ejemplo:
+      ```bash
+      git checkout -b feature/autenticacion-usuario
+      git add .
+      git commit -m "feat: Implementa autenticación de usuario"
+      git push -u origin feature/autenticacion-usuario
+      ```
+
+  - **Release branches:** Se crean cuando una versión está lista para ser lanzada, permitiendo preparar la rama para la producción.
+
+    - Convención de nombres: `release/[version]`
+    - Ejemplo:
+      ```bash
+      git checkout -b release/1.0.0
+      ```
+
+  - **Hotfix branches:** Se utilizan para corregir problemas críticos en la rama `master` sin interrumpir el trabajo en `develop`.
+    - Convención de nombres: `hotfix/[version-fix]`
+    - Ejemplo:
+      ```bash
+      git checkout -b hotfix/1.0.1
+      git add .
+      git commit -m "fix: Corrige error crítico en autenticación"
+      git push -u origin hotfix/1.0.1
+      ```
+
+#### Flujo de Trabajo en Git Flow:
+
+1. **Desarrollo de Características (Feature)**: Las nuevas funcionalidades se desarrollan en ramas `feature` creadas a partir de `develop`. Una vez finalizadas, se fusionan de nuevo en `develop`.
+   ```bash
+   git checkout -b feature/[nombre-de-la-caracteristica]
+   git add .
+   git commit -m "feat: [descripcion-de-la-caracteristica]"
+   git push -u origin feature/[nombre-de-la-caracteristica]
+   ```
 
 **Convenciones de Commits**
 
@@ -1380,9 +1429,44 @@ export class AppComponent {
 
 ### **5.1.4. Software Deployment Configuration**
 
-Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una plataforma que ofrece alojamiento para sitios web estáticos directamente desde un repositorio de GitHub. Hemos creado un repositorio en GitHub donde subiremos las versiones del proyecto y utilizaremos GitHub Pages para gestionar el despliegue y la publicación del sitio web.
+Para el despliegue de la página de inicio del proyecto, hemos optado por **GitHub Pages**, una plataforma que ofrece alojamiento gratuito para sitios web estáticos directamente desde un repositorio de GitHub. Este enfoque permite gestionar y publicar de manera sencilla las versiones del proyecto, garantizando que el sitio web esté accesible en todo momento. A continuación, se detallan los pasos específicos para configurar y realizar el despliegue.
 
-Link del Landing Page desplegado: <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
+#### Pasos para el despliegue en GitHub Pages:
+
+1. **Creación del repositorio en GitHub:**
+
+   - Primero, se debe crear un nuevo repositorio en GitHub. Asegúrate de que el repositorio sea público para que GitHub Pages pueda generar y alojar el sitio.
+   - Clona el repositorio a tu máquina local para realizar los desarrollos necesarios.
+   - **Ejemplo:**
+     ```bash
+     git clone https://github.com/grupo4-ws51-synapsoft/SafeChild_LandingPage.github.io.git
+     ```
+
+2. **Desarrollo del sitio estático:**
+
+   - El desarrollo del **Landing Page** se realiza utilizando HTML, CSS y JavaScript. Estos archivos deben estar en la raíz del repositorio o en la carpeta `docs`, dependiendo de la configuración elegida para GitHub Pages.
+
+3. **Configuración de GitHub Pages:**
+
+   - Dirígete a la configuración del repositorio en GitHub:
+     - Ve a la pestaña `Settings`.
+     - Desplázate hacia abajo hasta la sección **GitHub Pages**.
+     - En el menú desplegable "Source", selecciona la rama `main` o `master` y la carpeta raíz (`/root`) o `docs/` si los archivos están organizados dentro de esa carpeta.
+   - Una vez seleccionado, GitHub Pages generará una URL para acceder a tu sitio web.
+
+4. **Subir y actualizar los archivos al repositorio:**
+
+   - Una vez que los archivos del proyecto estén listos, súbelos al repositorio. Para ello, puedes usar los siguientes comandos:
+     ```bash
+     git add .
+     git commit -m "Subida inicial del proyecto"
+     git push origin main
+     ```
+
+5. **Verificar el despliegue:**
+   - Después de haber configurado GitHub Pages y haber subido los archivos, espera unos minutos para que el sitio se despliegue. GitHub te proporcionará un enlace donde podrás verificar que el sitio web está activo.
+   - En este caso, el **Link del Landing Page desplegado** es:  
+     <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 
@@ -1390,218 +1474,87 @@ Link del Landing Page desplegado: <https://grupo4-ws51-synapsoft.github.io/SafeC
 
 ### **5.2.1.1. Sprint Planning 1**
 
-<table BORDER>
-  <tr>
-    <th>Sprint #</th>
-    <td>Sprint 1</td>
-  </tr>
-  <tr>
-    <th colspan="2">Sprint Planning Background</th>
-  </tr>
-  <tr>
-    <td>Date</td>
-    <td>07/09/2024</td>
-  </tr>
-  <tr>
-    <td>Location</td>
-    <td>El desarrollo de la reunion se realizo virtualmente por medio de Discort</td>
-  </tr>
-  <tr>
-    <td>Prepared By</td>
-    <td>Meza Camayo, Lynn Jeeferzon /Aliaga Pimentel, George Arturo/ Sánchez Ignacio/ Jefrey Martín/Grandez Mansilla, Jean Pierre</td>
-  </tr>
-  <tr>
-    <td>Sprint 0 Review Summary</td>
-    <td>En este caso recién se realizará el primer sprint</td>
-  </tr>
-  <tr>
-    <td>Sprint 0 Review Summary</td>
-    <td>En este caso recién se realizará el primer sprint</td>
-  </tr>
-  <tr>
-    <td colspan="2">Sprint Goal & User Stories</td>
-  </tr>
-  <tr>
-    <td>Sprint 1 Goal</td>
-    <td>Desarrollar y desplegar el landing page para agregarlo a repositorio del grupo</td>
-  </tr>
-  <tr>
-    <td>Sprint 1 Velocity</td>
-    <td>2 semanas</td>
-  </tr>
-  <tr>
-    <td>Sum of Story Points</td>
-    <td>8</td>
-  </tr>
-  
-</table>
+En esta reunión de planificación del Sprint 1, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados del primer sprint. Este sprint se enfocará en desarrollar y desplegar la página de inicio del proyecto y se llevará a cabo durante dos semanas. El objetivo es proporcionar una base sólida para el despliegue en GitHub Pages, garantizando que el producto inicial esté accesible y funcional.
+
+| **Sprint #**                   | Sprint 1                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 07/09/2024                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Meza Camayo, Lynn Jeeferzon / Aliaga Pimentel, George Arturo / Sánchez Ignacio / Jefrey Martín / Grandez Mansilla, Jean Pierre                                                                                                                    |
+| **Sprint 0 Review Summary**    | En este caso recién se realizará el primer sprint                                                                                                                                                                                                 |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                   |
+| **Sprint 1 Goal**              | Nuestro enfoque está en desplegar el landing page. Creemos que proporcionará una plataforma de lanzamiento accesible y funcional para el proyecto a los stakeholders. Esto se confirmará cuando el sitio esté accesible a través de GitHub Pages. |
+| **Sprint 1 Velocity**          | El sprint está planificado para completarse en 14 días (2 semanas).                                                                                                                                                                               |
+| **Sum of Story Points**        | 8 story points                                                                                                                                                                                                                                    |
 
 ### **5.2.1.2. Sprint Backlog 1**
 
-<table>
-    <tr align="center">
-        <td colspan="2"><strong>Sprint #</strong></td>
-        <td colspan="6"><strong>Sprint 1</strong></td>
-    </tr>
-    <tr align="center">
-        <td colspan="2"><strong>User Story</strong></td>
-        <td colspan="6"><strong>Work-Item / Task</strong></td>
-    </tr>
-    <tr align="center">
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Description</strong></td>
-        <td><strong>Estimation (Hours)</strong></td>
-        <td><strong>Assigned to</strong></td>
-        <td><strong>Status (To do / In process / To review / Done)</strong></td>
-    </tr>
-    <tr align="center">
-        <td>US-20</td>
-        <td>Navegacion</td>
-        <td>W-01</td>
-        <td>Apartado de Home y Navbar</td>
-        <td>Se creará una sección HOME y un navbar.</td>
-        <td>2</td>
-        <td>Lynn</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-21</td>
-        <td>Beneficios Destacados</td>
-        <td>W-02</td>
-        <td>Creación de la sección de "Why Choose Us?"</td>
-        <td>Se craerá la sección Why Choose Us? que presenta los beneficios o razones destacadas del producto</td>
-        <td>2</td>
-        <td>Georgy</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-23</td>
-        <td>Visualización de Suscripciones</td>
-        <td>W-04</td>
-        <td>Creación de la sección de Planes</td>
-        <td>Creación de una seccion de suscripciones con descripciones y precios para cada plan</td>
-        <td>2</td>
-        <td>Jean</td>
-        <td>Done</td>
-    </tr>
-    <tr align="center">
-        <td>US-23</td>
-        <td>Visualización de Reseñas</td>
-        <td>W-04</td>
-        <td>Creación de la sección de Reseñas y pie de pagina</td>
-        <td>Creación de una seccion de Reseñas y el pie de página para conocer la opinión de otros usuarios </td>
-        <td>2</td>
-        <td>Jefrey</td>
-        <td>Done</td>
-    </tr>
-</table>
+El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
+
+| **Sprint #**   | **Sprint 1**                   |        |                                   |                                                                          |                        |                 |            |
+| -------------- | ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story** | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
+| **Id**         | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+| US-02          | Navegación                     | W-01   | Implementar Home y Navbar         | Creación de la sección HOME y un navbar funcional.                       | 4                      | Lynn            | In process |
+| US-03          | Beneficios Destacados          | W-02   | Crear sección "Why Choose Us?"    | Desarrollar la sección "Why Choose Us?" con beneficios destacados.       | 6                      | Georgy          | To do      |
+| US-04          | Visualización de Suscripciones | W-03   | Crear sección de Planes           | Implementar una sección de planes de suscripción con detalles y precios. | 5                      | Jean            | To do      |
+| US-05          | Visualización de Reseñas       | W-04   | Crear sección de Reseñas y Footer | Desarrollar una sección de reseñas con testimonios y el pie de página.   | 6                      | Jefrey          | To do      |
 
 Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft>
 
 ### **5.2.1.3. Development Evidence for Sprint Review**
 
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id</td>
-        <td>Commit Message</td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date)</td>
-    </tr>
-    <tr>
-        <td>Landing-page</td>
-        <td>Develop</td>
-        <td>55374c84feddb94a8ea197a2b0f0ee36ede9c450</td>
-        <td>git commit part jefrey</td>
-        <td>Agrego el modelo del landing apge y el apartado de reseñas y footer</td>
-        <td>06/09/2024</td>
-    </tr>
-    <tr>
-        <td>Landing-page</td>
-        <td>Develop</td>
-        <td>b0b34b6bdfd01cc0133ca3d9084c9b585af60b59</td>
-        <td>git commit feat:implementation of the home section and the header</td>
-        <td>Se implemento la sección Home y el navbar</td>
-        <td>09/04/2024</td>
-    </tr>
-    <tr>
-        <td>Landing-page</td>
-        <td>Develop</td>
-        <td>921d85b952c47c44c9151eed615b0c6eb32a544f</td>
-        <td>git commit feat: section subscription added</td>
-        <td>Se implemento la sección de suscripción</td>
-        <td>13/03/2024</td>
-    </tr>
-        <tr>
-        <td>Landing-page</td>
-        <td>Develop</td>
-        <td>83c5dc7a9de846dcae063591e5fe48bc6a29de5e</td>
-        <td>feat: Update Landing</td>
-        <td>Se implemento "Why Choose Us?"</td>
-        <td>09/09/2024</td>
-    </tr>
-</table>
+Durante el Sprint 1, se lograron avances significativos en la implementación de las principales secciones de la página de inicio del proyecto. El equipo se centró en completar las funcionalidades clave, incluyendo la sección Home, el Navbar, el apartado de "Why Choose Us?", las reseñas, el pie de página, y las suscripciones. Estos componentes son fundamentales para asegurar que el landing page esté listo para su despliegue en GitHub Pages. A continuación se detallan los commits correspondientes a las tareas implementadas en este sprint.
+
+| **Repository** | **Branch** | **Commit Id**                            | **Commit Message**                                                 | **Commit Message Body**                                             | **Commited on (Date)** |
+| -------------- | ---------- | ---------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- | ---------------------- |
+| Landing-page   | Develop    | 55374c84feddb94a8ea197a2b0f0ee36ede9c450 | git commit part jefrey                                             | Agrego el modelo del landing page y el apartado de reseñas y footer | 06/09/2024             |
+| Landing-page   | Develop    | b0b34b6bdfd01cc0133ca3d9084c9b585af60b59 | git commit feat: implementation of the home section and the header | Se implementó la sección Home y el navbar                           | 09/04/2024             |
+| Landing-page   | Develop    | 921d85b952c47c44c9151eed615b0c6eb32a544f | git commit feat: section subscription added                        | Se implementó la sección de suscripción                             | 13/03/2024             |
+| Landing-page   | Develop    | 83c5dc7a9de846dcae063591e5fe48bc6a29de5e | feat: Update Landing                                               | Se implementó "Why Choose Us?"                                      | 09/09/2024             |
 
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
 
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id</td>
-        <td>Commit Message</td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date)</td>
-    </tr>
-    <tr>
-        <td>Unit-Test</td>
-        <td>main</td>
-        <td>aed6eb913afc1e9a16dc81bf35b41423e90197eb</td>
-        <td>git commit feat: Unit test Sprint 1/td>
-        <td>Se desarrollo los Unit Test del Sprint 1</td>
-        <td>09/09/2024</td>
-    </tr>
- </table>
+Durante el Sprint 1, se implementaron una serie de pruebas unitarias (Unit Tests) que verificaron el correcto funcionamiento de las principales funcionalidades desarrolladas para la página de inicio. Estas pruebas son fundamentales para asegurar la estabilidad del código y la integridad de las nuevas características introducidas, permitiendo identificar posibles fallos antes del despliegue final. A continuación se presenta un resumen de los commits relacionados con los tests desarrollados y una explicación detallada de cada uno.
+
+| **Repository** | **Branch** | **Commit Id**                            | **Commit Message**                  | **Commit Message Body**                      | **Commited on (Date)** |
+| -------------- | ---------- | ---------------------------------------- | ----------------------------------- | -------------------------------------------- | ---------------------- |
+| Unit-Test      | main       | aed6eb913afc1e9a16dc81bf35b41423e90197eb | git commit feat: Unit test Sprint 1 | Se desarrollaron los Unit Tests del Sprint 1 | 09/09/2024             |
 
 ### **5.2.1.5. Execution Evidence for Sprint Review**
 
-En este Sprint, se logró el desarrollo del landing page. A continuación, presentamos capturas de pantalla de las principales vistas implementadas en este Sprint:
+Durante el Sprint 1, el equipo logró desarrollar y desplegar la página de inicio (landing page) del proyecto. Las principales características implementadas incluyen el **Navbar**, la sección de **Home**, la sección **Why Choose Us?**, las **suscripciones**, las **reseñas**, y el **footer con el apartado de contacto**. Este progreso asegura que el sitio web cuenta con una estructura básica y funcional que puede ser mejorada en los sprints posteriores.
 
-- Navbar:
-<div align="center">
-  <img src="Images/nabvar-landing-page.png">
-</div>
+La implementación fue exitosa y se cumplió con el objetivo de entregar una versión funcional del landing page. El sitio fue desplegado utilizando GitHub Pages, permitiendo que el equipo de desarrollo y los stakeholders puedan visualizar los resultados directamente desde un navegador web.
 
-- Home:
-<div align="center">
-  <img src="Images/home-landingPage.png">
-</div>
+A continuación, presentamos capturas de pantalla de las principales vistas implementadas en este Sprint:
 
-- Why Choose Us?:
-<div align="center">
-  <img src="Images/Why Choose Us-landingPage.png">
-</div>
+- **Navbar**:
 
-- Subscriptions:
-<div align="center">
-  <img src="Images/Suscription-landingpage.png">
-</div>
+  ![Navbar](Images/nabvar-landing-page.png)
 
-- Reviews:
-<div align="center">
-  <img src="Images/review-landingPage.png">
-</div>
+- **Home**:
 
-- Footer and Contact:
-<div align="center">
-  <img src="Images/footer-contact-landingPage.png">
-</div>
+  ![Home](Images/home-landingPage.png)
 
-Link del landfing apge desplegado: <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
+- **Why Choose Us?**:
+
+  ![Why Choose Us?](Images/Why%20Choose%20Us-landingPage.png)
+
+- **Subscriptions**:
+
+  ![Subscriptions](Images/Suscription-landingpage.png)
+
+- **Reviews**:
+
+  ![Reviews](Images/review-landingPage.png)
+
+- **Footer and Contact**:
+
+  ![Footer and Contact](Images/footer-contact-landingPage.png)
+
+Link del landing page desplegado: <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
 
 ### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
@@ -1609,27 +1562,50 @@ Durante este sprint, se ha completado el desarrollo y la documentación de la la
 
 ### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
-<h3>Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en GitHub Pages. A continuación, detallamos los pasos realizados:</h3>
-<ol>
-  <li><strong>Creación del Repositorio en GitHub:</strong> Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.</li>
-  <li><strong>Configuración de la Rama main:</strong> Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.</li>
-  <li><strong>Preparación del Contenido:</strong> Desarrollamos y diseñamos nuestra landing page, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.</li>
-  <li><strong>Generación del Enlace de GitHub Pages:</strong> Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.</li>
-  <li><strong>Despliegue Automático:</strong> GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.</li>
-</ol>
+Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en GitHub Pages. A continuación, detallamos los pasos realizados:
 
-<div align="center">
-  <img src="Images/Despliegue-Sprint1.png">
-</div>
+1. **Creación del Repositorio en GitHub:** Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
+2. **Configuración de la Rama main:** Aseguramos que la rama principal del repositorio se llamara `main`, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+3. **Preparación del Contenido:** Desarrollamos y diseñamos nuestra landing page, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.
+4. **Generación del Enlace de GitHub Pages:** Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente de GitHub Pages para que tomara el contenido de la rama `main`.
+5. **Despliegue Automático:** GitHub Pages automáticamente detectó los cambios en la rama `main` y desplegó la landing page en la URL proporcionada por GitHub Pages.
+
+![Despliegue Sprint 1](Images/Despliegue-Sprint1.png)
 
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
 
-<div align="center">
-  <img src="Images/evidencie-sprint1.png">
-</div>
-<div align="center">
-  <img src="Images/colaboradores-sprint1.png">
-</div>
+Durante el Sprint 1, el equipo de desarrollo trabajó de manera colaborativa para implementar las funcionalidades clave del landing page. A través de herramientas de gestión de proyectos como Trello y reuniones periódicas en Discord, se lograron coordinar de manera eficiente las tareas asignadas a cada miembro del equipo. A continuación, se presenta un resumen de las actividades y la colaboración del equipo.
+
+#### Colaboración y Desarrollo de Actividades
+
+1. **Asignación de Tareas**:
+
+   - El equipo utilizó Trello para organizar y distribuir las tareas de acuerdo con las historias de usuario establecidas en el sprint backlog. Cada tarea fue asignada a un miembro del equipo, permitiendo que todos tuvieran claras sus responsabilidades.
+   - Se realizó un seguimiento del progreso en tiempo real, actualizando el estado de cada tarea conforme avanzaban desde "To Do" a "In Process", "To Review", y finalmente "Done".
+
+2. **Reuniones de Seguimiento**:
+
+   - Se realizaron reuniones diarias de seguimiento a través de Discord, donde cada miembro del equipo compartía el estado de sus tareas y discutía cualquier bloqueo o desafío encontrado durante la implementación. Estas reuniones permitieron resolver rápidamente los problemas y mantener un ritmo constante de avance.
+
+3. **Sincronización de Código en GitHub**:
+
+   - Cada miembro del equipo realizó los commits correspondientes a las tareas completadas en la rama `develop`, siguiendo las convenciones de commits acordadas. Al final del sprint, el código fue revisado y se integraron las funcionalidades en la rama principal `main` para su despliegue.
+
+4. **Validación y Pruebas**:
+   - Una vez que las funcionalidades principales fueron implementadas, se realizaron pruebas unitarias para validar que todo el código funcionara correctamente. Cualquier error identificado fue discutido en las reuniones y resuelto de manera colaborativa.
+
+#### Evidencias de Colaboración
+
+A continuación se presentan imágenes que ilustran el trabajo colaborativo y el progreso del equipo durante este sprint:
+
+- **Evidencia de Implementación del Sprint**:
+  ![Evidencia Sprint 1](Images/evidencie-sprint1.png)
+
+- **Colaboración del Equipo**:
+  ![Colaboradores Sprint 1](Images/colaboradores-sprint1.png)
+
+- **Frecuencia de Commits**:
+  ![Frecuenza de commits](Images/Code%20frequency.png)
 
 ## **5.3. Validation Interviews**
 
