@@ -1134,6 +1134,23 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 ### **4.7.1. Class Diagrams**
 
+![Diagrama de Clases](Images/SFUML.png)
+### **4.7.2. Class Dictionary**
+| **Clase**             | **Descripción**                                                                                                                                                                                                                                          |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Usuario**           | Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como `Padre`, `Cuidador` y `Admin`. Contiene atributos como `nombre`, `email`, `contraseña` y `teléfono`. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios. |
+| **Padre**             | Hereda de la clase `Usuario`. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional como `hijos`, `historial` y `preferencias`, relacionado con su perfil de contratación y gestión de hijos.                                           |
+| **Cuidador**          | Hereda de la clase `Usuario`. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como `especialidades`, `calificación`, `verificación (booleano)` y `disponibilidad`, que son específicos de los cuidadores.                                                    |
+| **Admin**             | Hereda de la clase `Usuario`. Representa a los administradores que gestionan el sistema. Contiene métodos para `verificarCuenta()`, `gestionar_usuarios()` y `asignar_rol()`, entre otras funciones administrativas.                                         |
+| **Hijo**              | Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un `Padre` y tiene atributos como `nombre`, `edad` y `historialDesarrollo`. Permite asociar cada hijo con las `Sesiones` de cuidado o educativas en las que participa.                                     |
+| **Sesión**            | Representa cada sesión de cuidado o educación que tiene lugar entre un `Cuidador` y uno o más `Hijos`. Incluye atributos como `duración`, `servicio` y la relación con `hijos` y `reseñas`. Es importante para realizar un seguimiento de las interacciones.                                        |
+| **Reserva**           | Representa las reservas de sesiones entre un `Padre` y un `Cuidador`. Contiene atributos como `fecha`, `estado` y las referencias al `Padre` y `Cuidador`. Permite realizar un seguimiento del estado de las sesiones.                                      |
+| **Pago**              | Representa la información de los pagos realizados por el `Padre` a un `Cuidador` por las sesiones reservadas. Contiene atributos como `fecha_pago`, `monto` y `estado`. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.                           |
+| **Reseña**            | Representa las reseñas que un `Padre` deja para un `Cuidador` después de una sesión. Contiene atributos como `texto` y `calificación`. Permite que los `Padres` califiquen a los cuidadores.                                                                 |
+| **Mensaje**           | Representa los mensajes intercambiados entre usuarios del sistema, ya sea `Padres` o `Cuidadores`. Incluye atributos como `contenido`, `fecha_envio`, y está asociado a un `remitente` y `destinatario`. Facilita la comunicación entre usuarios.                                                    |
+| **Notificación**      | Clase que almacena notificaciones enviadas a los usuarios del sistema. Contiene atributos como `mensaje`, `fecha_envío` y está asociada a un `Usuario`. Permite el envío de alertas y notificaciones en tiempo real.                                        |
+=======
+
 <br><img src="Images/safe uml.png" alt="Diagrama de Clases de SafeChild"><br>
 
 ### **4.7.2. Class Dictionary**
@@ -1149,11 +1166,16 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 | **RecursoEducativo**  | Representa los recursos educativos que un `Cuidador` ofrece durante las sesiones. Incluye atributos como `nombre`, `descripción` y `tipo de recurso` (e.g., libros, videos). Permite la gestión de materiales educativos y su asignación a las sesiones.                                   |
 | **Pago**              | Representa la información de los pagos realizados por el `Padre` a un `Cuidador`. Contiene atributos como `fecha_pago`, `monto` y `método de pago`. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.                                     |
 
+
 ## **4.8. Database Design**
 
 ### **4.8.1. Database Diagram**
 
+![Database Diagram](Images/SFvert.png)
+=======
+
 <br><img src="Images/Safe.png" alt="Diagrama de la base de datos de SafeChild"><br>
+
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
@@ -1518,6 +1540,14 @@ Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en Gi
 
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
 
+
+
+ ![sprint1](Images/evidencie-sprint1.png)
+
+<div align="center">
+  <img src="Images/colaboradores-sprint1.png">
+</div>
+=======
 Durante el Sprint 1, el equipo de desarrollo trabajó de manera colaborativa para implementar las funcionalidades clave del landing page. A través de herramientas de gestión de proyectos como Trello y reuniones periódicas en Discord, se lograron coordinar de manera eficiente las tareas asignadas a cada miembro del equipo. A continuación, se presenta un resumen de las actividades y la colaboración del equipo.
 
 #### Colaboración y Desarrollo de Actividades
@@ -1532,6 +1562,7 @@ Durante el Sprint 1, el equipo de desarrollo trabajó de manera colaborativa par
    - Se realizaron reuniones diarias de seguimiento a través de Discord, donde cada miembro del equipo compartía el estado de sus tareas y discutía cualquier bloqueo o desafío encontrado durante la implementación. Estas reuniones permitieron resolver rápidamente los problemas y mantener un ritmo constante de avance.
 
 3. **Sincronización de Código en GitHub**:
+
 
    - Cada miembro del equipo realizó los commits correspondientes a las tareas completadas en la rama `develop`, siguiendo las convenciones de commits acordadas. Al final del sprint, el código fue revisado y se integraron las funcionalidades en la rama principal `main` para su despliegue.
 
