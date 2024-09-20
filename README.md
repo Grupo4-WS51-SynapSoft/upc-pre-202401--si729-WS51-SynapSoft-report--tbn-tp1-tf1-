@@ -242,47 +242,10 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
 
 # <font color="red">**Student Outcome**</font>
 
-<table >
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  <tr>
-  <tr>
-    <th>Comunica oralmente con efectividad a diferentes rangos de audiencia.</th>
-    <td>
-      <strong>Jean Grandez-TB1</strong><br>
-      Aportó a la colaboración con el equipo de manera efectiva mediante el desarrollo del Lean UX Canvas, Lean UX Problem Statements y Lean UX Assumptions. Además, realizó la creación de User Personas, User Task Matrix y User Journey Mapping, facilitando una comprensión profunda de los usuarios y sus necesidades.<br>
-      <strong>George Aliaga-TB1</strong>
-      Contribuyó al desempeño completo de la realización del Sprint 1, liderando el desarrollo de Lean UX Hypothesis Statements y realizando el análisis competitivo, así como estableciendo estrategias y tácticas frente a la competencia. También desarrolló las General Style Guidelines, Web Style Guidelines y Information Architecture, y colaboró en la elaboración del PPT.<br>
-      <strong>Lynn Meza-TB1</strong><br>
-      Fomentó la colaboración y el liderazgo compartido al participar en la descripción del StartUp y los segmentos objetivos. Desarrolló el Capítulo III: Especificación de Requisitos y trabajó en el Sprint 1 y Software Configuration Management. También se encargó del desarrollo de la sección Home y el navbar de la landing page.<br> 
-      <strong>Jeffrey Sanchez - TB1</strong><br>
-      Conceptualizó las características y soluciones del perfil de la startup, realizó entrevistas al segmento cuidador, y desarrolló la arquitectura de software. Además, trabajó en los Antecedentes y Problemática, así como en la elaboración de Empathy Mapping, As-is Scenario Mapping y To-Be Scenario Mapping. También desarrolló la sección de reseñas y el footer de la landing page.<br>
-    </td>
-    <td>
-    <strong>TB1</strong><br>
-    El equipo demostró una comunicación efectiva al adaptar sus mensajes a diferentes audiencias, presentando información técnica y estratégica de manera clara y comprensible. Esta habilidad facilitó un entendimiento común y alineó los esfuerzos del proyecto, contribuyendo al éxito y a una colaboración eficiente entre todos los miembros y partes interesadas.<br>
-    </td>
-  <tr>
-  <tr>
-    <th>Comunica por escrito con efectividad a diferentes rangos de audiencia</th>
-    <th>
-      <strong>Jean Grandez - TB1</strong><br>
-      Colaboró activamente mediante el uso de un repositorio en GitHub y Trello para agregar los objetivos a desarrollar durante el Sprint 1, facilitando la planificación y el seguimiento de las tareas del equipo.<br>
-      <strong>George Aliaga - TB1</strong><br>
-      Participó en la creación de un entorno colaborativo al desarrollar las distintas metas propuestas para el primer sprint y trabajar en el análisis competitivo y las estrategias de la competencia.<br>
-      <strong>Lynn Meza - TB1</strong><br>
-      Contribuyó al desarrollo de las distintas metas propuestas para el primer sprint, trabajando en la descripción del startup, la especificación de requisitos, y el diseño y desarrollo de la landing page, asegurando la correcta implementación de la sección Home y el navbar.<br>
-      <strong>Jeffrey Sanchez- TB1</strong><br>
-      Mantuvo una comunicación y colaboración constante con los compañeros, facilitando la elaboración del PPT de presentación y asegurando que el contenido refleja adecuadamente el progreso y los resultados del proyecto. Además, gestionó eficazmente la planificación de tareas y la implementación de la arquitectura de software.<br>
-    </th>
-    <th>
-      <strong>TB1:</strong><br>
-      El equipo sobresalió en la comunicación escrita al adaptar documentos y presentaciones para distintos públicos, asegurando que la información técnica y estratégica fuera clara y accesible. Su capacidad para redactar especificaciones, informes y presentaciones adecuadas para diversas audiencias facilitó la comprensión y alineación de objetivos, contribuyendo significativamente al éxito y cohesión del proyecto<br>
-    </th>
-  </tr>
-</table>
+| Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | **Jean Grandez-TB1**<br> Aportó a la colaboración con el equipo de manera efectiva mediante el desarrollo del Lean UX Canvas, Lean UX Problem Statements y Lean UX Assumptions. Además, realizó la creación de User Personas, User Task Matrix y User Journey Mapping, facilitando una comprensión profunda de los usuarios y sus necesidades.<br> **George Aliaga-TB1**<br> Contribuyó al desempeño completo de la realización del Sprint 1, liderando el desarrollo de Lean UX Hypothesis Statements y realizando el análisis competitivo, así como estableciendo estrategias y tácticas frente a la competencia. También desarrolló las General Style Guidelines, Web Style Guidelines y Information Architecture, y colaboró en la elaboración del PPT.<br> **Lynn Meza-TB1**<br> Fomentó la colaboración y el liderazgo compartido al participar en la descripción del StartUp y los segmentos objetivos. Desarrolló el Capítulo III: Especificación de Requisitos y trabajó en el Sprint 1 y Software Configuration Management. También se encargó del desarrollo de la sección Home y el navbar de la landing page.<br> **Jeffrey Sanchez - TB1**<br> Conceptualizó las características y soluciones del perfil de la startup, realizó entrevistas al segmento cuidador, y desarrolló la arquitectura de software. Además, trabajó en los Antecedentes y Problemática, así como en la elaboración de Empathy Mapping, As-is Scenario Mapping y To-Be Scenario Mapping. También desarrolló la sección de reseñas y el footer de la landing page. | **TB1**<br> El equipo demostró una comunicación efectiva al adaptar sus mensajes a diferentes audiencias, presentando información técnica y estratégica de manera clara y comprensible. Esta habilidad facilitó un entendimiento común y alineó los esfuerzos del proyecto, contribuyendo al éxito y a una colaboración eficiente entre todos los miembros y partes interesadas.                                                          |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Jean Grandez - TB1**<br> Colaboró activamente mediante el uso de un repositorio en GitHub y Trello para agregar los objetivos a desarrollar durante el Sprint 1, facilitando la planificación y el seguimiento de las tareas del equipo.<br> **George Aliaga - TB1**<br> Participó en la creación de un entorno colaborativo al desarrollar las distintas metas propuestas para el primer sprint y trabajar en el análisis competitivo y las estrategias de la competencia.<br> **Lynn Meza - TB1**<br> Contribuyó al desarrollo de las distintas metas propuestas para el primer sprint, trabajando en la descripción del startup, la especificación de requisitos, y el diseño y desarrollo de la landing page, asegurando la correcta implementación de la sección Home y el navbar.<br> **Jeffrey Sanchez- TB1**<br> Mantuvo una comunicación y colaboración constante con los compañeros, facilitando la elaboración del PPT de presentación y asegurando que el contenido refleja adecuadamente el progreso y los resultados del proyecto. Además, gestionó eficazmente la planificación de tareas y la implementación de la arquitectura de software.                                                                                                                                                                                                                                                                                                                                                                                         | **TB1:**<br> El equipo sobresalió en la comunicación escrita al adaptar documentos y presentaciones para distintos públicos, asegurando que la información técnica y estratégica fuera clara y accesible. Su capacidad para redactar especificaciones, informes y presentaciones adecuadas para diversas audiencias facilitó la comprensión y alineación de objetivos, contribuyendo significativamente al éxito y cohesión del proyecto. |
 
 # <font color="red"> **Capítulo I: Introducción** </font>
 
@@ -742,13 +705,15 @@ Este lenguaje facilita la comprensión y el consenso en torno a los conceptos y 
 
 #### Padres de familia
 
-![Scenario](Images/scenariomapping-parents.png)
-
+<div align="center">
+    <img src="Images/scenariomapping-parents.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 #### Niñeras y Tutores
 
-![Scenario](Images/ScenarioMappingtobe-babysittersandtutors.png)
-
+<div align="center">
+    <img src="Images/ScenarioMappingtobe-babysittersandtutors.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ## **3.2. User Stories**
 
@@ -801,11 +766,11 @@ Este lenguaje facilita la comprensión y el consenso en torno a los conceptos y 
 
 ## **3.3. Impact Mapping**
 
-
+<div align="center">
   
 ![UserPersona Fabrizio](Images/Impact%20map.png)
 
-
+</div>
 
 ## **3.4. Product Backlog**
 
@@ -863,16 +828,18 @@ La consistencia en el estilo y diseño es crucial para establecer una identidad 
 **Branding:**
 Nuestro logo representa a SafeChild con una figura que sostiene una estrella, simbolizando el cuidado y la confianza que ofrecemos a través de la plataforma. El diseño transmite seguridad y profesionalismo, dos de los valores fundamentales de SafeChild. La tipografía utilizada es moderna y accesible, asegurando legibilidad y fácil reconocimiento del nombre de la marca.
 
-
-![SF](Images/faviconsafechild.png)
-
+<div align="center">
+<img src="Images/faviconsafechild.png" alt="logo safe child" width="800"></a><br>
+<br>
+</div>
 
 **Typography:**
 Se seleccionó una tipografía moderna, limpia y accesible, diseñada para ser legible en dispositivos móviles y de escritorio. La elección de la tipografía tiene como objetivo mejorar la experiencia de lectura y navegación, asegurando que toda la información relevante sea clara para los usuarios.
 
-
-![Landing](Images/tipografiasafechild.png)
-
+<div align="center">
+<img src="Images/tipografiasafechild.png" alt="logo safe child" width="800"></a><br>
+<br>
+</div>
 
 Colors:
 
@@ -883,9 +850,10 @@ Colors:
 **#E1D568:** Amarillo utilizado en detalles y elementos decorativos, aportando un toque de calidez. <br>
 **#65C1C0:** Verde suave para complementar el esquema de colores y reforzar el sentido de tranquilidad y bienestar. <br>
 
-
-![Landing](Images/colorsafechild.png)
-
+<div align="center">
+<img src="Images/colorsafechild.png" alt="logo safe child" width="800"></a><br>
+<br>
+</div>
 
 **Spacing:**
 Se utiliza un espaciado base de 4px para padding y margin en todos los elementos, lo que asegura una apariencia uniforme y ordenada en la interfaz. Este enfoque crea una estructura visual clara y organizada que facilita la navegación, mejorando la experiencia de usuario en dispositivos móviles y web.
@@ -894,9 +862,10 @@ Se utiliza un espaciado base de 4px para padding y margin en todos los elementos
 
 En SafeChild, la Landing Page se ha diseñado para ofrecer a los padres un acceso fácil y rápido a la información clave, como las opciones de inscripción, los beneficios del servicio y el proceso para conectar con niñeras y profesores de confianza. Esta estructura permite captar la atención de los usuarios desde el primer momento, proporcionando una navegación intuitiva y eficiente.
 
-
-![LandindSF](Images/landingwebinterface.png)
-
+<div align="center">
+<img src="Images/landingwebinterface.png" alt="landing safe child" width="800"></a><br>
+<br>
+</div>
 
 **Web Style**<br>
 El diseño de la interfaz es completamente responsivo, asegurando que se ajuste a cualquier dispositivo, ya sea un móvil, tableta o computadora de escritorio, sin perder calidad en la presentación. Los elementos clave están organizados para que la experiencia de usuario sea fluida en todas las plataformas.
@@ -914,7 +883,7 @@ Las imágenes utilizadas en la plataforma son cuidadosamente seleccionadas para 
 
 En SafeChild, buscamos ofrecer una plataforma intuitiva, segura y confiable para conectar a padres que buscan servicios de cuidado infantil y cuidadores que desean registrarse para ofrecer sus servicios. Debido a la naturaleza de los servicios que involucran cuidado infantil y transacciones seguras, la arquitectura de la información es clave para lograr nuestros objetivos. A continuación, se presenta el diseño y organización de la plataforma.
 
-**1. Página de Inicio:**
+<b> 1. Página de Inicio: </b>
 
 - Vista Previa de Cuidadores Disponibles: <br>
   Muestra cuidadores destacados o populares para captar la atención de los padres que buscan servicios.
@@ -925,7 +894,7 @@ En SafeChild, buscamos ofrecer una plataforma intuitiva, segura y confiable para
 - Quiénes Somos y Contacto: <br>
   Información sobre la misión de la plataforma, los valores fundamentales y los medios de contacto para consultas o asistencia.
 
-**2. Buscar Cuidadores (Para Padres y Tutores):**
+<b> 2. Buscar Cuidadores (Para Padres y Tutores): </b>
 
 - Categorías de Servicios: <br>
   Sección que agrupa los servicios de cuidado infantil según las necesidades específicas: cuidado a tiempo completo, cuidado parcial, cuidado de niños con necesidades especiales, etc.
@@ -936,7 +905,7 @@ En SafeChild, buscamos ofrecer una plataforma intuitiva, segura y confiable para
 - Vista Detallada de Perfiles: <br>
   Cada cuidador cuenta con una página individual que muestra su experiencia, calificaciones, tarifas, disponibilidad y certificaciones.
 
-**3. Registro de Cuidadores:**
+<b> 3. Registro de Cuidadores: </b>
 
 - Formulario de Registro: <br>
   Formulario para que los cuidadores se registren en la plataforma, ingresando información como experiencia, habilidades, certificaciones y disponibilidad.
@@ -947,7 +916,7 @@ En SafeChild, buscamos ofrecer una plataforma intuitiva, segura y confiable para
 - Historial de Servicios y Pagos: <br>
   Los cuidadores pueden revisar un historial de los servicios que han realizado, las calificaciones obtenidas y los pagos recibidos.
 
-**4. Reservar Servicios de Cuidado:**
+<b> 4. Reservar Servicios de Cuidado: </b>
 
 - Interfaz de Reserva: <br>
   Una interfaz simple para que los padres seleccionen el cuidador, fecha y hora para reservar el servicio de cuidado infantil.
@@ -959,7 +928,7 @@ En SafeChild, buscamos ofrecer una plataforma intuitiva, segura y confiable para
 
 El sistema de organización de SafeChild está diseñado para brindar la mejor experiencia posible tanto para los padres que buscan contratar servicios como para los cuidadores que desean ofrecerlos.
 
-**1. Categorización de la Información:**
+<b> 1. Categorización de la Información: </b>
 
 - Perfiles de Cuidadores: <br>
   Categorizados por experiencia, tipo de cuidado (niños pequeños, cuidado especializado, cuidado nocturno, etc.) y certificaciones.
@@ -975,7 +944,7 @@ El sistema de organización de SafeChild está diseñado para brindar la mejor e
 - Búsqueda Avanzada: <br>
   Función que permite a los padres buscar cuidadores con características específicas, como "cuidadores con experiencia en niños con necesidades especiales" o "cuidadores disponibles los fines de semana".
 
-**3. Interfaz de Usuario Intuitiva:**
+<b> 3. Interfaz de Usuario Intuitiva: </b>
 
 - Menú Principal: <br>
   Un menú claro y accesible que incluye las secciones clave: Buscar Cuidadores, Registro de Cuidadores, Historial de Servicios, y Perfil de Usuario.
@@ -983,7 +952,7 @@ El sistema de organización de SafeChild está diseñado para brindar la mejor e
 - Submenús Contextuales: <br>
   Dentro de las secciones principales, los submenús guían a los usuarios hacia opciones específicas como "cuidado a tiempo completo" o "cuidado de niños con necesidades especiales".
 
-**4. Funcionalidades Específicas:**
+<b> 4. Funcionalidades Específicas: </b>
 
 - Perfiles de Cuidadores: <br>
   Cada cuidador tiene una página individual que muestra su experiencia, certificaciones, calificaciones, tarifas y disponibilidad, junto con una opción para contactarlo o reservar un servicio.
@@ -1003,44 +972,44 @@ Para mejorar la navegación y comprensión, SafeChild utilizará un sistema de e
 
 ### **4.2.3. SEO Tags and Meta Tags**
 
-![tags](Images/Tags.png)
+<img src="./Images/Tags.png" alt="Tags">
 
 ### **4.2.4. Searching Systems**
 
 El sistema de búsqueda dentro de la plataforma permitirá a los padres y cuidadores encontrar la información que necesitan de manera rápida y eficaz.
 
-**1. Búsqueda por Tipo de Cuidado:**
+<b> 1. Búsqueda por Tipo de Cuidado: </b> <br>
 Los padres pueden buscar cuidadores por tipo de cuidado, como "cuidado nocturno", "cuidado a tiempo completo" o "cuidado de niños con necesidades especiales".
 
-**2. Búsqueda por Ubicación:**
+<b> 2. Búsqueda por Ubicación: </b> <br>
 Los padres pueden filtrar los resultados de búsqueda de cuidadores según la proximidad a su hogar.
 
-**3. Búsqueda por Disponibilidad:**
+<b> 3. Búsqueda por Disponibilidad: </b> <br>
 Se ofrece una búsqueda avanzada que permite a los padres buscar cuidadores según la disponibilidad en días y horarios específicos.
 
-**4. Búsqueda por Calificaciones:**
+<b> 4. Búsqueda por Calificaciones: </b> <br>
 Los padres pueden buscar cuidadores con las mejores calificaciones y opiniones de otros usuarios.
 
-**5. Búsqueda por Precio:**
+<b> 5. Búsqueda por Precio: </b> <br>
 Los usuarios pueden filtrar cuidadores según sus tarifas, buscando servicios que se ajusten a su presupuesto.
 
 ### **4.2.5. Navigation Systems**
 
 El sistema de navegación está diseñado para ofrecer una experiencia fluida, fácil de usar y segura para ambos segmentos (padres y cuidadores).
 
-**1. Menú Principal:**
+<b> 1. Menú Principal: </b> <br>
 El menú principal incluirá enlaces a las secciones más importantes: Inicio, Buscar Cuidadores, Registro de Cuidadores, Historial de Servicios y Perfil.
 
-**2. Navegación Contextual:**
+<b> 2. Navegación Contextual: </b> <br>
 Cada sección principal tendrá submenús específicos para ayudar a los usuarios a acceder a opciones más detalladas dentro de la plataforma, como filtros de búsqueda o ajustes de perfil.
 
-**3. Botones de Acción Destacados:**
+<b> 3. Botones de Acción Destacados: </b> <br>
 Botones llamativos como "Buscar Cuidadores", "Registrar como Cuidador" y "Reservar Servicio" estarán estratégicamente ubicados para facilitar la interacción.
 
-**4. Búsqueda y Filtros Visibles:**
+<b> 4. Búsqueda y Filtros Visibles: </b> <br>
 La barra de búsqueda y los filtros estarán siempre visibles para que los usuarios puedan ajustar rápidamente los resultados y encontrar cuidadores de acuerdo a sus preferencias.
 
-**5. Flujo de Navegación Intuitivo:**
+<b> 5. Flujo de Navegación Intuitivo: </b> <br>
 Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógico y claro que guía a los usuarios en cada etapa, con mensajes de acción y señales visuales que facilitan el proceso.
 
 ## **4.3. Landing Page UI Design**
@@ -1049,36 +1018,37 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 ## Pantalla Principal
 
-![SF](Images/LandingPageWireframe1.png)
+<td><img src="Images/LandingPageWireframe1.png" alt="Imagen del Inicio" width="1500"></td>
 
 ## ¿Por qué escogernos?
 
-![SF](Images/LandingPageWireframe2.png)
+<td><img src="Images/LandingPageWireframe2.png" alt="Segunda imagen " width="1500"></td>
 
 ## Service Features
 
-![SF](Images/LandingPageWireframe3.png)
+<td><img src="Images/LandingPageWireframe3.png" alt="Imagen de los servicios" width="1500"></td>
 
 ## Contactanos
 
-![SF](Images/LandingPageWireframe4.png)
+<td><img src="Images/LandingPageWireframe4.png" alt="Imagen del Contact us" width="1500"></td>
 
 ### **4.3.2. Landing Page Mock-up**
 
 ## Pantalla Principal
 
-![SF](Images/MockupLanding1.png)
+<td><img src="Images/MockupLanding1.png" alt="ImagenInicio" width="1500"></td>
 
 ## ¿Por qué escogernos?
 
-![SF](Images/MockupLanding2.png)
+<td><img src="Images/MockupLanding2.png" alt="Segundaimagen " width="1500"></td>
+
 ## Service Features
 
-![SF](Images/MockupLanding3.png)
+<td><img src="Images/MockupLanding3.png" alt="Imagen servicios" width="1500"></td>
 
 ## Contactanos
 
-![SF](Images/MockupLanding4.png)
+<td><img src="Images/MockupLanding4.png" alt="Contact us" width="1500"></td>
 
 ## **4.4. Web Applications UX/UI Design**
 
@@ -1127,31 +1097,26 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 ### **4.7.1. Class Diagrams**
 
-![Diagrama de Clases](Images/SFUML.png)
+<br><img src="Images/safe uml.png" alt="Diagrama de Clases de SafeChild"><br>
+
 ### **4.7.2. Class Dictionary**
-| **Clase**             | **Descripción**                                                                                                                                                                                                                                          |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Usuario**           | Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como `Padre`, `Cuidador` y `Admin`. Contiene atributos como `nombre`, `email`, `contraseña` y `teléfono`. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios. |
-| **Padre**             | Hereda de la clase `Usuario`. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional como `hijos`, `historial` y `preferencias`, relacionado con su perfil de contratación y gestión de hijos.                                           |
-| **Cuidador**          | Hereda de la clase `Usuario`. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como `especialidades`, `calificación`, `verificación (booleano)` y `disponibilidad`, que son específicos de los cuidadores.                                                    |
-| **Admin**             | Hereda de la clase `Usuario`. Representa a los administradores que gestionan el sistema. Contiene métodos para `verificarCuenta()`, `gestionar_usuarios()` y `asignar_rol()`, entre otras funciones administrativas.                                         |
-| **Hijo**              | Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un `Padre` y tiene atributos como `nombre`, `edad` y `historialDesarrollo`. Permite asociar cada hijo con las `Sesiones` de cuidado o educativas en las que participa.                                     |
-| **Sesión**            | Representa cada sesión de cuidado o educación que tiene lugar entre un `Cuidador` y uno o más `Hijos`. Incluye atributos como `duración`, `servicio` y la relación con `hijos` y `reseñas`. Es importante para realizar un seguimiento de las interacciones.                                        |
-| **Reserva**           | Representa las reservas de sesiones entre un `Padre` y un `Cuidador`. Contiene atributos como `fecha`, `estado` y las referencias al `Padre` y `Cuidador`. Permite realizar un seguimiento del estado de las sesiones.                                      |
-| **Pago**              | Representa la información de los pagos realizados por el `Padre` a un `Cuidador` por las sesiones reservadas. Contiene atributos como `fecha_pago`, `monto` y `estado`. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.                           |
-| **Reseña**            | Representa las reseñas que un `Padre` deja para un `Cuidador` después de una sesión. Contiene atributos como `texto` y `calificación`. Permite que los `Padres` califiquen a los cuidadores.                                                                 |
-| **Mensaje**           | Representa los mensajes intercambiados entre usuarios del sistema, ya sea `Padres` o `Cuidadores`. Incluye atributos como `contenido`, `fecha_envio`, y está asociado a un `remitente` y `destinatario`. Facilita la comunicación entre usuarios.                                                    |
-| **Notificación**      | Clase que almacena notificaciones enviadas a los usuarios del sistema. Contiene atributos como `mensaje`, `fecha_envío` y está asociada a un `Usuario`. Permite el envío de alertas y notificaciones en tiempo real.                                        |
 
-
-
+| **Clase**             | **Descripción**                                                                                                                                                                                                                                                                            |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Usuario**           | Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como `Padre` y `Cuidador`. Contiene atributos como `nombre`, `email`, `contraseña` y `teléfono`. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios. |
+| **Padre**             | Hereda de la clase `Usuario`. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional relacionada a su perfil de contratación y gestión de hijos.                                                                                |
+| **Cuidador**          | Hereda de la clase `Usuario`. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como `experiencia`, `calificación`, `verificación (booleano)` y `disponibilidad`, que son específicos de los cuidadores.                                               |
+| **Hijo**              | Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un `Padre` y tiene atributos como `nombre` y `fecha de nacimiento`. Permite asociar cada hijo con las `Sesiones` de cuidado o educativas en las que participa.                                  |
+| **Sesión**            | Representa cada sesión de cuidado o educación que tiene lugar entre un `Cuidador` y uno o más `Hijos`. Incluye atributos como `fecha`, `duración` y `descripción` de la sesión. Es importante para realizar un seguimiento de las interacciones.                                           |
+| **ReporteDesarrollo** | Clase que almacena reportes generados por el `Cuidador` sobre el progreso del niño o cualquier incidencia durante la sesión. Contiene atributos como `detalle`, `fecha` y `observaciones`. Proporciona un mecanismo de retroalimentación a los padres.                                     |
+| **RecursoEducativo**  | Representa los recursos educativos que un `Cuidador` ofrece durante las sesiones. Incluye atributos como `nombre`, `descripción` y `tipo de recurso` (e.g., libros, videos). Permite la gestión de materiales educativos y su asignación a las sesiones.                                   |
+| **Pago**              | Representa la información de los pagos realizados por el `Padre` a un `Cuidador`. Contiene atributos como `fecha_pago`, `monto` y `método de pago`. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.                                     |
 
 ## **4.8. Database Design**
 
 ### **4.8.1. Database Diagram**
 
-![Database Diagram](Images/SFvert.png)
-
+<br><img src="Images/Safe.png" alt="Diagrama de la base de datos de SafeChild"><br>
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
@@ -1516,14 +1481,6 @@ Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en Gi
 
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
 
-
-
- ![sprint1](Images/evidencie-sprint1.png)
-
-<div align="center">
-  <img src="Images/colaboradores-sprint1.png">
-</div>
-=======
 Durante el Sprint 1, el equipo de desarrollo trabajó de manera colaborativa para implementar las funcionalidades clave del landing page. A través de herramientas de gestión de proyectos como Trello y reuniones periódicas en Discord, se lograron coordinar de manera eficiente las tareas asignadas a cada miembro del equipo. A continuación, se presenta un resumen de las actividades y la colaboración del equipo.
 
 #### Colaboración y Desarrollo de Actividades
@@ -1538,7 +1495,6 @@ Durante el Sprint 1, el equipo de desarrollo trabajó de manera colaborativa par
    - Se realizaron reuniones diarias de seguimiento a través de Discord, donde cada miembro del equipo compartía el estado de sus tareas y discutía cualquier bloqueo o desafío encontrado durante la implementación. Estas reuniones permitieron resolver rápidamente los problemas y mantener un ritmo constante de avance.
 
 3. **Sincronización de Código en GitHub**:
-
 
    - Cada miembro del equipo realizó los commits correspondientes a las tareas completadas en la rama `develop`, siguiendo las convenciones de commits acordadas. Al final del sprint, el código fue revisado y se integraron las funcionalidades en la rama principal `main` para su despliegue.
 
