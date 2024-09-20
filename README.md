@@ -1149,22 +1149,8 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 | **Reseña**            | Representa las reseñas que un `Padre` deja para un `Cuidador` después de una sesión. Contiene atributos como `texto` y `calificación`. Permite que los `Padres` califiquen a los cuidadores.                                                                 |
 | **Mensaje**           | Representa los mensajes intercambiados entre usuarios del sistema, ya sea `Padres` o `Cuidadores`. Incluye atributos como `contenido`, `fecha_envio`, y está asociado a un `remitente` y `destinatario`. Facilita la comunicación entre usuarios.                                                    |
 | **Notificación**      | Clase que almacena notificaciones enviadas a los usuarios del sistema. Contiene atributos como `mensaje`, `fecha_envío` y está asociada a un `Usuario`. Permite el envío de alertas y notificaciones en tiempo real.                                        |
-=======
 
-<br><img src="Images/safe uml.png" alt="Diagrama de Clases de SafeChild"><br>
 
-### **4.7.2. Class Dictionary**
-
-| **Clase**             | **Descripción**                                                                                                                                                                                                                                                                            |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Usuario**           | Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como `Padre` y `Cuidador`. Contiene atributos como `nombre`, `email`, `contraseña` y `teléfono`. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios. |
-| **Padre**             | Hereda de la clase `Usuario`. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional relacionada a su perfil de contratación y gestión de hijos.                                                                                |
-| **Cuidador**          | Hereda de la clase `Usuario`. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como `experiencia`, `calificación`, `verificación (booleano)` y `disponibilidad`, que son específicos de los cuidadores.                                               |
-| **Hijo**              | Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un `Padre` y tiene atributos como `nombre` y `fecha de nacimiento`. Permite asociar cada hijo con las `Sesiones` de cuidado o educativas en las que participa.                                  |
-| **Sesión**            | Representa cada sesión de cuidado o educación que tiene lugar entre un `Cuidador` y uno o más `Hijos`. Incluye atributos como `fecha`, `duración` y `descripción` de la sesión. Es importante para realizar un seguimiento de las interacciones.                                           |
-| **ReporteDesarrollo** | Clase que almacena reportes generados por el `Cuidador` sobre el progreso del niño o cualquier incidencia durante la sesión. Contiene atributos como `detalle`, `fecha` y `observaciones`. Proporciona un mecanismo de retroalimentación a los padres.                                     |
-| **RecursoEducativo**  | Representa los recursos educativos que un `Cuidador` ofrece durante las sesiones. Incluye atributos como `nombre`, `descripción` y `tipo de recurso` (e.g., libros, videos). Permite la gestión de materiales educativos y su asignación a las sesiones.                                   |
-| **Pago**              | Representa la información de los pagos realizados por el `Padre` a un `Cuidador`. Contiene atributos como `fecha_pago`, `monto` y `método de pago`. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.                                     |
 
 
 ## **4.8. Database Design**
@@ -1172,9 +1158,6 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 ### **4.8.1. Database Diagram**
 
 ![Database Diagram](Images/SFvert.png)
-=======
-
-<br><img src="Images/Safe.png" alt="Diagrama de la base de datos de SafeChild"><br>
 
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
