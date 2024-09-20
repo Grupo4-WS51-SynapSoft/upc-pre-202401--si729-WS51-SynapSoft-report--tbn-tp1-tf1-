@@ -32,78 +32,22 @@
 
 <br>
 
-# <font color="red">**Registro de Versiones del Informe**</font>
+# **Registro de Versiones del Informe**
 
-<table BORDER>
-    <tr>
-        <td>VERSION</td>
-        <td>FECHA</td>
-        <td> AUTOR </td>
-        <td>DESCRIPCION DE MODIFICACION</td>
-    </tr>
-    <tr>
-        <td>01</td>
-        <td>17/08/2024</td>
-        <td> Lynn Meza Camayo </td>
-        <td>Formato del documento</td>
-    </tr>
-    <tr>
-        <td>02</td>
-        <td>20/08/2024</td>
-        <td>Jefrey Sanchez Ignacio</td>
-        <td>Antecedentes y problematicas</td>
-    </tr>
-    <tr>
-        <td>03</td>
-        <td>20/08/2024</td>
-        <td>George Aliaga Pimentel</td>
-        <td>Lean UX Hypothesis Statements</td>
-    </tr>
-    <tr>
-        <td>04</td>
-        <td>21/08/24</td>
-        <td>Lynn Meza Camayo</td>
-        <td>Desarrollo del descipción de la StartUp y segmentos Objetivos</td>
-    </tr>
-    <tr>
-        <td>05</td>
-        <td>21/08/24</td>
-        <td>Jean Grandez Mansilla</td>
-        <td>Desarrollo del Lean UX Problem Statements, Assumptions y Canvas</td>
-    </tr>
-    <tr>
-        <td>06</td>
-        <td>27/08/24</td>
-        <td>Jean Grandez Mansilla</td>
-        <td>Desarrollo del User person y User task Matrix</td>
-    </tr>
-    <tr>
-        <td>07</td>
-        <td>29/08/24</td>
-        <td>George Aliaga Pimentel</td>
-        <td>Desarrollo del Análisis competitivo, Estrategias y tácticas frente a competidores , 1 entrevista y analisis</td>
-    </tr>
-    <tr>
-        <td>08</td>
-        <td>30/08/24</td>
-        <td>Jefrey Sanchez Ignacio</td>
-        <td>Desarrollo del empathy mapping, As-Is scenario mapping y 3 entrevista y analisis de niñeras/tutores </td>
-    </tr>
-    <tr>
-        <td>09</td>
-        <td>30/08/24</td>
-        <td>Jean Grandez Mansilla</td>
-        <td>>Desarrollo del User Journey Mapping y 1 entrevista y analisis entrevista tutores</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>30/08/24</td>
-        <td>Lynn Meza Camayo</td>
-        <td>Desarrollo del User Stories, Impact mapping y el  Product Backlog</td>
-    </tr>
-</table>
+| VERSION | FECHA      | AUTOR                  | DESCRIPCIÓN DE MODIFICACIÓN                                                                                |
+| ------- | ---------- | ---------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 01      | 17/08/2024 | Lynn Meza Camayo       | Formato del documento                                                                                      |
+| 02      | 20/08/2024 | Jefrey Sanchez Ignacio | Antecedentes y problemáticas                                                                               |
+| 03      | 20/08/2024 | George Aliaga Pimentel | Lean UX Hypothesis Statements                                                                              |
+| 04      | 21/08/2024 | Lynn Meza Camayo       | Desarrollo de la descripción de la StartUp y segmentos Objetivos                                           |
+| 05      | 21/08/2024 | Jean Grandez Mansilla  | Desarrollo del Lean UX Problem Statements, Assumptions y Canvas                                            |
+| 06      | 27/08/2024 | Jean Grandez Mansilla  | Desarrollo del User persona y User task Matrix                                                             |
+| 07      | 29/08/2024 | George Aliaga Pimentel | Desarrollo del Análisis competitivo, Estrategias y tácticas frente a competidores, 1 entrevista y análisis |
+| 08      | 30/08/2024 | Jefrey Sanchez Ignacio | Desarrollo del empathy mapping, As-Is scenario mapping y 3 entrevistas y análisis de niñeras/tutores       |
+| 09      | 30/08/2024 | Jean Grandez Mansilla  | Desarrollo del User Journey Mapping y 1 entrevista y análisis de entrevista a tutores                      |
+| 10      | 30/08/2024 | Lynn Meza Camayo       | Desarrollo del User Stories, Impact mapping y el Product Backlog                                           |
 
-# <font color="red">**Project Report Collaboration Insights**</font>
+# **Project Report Collaboration Insights**
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo4-WS51-SynapSoft>
 
