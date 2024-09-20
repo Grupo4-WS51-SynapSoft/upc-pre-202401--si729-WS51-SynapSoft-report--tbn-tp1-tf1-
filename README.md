@@ -1617,7 +1617,7 @@ Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a847
 
 ## Login
 
-<td><img src="Images/MockWeb1" alt="Login" width="1500"></td>
+<td><img src="Images/MockWeb1.png" alt="Login" width="1500"></td>
 
 ## Registro
 
