@@ -171,14 +171,16 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
       - [Niñeras y Tutores](#niñeras-y-tutores-1)
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
+
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
 
-      - [Padres de familia](#padres-de-familia-2)
-      - [Niñeras y Tutores](#niñeras-y-tutores-2)
+    - [Padres de familia](#padres-de-familia-2)
+    - [Niñeras y Tutores](#niñeras-y-tutores-2)
 
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
+
 - [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
   - [**4.1. Style Guidelines**](#41-style-guidelines)
     - [**4.1.1. General Style Guidelines**](#411-general-style-guidelines)
@@ -211,8 +213,8 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [Lista de Reservas](#lista-de-reservas)
   - [Mensajeria](#mensajeria)
 - [Envio y recibo de mensajes](#envio-y-recibo-de-mensajes)
-    - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
-    - [**4.4.3. Web Applications Mock-ups**](#443-web-applications-mock-ups)
+  - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
+  - [**4.4.3. Web Applications Mock-ups**](#443-web-applications-mock-ups)
   - [Login](#login-1)
   - [Registro](#registro-1)
   - [Pagina Principal / Lista de Usuarios Cuidadores](#pagina-principal--lista-de-usuarios-cuidadores-1)
@@ -221,7 +223,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [Lista de Reservas](#lista-de-reservas-1)
   - [Mensajeria](#mensajeria-1)
 - [Envio y recibo de mensajes](#envio-y-recibo-de-mensajes-1)
-    - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
+  - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
   - [**4.5. Web Applications Prototyping**](#45-web-applications-prototyping)
   - [**4.6. Domain-Driven Software Architecture**](#46-domain-driven-software-architecture)
     - [**4.6.1. Software Architecture Context Diagram**](#461-software-architecture-context-diagram)
@@ -1073,7 +1075,6 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 ### **4.4.1. Web Applications Wireframes**
 
-
 ## Login
 
 <td><img src="Images/WebApplicationsWireFrames1.png" alt="Imagen del Login" width="1500"></td>
@@ -1082,11 +1083,11 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/WebApplicationsWireFrames2.png" alt="Imagen del Registro" width="1500"></td>
 
-## Pagina Principal / Lista de Usuarios Cuidadores 
+## Pagina Principal / Lista de Usuarios Cuidadores
 
 <td><img src="Images/WebApplicationsWireFrames3.png" alt="Imagen del Home" width="1500"></td>
 
-## Profile del usuario 
+## Profile del usuario
 
 <td><img src="Images/WebApplicationsWireFrames4.png" alt="Imagen del Profile" width="1500"></td>
 
@@ -1098,7 +1099,7 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/WebApplicationsWireFrames12.png" alt="Imagen de reserva añadida" width="1500"></td>
 
-## Lista de Reservas 
+## Lista de Reservas
 
 <td><img src="Images/WebApplicationsWireFrames13.png" alt="Imagen del Reservas" width="1500"></td>
 
@@ -1109,7 +1110,6 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 # Envio y recibo de mensajes
 
 <td><img src="Images/WebApplicationsWireFrames15.png" alt="Imagen de chat entre usuario y cuidador" width="1500"></td>
-
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
@@ -1133,7 +1133,7 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/MockWeb2.png" alt="Registro" width="1500"></td>
 
-## Pagina Principal / Lista de Usuarios Cuidadores 
+## Pagina Principal / Lista de Usuarios Cuidadores
 
 <td><img src="Images/MockWeb3.png" alt="Home" width="1500"></td>
 
@@ -1145,7 +1145,7 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/MockWeb8.png" alt="Reserva añadida" width="1500"></td>
 
-## Lista de Reservas 
+## Lista de Reservas
 
 <td><img src="Images/MockWeb5.png" alt="Reservas" width="1500"></td>
 
@@ -1156,13 +1156,6 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 # Envio y recibo de mensajes
 
 <td><img src="Images/MockWeb7.png" alt="Imagen de chat entre usuario y cuidador" width="1500"></td>
-
-
-
-### **4.4.2. Web Applications Wireflow Diagrams**
-
-### **4.4.3. Web Applications Mock-ups**
-
 
 ### **4.4.4. Web Applications User Flow Diagrams**
 
