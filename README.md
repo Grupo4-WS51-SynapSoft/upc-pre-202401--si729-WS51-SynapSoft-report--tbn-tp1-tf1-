@@ -121,7 +121,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
 - [**Registro de Versiones del Informe**](#registro-de-versiones-del-informe)
 - [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
 - [**Contenido**](#contenido)
-  - [Tabla de contenidos](#tabla-de-contenidos)
+    - [Tabla de contenidos](#tabla-de-contenidos)
 - [**Student Outcome**](#student-outcome)
 - [ **Capítulo I: Introducción** ](#-capítulo-i-introducción-)
   - [**1.1. Startup Profile**](#11-startup-profile)
@@ -141,7 +141,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
-      - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
+        - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
   - [**1.3. Segmentos objetivo**](#13-segmentos-objetivo)
 - [ **Capítulo II: Requirements Elicitation \& Analysis**](#-capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores**](#21-competidores)
@@ -154,10 +154,15 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
       - [Para Cuidadores (Niñeras y Tutores)](#para-cuidadores-niñeras-y-tutores)
     - [**2.2.2. Registro de entrevistas**](#222-registro-de-entrevistas)
     - [**2.2.3. Análisis de entrevistas**](#223-análisis-de-entrevistas)
+      - [**Primer Entrevistado: Fabrizio Sanchez**](#primer-entrevistado-fabrizio-sanchez)
+      - [**Segundo Entrevistado: Edwhin Palomino**](#segundo-entrevistado-edwhin-palomino)
+      - [**Tercer Entrevistado: Luhana Acuña**](#tercer-entrevistado-luhana-acuña)
+      - [**Cuarto Entrevistado: Maria Fernanda Gil Moya**](#cuarto-entrevistado-maria-fernanda-gil-moya)
+      - [**Quinto Entrevistado: Harold Mayta**](#quinto-entrevistado-harold-mayta)
   - [**2.3. Needfinding**](#23-needfinding)
     - [**2.3.1. User Personas**](#231-user-personas)
       - [**User Persona 1: Fabrizio**](#user-persona-1-fabrizio)
-    - [**User Persona 2: Johan**](#user-persona-2-johan)
+      - [**User Persona 2: Johan**](#user-persona-2-johan)
     - [**2.3.2. User Task Matrix**](#232-user-task-matrix)
     - [Explicación de la tabla](#explicación-de-la-tabla)
     - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
@@ -171,18 +176,14 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
       - [Niñeras y Tutores](#niñeras-y-tutores-1)
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
-
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
-
-    - [Padres de familia](#padres-de-familia-2)
-    - [Niñeras y Tutores](#niñeras-y-tutores-2)
-
+      - [Padres de familia](#padres-de-familia-2)
+      - [Niñeras y Tutores](#niñeras-y-tutores-2)
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
-
 - [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
-  - [**4.1. Style Guidelines**](#41-style-guidelines)
+    - [**4.1. Style Guidelines**](#41-style-guidelines)
     - [**4.1.1. General Style Guidelines**](#411-general-style-guidelines)
     - [**4.1.2. Web Style Guidelines**](#412-web-style-guidelines)
   - [**4.2. Information Architecture**](#42-information-architecture)
@@ -213,8 +214,11 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [Lista de Reservas](#lista-de-reservas)
   - [Mensajeria](#mensajeria)
 - [Envio y recibo de mensajes](#envio-y-recibo-de-mensajes)
-  - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
-  - [**4.4.3. Web Applications Mock-ups**](#443-web-applications-mock-ups)
+  - [Menú de metodo de pago](#menú-de-metodo-de-pago)
+- [Añadir Tarjeta](#añadir-tarjeta)
+- [Eliminar Tarjeta](#eliminar-tarjeta)
+    - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
+    - [**4.4.3. Web Applications Mock-ups**](#443-web-applications-mock-ups)
   - [Login](#login-1)
   - [Registro](#registro-1)
   - [Pagina Principal / Lista de Usuarios Cuidadores](#pagina-principal--lista-de-usuarios-cuidadores-1)
@@ -223,13 +227,17 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [Lista de Reservas](#lista-de-reservas-1)
   - [Mensajeria](#mensajeria-1)
 - [Envio y recibo de mensajes](#envio-y-recibo-de-mensajes-1)
-  - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
+  - [Menú de metodo de pago](#menú-de-metodo-de-pago-1)
+- [Añadir Tarjeta](#añadir-tarjeta-1)
+- [Eliminar Tarjeta](#eliminar-tarjeta-1)
+    - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
   - [**4.5. Web Applications Prototyping**](#45-web-applications-prototyping)
   - [**4.6. Domain-Driven Software Architecture**](#46-domain-driven-software-architecture)
     - [**4.6.1. Software Architecture Context Diagram**](#461-software-architecture-context-diagram)
     - [**4.6.2. Software Architecture Container Diagrams**](#462-software-architecture-container-diagrams)
     - [**4.6.3. Software Architecture Components Diagrams**](#463-software-architecture-components-diagrams)
   - [**4.7. Software Object-Oriented Design**](#47-software-object-oriented-design)
+  - [**4.7. Software Object-Oriented Design**](#47-software-object-oriented-design-1)
     - [**4.7.1. Class Diagrams**](#471-class-diagrams)
     - [**4.7.2. Class Dictionary**](#472-class-dictionary)
   - [**4.8. Database Design**](#48-database-design)
@@ -238,8 +246,11 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [**5.1. Software Configuration Management**](#51-software-configuration-management)
     - [**5.1.1. Software Development Environment Configuration**](#511-software-development-environment-configuration)
     - [**5.1.2. Source Code Management**](#512-source-code-management)
+      - [Implementación de Git Flow](#implementación-de-git-flow)
+      - [Flujo de Trabajo en Git Flow:](#flujo-de-trabajo-en-git-flow)
     - [**5.1.3. Source Code Style Guide \& Conventions**](#513-source-code-style-guide--conventions)
     - [**5.1.4. Software Deployment Configuration**](#514-software-deployment-configuration)
+      - [Pasos para el despliegue en GitHub Pages:](#pasos-para-el-despliegue-en-github-pages)
   - [**5.2. Landing Page, Services \& Applications Implementation**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1**](#521-sprint-1)
     - [**5.2.1.1. Sprint Planning 1**](#5211-sprint-planning-1)
@@ -250,6 +261,8 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
     - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
     - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
+      - [Colaboración y Desarrollo de Actividades](#colaboración-y-desarrollo-de-actividades)
+      - [Evidencias de Colaboración](#evidencias-de-colaboración)
   - [**5.3. Validation Interviews**](#53-validation-interviews)
     - [**5.3.1. Diseño de Entrevistas**](#531-diseño-de-entrevistas)
     - [**5.3.2. Registro de Entrevistas**](#532-registro-de-entrevistas)
@@ -1053,6 +1066,10 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/LandingPageWireframe4.png" alt="Imagen del Contact us" width="1500"></td>
 
+
+**Link del Figma**:  https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=1-3&t=A8OVD3piJPzXx6KA-1
+
+
 ### **4.3.2. Landing Page Mock-up**
 
 ## Pantalla Principal
@@ -1070,6 +1087,8 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 ## Contactanos
 
 <td><img src="Images/MockupLanding4.png" alt="Contact us" width="1500"></td>
+
+**Link del Figma**: https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=1-4&t=A8OVD3piJPzXx6KA-1
 
 ## **4.4. Web Applications UX/UI Design**
 
@@ -1110,6 +1129,22 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 # Envio y recibo de mensajes
 
 <td><img src="Images/WebApplicationsWireFrames15.png" alt="Imagen de chat entre usuario y cuidador" width="1500"></td>
+
+## Menú de metodo de pago
+
+<td><img src="Images/WebApplicationsWireFrames16.png" alt="Imagen de Menú pago" width="1500"></td>
+
+# Añadir Tarjeta
+
+<td><img src="Images/WebApplicationsWireFrames17.png" alt="Imagen de Añadir Tarjeta" width="1500"></td>
+
+# Eliminar Tarjeta
+
+<td><img src="Images/WebApplicationsWireFrames18.png" alt="Imagen de Borrar Tarjeta" width="1500"></td>
+
+
+**Link del Figma**: https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=280-10&t=A8OVD3piJPzXx6KA-1
+
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
@@ -1157,6 +1192,21 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/MockWeb7.png" alt="Imagen de chat entre usuario y cuidador" width="1500"></td>
 
+## Menú de metodo de pago
+
+<td><img src="Images/MockWeb9.png" alt="Imagen Menú pago" width="1500"></td>
+
+# Añadir Tarjeta
+
+<td><img src="Images/MockWeb10.png" alt="Imagen Añadir Tarjeta" width="1500"></td>
+
+# Eliminar Tarjeta
+
+<td><img src="Images/MockWeb11.png" alt="Imagen Borrar Tarjeta" width="1500"></td>
+
+**Link del Figma**: https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=114-2&t=A8OVD3piJPzXx6KA-1
+
+
 ### **4.4.4. Web Applications User Flow Diagrams**
 
 <td><img src="Images/Flow1.png" alt="Wire1" width="1500"></td>
@@ -1170,6 +1220,8 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 <td><img src="Images/Flow5.png" alt="Wire5" width="1500"></td>
 
 ## **4.5. Web Applications Prototyping**
+
+**Link del Figma del Prototipo**: https://www.figma.com/proto/YhQr8KREW3QoSHmK0F3E8z/Untitled?scaling=min-zoom&content-scaling=fixed&page-id=114%3A2&node-id=262-2&starting-point-node-id=262%3A2
 
 ## **4.6. Domain-Driven Software Architecture**
 
