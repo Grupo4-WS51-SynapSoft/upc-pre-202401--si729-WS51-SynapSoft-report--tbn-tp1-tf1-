@@ -1289,6 +1289,10 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 ![Component Diagram 04](Images/component_diagram04.png)
 
+**Diagrama de Componentes - Messaging Bounded Context**
+
+![Component Diagram 05](Images/component_diagram05.png)
+
 **Link del WorkSpace en Structurizr**  
 [Structurizr Workspace](https://structurizr.com/share/87248/9dda83a9-788b-4a41-9bf6-0eab6abebca2)
 
