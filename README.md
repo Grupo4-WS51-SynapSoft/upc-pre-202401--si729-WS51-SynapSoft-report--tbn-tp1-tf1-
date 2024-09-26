@@ -1825,6 +1825,8 @@ Durante el Sprint 2, realizamos el despliegue de nuestra aplicación web utiliza
 - **Despliegue de la Aplicación**: Con la configuración lista y el proyecto inicializado, procedimos a ejecutar el comando `firebase deploy`. Esto permitió que Firebase desplegara automáticamente nuestra aplicación web, haciéndola accesible en la URL proporcionada por Firebase Hosting.
 - **Generación del Enlace de Firebase**: Firebase nos proporcionó un enlace único para acceder a nuestra aplicación web en vivo. Este enlace fue compartido con los stakeholders para la revisión de la aplicación.
 
+link del despliegue: <https://safe-child-front.web.app/>
+
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
 
 Durante el Sprint 2, el equipo mantuvo una excelente colaboración que facilitó el cumplimiento de las metas establecidas. La comunicación constante y el uso efectivo de herramientas como Discord para reuniones virtuales y Trello para la gestión de tareas, permitieron que el equipo se mantuviera alineado y enfocado en los objetivos clave del sprint.
