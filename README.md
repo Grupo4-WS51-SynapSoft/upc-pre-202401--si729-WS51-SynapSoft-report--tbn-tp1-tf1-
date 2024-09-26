@@ -34,18 +34,18 @@
 
 # **Registro de Versiones del Informe**
 
-| VERSION | FECHA      | AUTOR                  | DESCRIPCIÓN DE MODIFICACIÓN                                                                                |
-| ------- | ---------- | ---------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 01      | 17/08/2024 | Lynn Meza Camayo       | Formato del documento                                                                                      |
-| 02      | 20/08/2024 | Jefrey Sanchez Ignacio | Antecedentes y problemáticas                                                                               |
-| 03      | 20/08/2024 | George Aliaga Pimentel | Lean UX Hypothesis Statements                                                                              |
-| 04      | 21/08/2024 | Lynn Meza Camayo       | Desarrollo de la descripción de la StartUp y segmentos Objetivos                                           |
-| 05      | 21/08/2024 | Jean Grandez Mansilla  | Desarrollo del Lean UX Problem Statements, Assumptions y Canvas                                            |
-| 06      | 27/08/2024 | Jean Grandez Mansilla  | Desarrollo del User persona y User task Matrix                                                             |
-| 07      | 29/08/2024 | George Aliaga Pimentel | Desarrollo del Análisis competitivo, Estrategias y tácticas frente a competidores, 1 entrevista y análisis |
-| 08      | 30/08/2024 | Jefrey Sanchez Ignacio | Desarrollo del empathy mapping, As-Is scenario mapping y 3 entrevistas y análisis de niñeras/tutores       |
-| 09      | 30/08/2024 | Jean Grandez Mansilla  | Desarrollo del User Journey Mapping y 1 entrevista y análisis de entrevista a tutores                      |
-| 10      | 30/08/2024 | Lynn Meza Camayo       | Desarrollo del User Stories, Impact mapping y el Product Backlog                                           |
+| VERSION | FECHA      | AUTOR                                                                                    | DESCRIPCIÓN DE MODIFICACIÓN                                                                                |
+| ------- | ---------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 01      | 17/08/2024 | Lynn Meza Camayo                                                                         | Formato del documento                                                                                      |
+| 02      | 20/08/2024 | Jefrey Sanchez Ignacio                                                                   | Antecedentes y problemáticas                                                                               |
+| 03      | 20/08/2024 | George Aliaga Pimentel                                                                   | Lean UX Hypothesis Statements                                                                              |
+| 04      | 21/08/2024 | Lynn Meza Camayo                                                                         | Desarrollo de la descripción de la StartUp y segmentos Objetivos                                           |
+| 05      | 21/08/2024 | Jean Grandez Mansilla                                                                    | Desarrollo del Lean UX Problem Statements, Assumptions y Canvas                                            |
+| 06      | 27/08/2024 | Jean Grandez Mansilla                                                                    | Desarrollo del User persona y User task Matrix                                                             |
+| 07      | 29/08/2024 | George Aliaga Pimentel                                                                   | Desarrollo del Análisis competitivo, Estrategias y tácticas frente a competidores, 1 entrevista y análisis |
+| 08      | 30/08/2024 | Jefrey Sanchez Ignacio                                                                   | Desarrollo del empathy mapping, As-Is scenario mapping y 3 entrevistas y análisis de niñeras/tutores       |
+| 09      | 30/08/2024 | Jean Grandez Mansilla                                                                    | Desarrollo del User Journey Mapping y 1 entrevista y análisis de entrevista a tutores                      |
+| 10      | 26/09/2024 | Lynn Meza Camayo, George Aliaga Pimentel ,Jefrey Sanchez Ignacio y Jean Grandez Mansilla | Sprint 2 y correciones del sprint 1                                                                        |
 
 # **Project Report Collaboration Insights**
 
@@ -114,6 +114,18 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   <img src="./Images/colaboradores-sprint1.png"  style="margin: 10px 0;" width="70%">
 </div>
 
+**Entregable TP:**
+
+- Versión 10 (26/08/2024)
+
+<div align="center">
+  <img src="./Images/evidencie-sprint1.png"  style="margin: 10px 0;" width="70%">
+</div>
+
+<div align="center">
+  <img src="./Images/colaboradores-sprint1.png"  style="margin: 10px 0;" width="70%">
+</div>
+
 # <font color="red">**Contenido**</font>
 
 ### Tabla de contenidos
@@ -121,7 +133,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
 - [**Registro de Versiones del Informe**](#registro-de-versiones-del-informe)
 - [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
 - [**Contenido**](#contenido)
-    - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Tabla de contenidos](#tabla-de-contenidos)
 - [**Student Outcome**](#student-outcome)
 - [ **Capítulo I: Introducción** ](#-capítulo-i-introducción-)
   - [**1.1. Startup Profile**](#11-startup-profile)
@@ -141,7 +153,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
-        - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
+      - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
   - [**1.3. Segmentos objetivo**](#13-segmentos-objetivo)
 - [ **Capítulo II: Requirements Elicitation \& Analysis**](#-capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores**](#21-competidores)
@@ -177,15 +189,15 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
-      - [Padres de familia](#padres-de-familia-2)
-      - [Niñeras y Tutores](#niñeras-y-tutores-2)
+    - [Padres de familia](#padres-de-familia-2)
+    - [Niñeras y Tutores](#niñeras-y-tutores-2)
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
 - [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
-    - [**4.1. Style Guidelines**](#41-style-guidelines)
-    - [**4.1.1. General Style Guidelines**](#411-general-style-guidelines)
-    - [**4.1.2. Web Style Guidelines**](#412-web-style-guidelines)
+  - [**4.1. Style Guidelines**](#41-style-guidelines)
+  - [**4.1.1. General Style Guidelines**](#411-general-style-guidelines)
+  - [**4.1.2. Web Style Guidelines**](#412-web-style-guidelines)
   - [**4.2. Information Architecture**](#42-information-architecture)
     - [**4.2.1. Organization Systems**](#421-organization-systems)
     - [**4.2.2. Labeling Systems**](#422-labeling-systems)
@@ -217,8 +229,8 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [Menú de metodo de pago](#menú-de-metodo-de-pago)
 - [Añadir Tarjeta](#añadir-tarjeta)
 - [Eliminar Tarjeta](#eliminar-tarjeta)
-    - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
-    - [**4.4.3. Web Applications Mock-ups**](#443-web-applications-mock-ups)
+  - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
+  - [**4.4.3. Web Applications Mock-ups**](#443-web-applications-mock-ups)
   - [Login](#login-1)
   - [Registro](#registro-1)
   - [Pagina Principal / Lista de Usuarios Cuidadores](#pagina-principal--lista-de-usuarios-cuidadores-1)
@@ -230,7 +242,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [Menú de metodo de pago](#menú-de-metodo-de-pago-1)
 - [Añadir Tarjeta](#añadir-tarjeta-1)
 - [Eliminar Tarjeta](#eliminar-tarjeta-1)
-    - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
+  - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
   - [**4.5. Web Applications Prototyping**](#45-web-applications-prototyping)
   - [**4.6. Domain-Driven Software Architecture**](#46-domain-driven-software-architecture)
     - [**4.6.1. Software Architecture Context Diagram**](#461-software-architecture-context-diagram)
@@ -263,6 +275,33 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
       - [Colaboración y Desarrollo de Actividades](#colaboración-y-desarrollo-de-actividades)
       - [Evidencias de Colaboración](#evidencias-de-colaboración)
+    - [**5.2.2. Sprint 2**](#522-sprint-2)
+      - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
+      - [**5.2.2.2. Sprint Backlog 2**](#5222-sprint-backlog-2)
+      - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
+      - [**5.2.2.4. Testing Suite Evidence for Sprint Review**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.5. Execution Evidence for Sprint Review**](#5225-execution-evidence-for-sprint-review)
+      - [**5.2.2.6. Services Documentation Evidence for Sprint Review**](#5226-services-documentation-evidence-for-sprint-review)
+      - [**5.2.2.7. Software Deployment Evidence for Sprint Review**](#5227-software-deployment-evidence-for-sprint-review)
+      - [**5.2.2.8. Team Collaboration Insights during Sprint**](#5228-team-collaboration-insights-during-sprint)
+    - [**5.2.3. Sprint 3**](#523-sprint-3)
+      - [**5.2.3.1. Sprint Planning 3**](#5231-sprint-planning-3)
+      - [**5.2.3.2. Sprint Backlog 3**](#5232-sprint-backlog-3)
+      - [**5.2.3.3. Development Evidence for Sprint Review**](#5233-development-evidence-for-sprint-review)
+      - [**5.2.3.4. Testing Suite Evidence for Sprint Review**](#5234-testing-suite-evidence-for-sprint-review)
+      - [**5.2.3.5. Execution Evidence for Sprint Review**](#5235-execution-evidence-for-sprint-review)
+      - [**5.2.3.6. Services Documentation Evidence for Sprint Review**](#5236-services-documentation-evidence-for-sprint-review)
+      - [**5.2.3.7. Software Deployment Evidence for Sprint Review**](#5237-software-deployment-evidence-for-sprint-review)
+      - [**5.2.3.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
+    - [**5.2.4. Sprint 4**](#524-sprint-4)
+      - [**5.2.4.1. Sprint Planning 4**](#5241-sprint-planning-4)
+      - [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
+      - [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
+      - [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
+      - [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
+      - [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
+      - [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
+      - [**5.2.4.8. Team Collaboration Insights during Sprint**](#5248-team-collaboration-insights-during-sprint)
   - [**5.3. Validation Interviews**](#53-validation-interviews)
     - [**5.3.1. Diseño de Entrevistas**](#531-diseño-de-entrevistas)
     - [**5.3.2. Registro de Entrevistas**](#532-registro-de-entrevistas)
@@ -1066,9 +1105,7 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/LandingPageWireframe4.png" alt="Imagen del Contact us" width="1500"></td>
 
-
-**Link del Figma**:  https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=1-3&t=A8OVD3piJPzXx6KA-1
-
+**Link del Figma**: https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=1-3&t=A8OVD3piJPzXx6KA-1
 
 ### **4.3.2. Landing Page Mock-up**
 
@@ -1142,9 +1179,7 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 <td><img src="Images/WebApplicationsWireFrames18.png" alt="Imagen de Borrar Tarjeta" width="1500"></td>
 
-
 **Link del Figma**: https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=280-10&t=A8OVD3piJPzXx6KA-1
-
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
@@ -1206,7 +1241,6 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 **Link del Figma**: https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=114-2&t=A8OVD3piJPzXx6KA-1
 
-
 ### **4.4.4. Web Applications User Flow Diagrams**
 
 <td><img src="Images/Flow1.png" alt="Wire1" width="1500"></td>
@@ -1221,7 +1255,11 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 
 ## **4.5. Web Applications Prototyping**
 
-**Link del Figma del Prototipo**: https://www.figma.com/proto/YhQr8KREW3QoSHmK0F3E8z/Untitled?scaling=min-zoom&content-scaling=fixed&page-id=114%3A2&node-id=262-2&starting-point-node-id=262%3A2
+![Proptotype](/Images/prototy.png)
+
+**Link del video del Prototipo**:<https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c320_upc_edu_pe/EWBBRypngZZDgfJC1rTUDroBNVWHhR7n2v28aFMXpal1mA?e=PpKFsk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
+**Link del Figma del Prototipo**: <https://www.figma.com/proto/YhQr8KREW3QoSHmK0F3E8z/Untitled?scaling=min-zoom&content-scaling=fixed&page-id=114%3A2&node-id=262-2&starting-point-node-id=262%3A2>
 
 ## **4.6. Domain-Driven Software Architecture**
 
@@ -1261,27 +1299,28 @@ Desde la búsqueda hasta la reserva de servicios, se establecerá un flujo lógi
 ### **4.7.1. Class Diagrams**
 
 ![Diagrama de Clases](Images/SFUML.png)
+
 ### **4.7.2. Class Dictionary**
-| **Clase**             | **Descripción**                                                                                                                                                                                                                                          |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Usuario**           | Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como `Padre`, `Cuidador` y `Admin`. Contiene atributos como `nombre`, `email`, `contraseña` y `teléfono`. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios. |
-| **Padre**             | Hereda de la clase `Usuario`. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional como `hijos`, `historial` y `preferencias`, relacionado con su perfil de contratación y gestión de hijos.                                           |
-| **Cuidador**          | Hereda de la clase `Usuario`. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como `especialidades`, `calificación`, `verificación (booleano)` y `disponibilidad`, que son específicos de los cuidadores.                                                    |
-| **Admin**             | Hereda de la clase `Usuario`. Representa a los administradores que gestionan el sistema. Contiene métodos para `verificarCuenta()`, `gestionar_usuarios()` y `asignar_rol()`, entre otras funciones administrativas.                                         |
-| **Hijo**              | Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un `Padre` y tiene atributos como `nombre`, `edad` y `historialDesarrollo`. Permite asociar cada hijo con las `Sesiones` de cuidado o educativas en las que participa.                                     |
-| **Sesión**            | Representa cada sesión de cuidado o educación que tiene lugar entre un `Cuidador` y uno o más `Hijos`. Incluye atributos como `duración`, `servicio` y la relación con `hijos` y `reseñas`. Es importante para realizar un seguimiento de las interacciones.                                        |
-| **Reserva**           | Representa las reservas de sesiones entre un `Padre` y un `Cuidador`. Contiene atributos como `fecha`, `estado` y las referencias al `Padre` y `Cuidador`. Permite realizar un seguimiento del estado de las sesiones.                                      |
-| **Pago**              | Representa la información de los pagos realizados por el `Padre` a un `Cuidador` por las sesiones reservadas. Contiene atributos como `fecha_pago`, `monto` y `estado`. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.                           |
-| **Reseña**            | Representa las reseñas que un `Padre` deja para un `Cuidador` después de una sesión. Contiene atributos como `texto` y `calificación`. Permite que los `Padres` califiquen a los cuidadores.                                                                 |
-| **Mensaje**           | Representa los mensajes intercambiados entre usuarios del sistema, ya sea `Padres` o `Cuidadores`. Incluye atributos como `contenido`, `fecha_envio`, y está asociado a un `remitente` y `destinatario`. Facilita la comunicación entre usuarios.                                                    |
-| **Notificación**      | Clase que almacena notificaciones enviadas a los usuarios del sistema. Contiene atributos como `mensaje`, `fecha_envío` y está asociada a un `Usuario`. Permite el envío de alertas y notificaciones en tiempo real.                                        |
+
+| **Clase**        | **Descripción**                                                                                                                                                                                                                                                                                     |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Usuario**      | Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como `Padre`, `Cuidador` y `Admin`. Contiene atributos como `nombre`, `email`, `contraseña` y `teléfono`. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios. |
+| **Padre**        | Hereda de la clase `Usuario`. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional como `hijos`, `historial` y `preferencias`, relacionado con su perfil de contratación y gestión de hijos.                                           |
+| **Cuidador**     | Hereda de la clase `Usuario`. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como `especialidades`, `calificación`, `verificación (booleano)` y `disponibilidad`, que son específicos de los cuidadores.                                                     |
+| **Admin**        | Hereda de la clase `Usuario`. Representa a los administradores que gestionan el sistema. Contiene métodos para `verificarCuenta()`, `gestionar_usuarios()` y `asignar_rol()`, entre otras funciones administrativas.                                                                                |
+| **Hijo**         | Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un `Padre` y tiene atributos como `nombre`, `edad` y `historialDesarrollo`. Permite asociar cada hijo con las `Sesiones` de cuidado o educativas en las que participa.                                   |
+| **Sesión**       | Representa cada sesión de cuidado o educación que tiene lugar entre un `Cuidador` y uno o más `Hijos`. Incluye atributos como `duración`, `servicio` y la relación con `hijos` y `reseñas`. Es importante para realizar un seguimiento de las interacciones.                                        |
+| **Reserva**      | Representa las reservas de sesiones entre un `Padre` y un `Cuidador`. Contiene atributos como `fecha`, `estado` y las referencias al `Padre` y `Cuidador`. Permite realizar un seguimiento del estado de las sesiones.                                                                              |
+| **Pago**         | Representa la información de los pagos realizados por el `Padre` a un `Cuidador` por las sesiones reservadas. Contiene atributos como `fecha_pago`, `monto` y `estado`. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.                          |
+| **Reseña**       | Representa las reseñas que un `Padre` deja para un `Cuidador` después de una sesión. Contiene atributos como `texto` y `calificación`. Permite que los `Padres` califiquen a los cuidadores.                                                                                                        |
+| **Mensaje**      | Representa los mensajes intercambiados entre usuarios del sistema, ya sea `Padres` o `Cuidadores`. Incluye atributos como `contenido`, `fecha_envio`, y está asociado a un `remitente` y `destinatario`. Facilita la comunicación entre usuarios.                                                   |
+| **Notificación** | Clase que almacena notificaciones enviadas a los usuarios del sistema. Contiene atributos como `mensaje`, `fecha_envío` y está asociada a un `Usuario`. Permite el envío de alertas y notificaciones en tiempo real.                                                                                |
 
 ## **4.8. Database Design**
 
 ### **4.8.1. Database Diagram**
 
 ![Database Diagram](Images/SFvert.png)
-
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
@@ -1678,6 +1717,157 @@ A continuación se presentan imágenes que ilustran el trabajo colaborativo y el
 
 - **Frecuencia de Commits**:
   ![Frecuenza de commits](Images/Code%20frequency.png)
+
+## **5.2.2. Sprint 2**
+
+### **5.2.2.1. Sprint Planning 2**
+
+| **Sprint #**                     | Sprint 2                                                                                                                                                                                                                                             |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                                      |
+| **Date**                         | 07/10/2024                                                                                                                                                                                                                                           |
+| **Location**                     | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                             |
+| **Prepared By**                  | Meza Camayo, Lynn Jeeferzon / Aliaga Pimentel, George Arturo / Sánchez Ignacio / Jefrey Martín / Grandez Mansilla, Jean Pierre                                                                                                                       |
+| **Sprint 1 Review Summary**      | En este sprint se completó el despliegue del landing page, que ahora es accesible a través de GitHub Pages. Se recibieron comentarios positivos de los stakeholders.                                                                                 |
+| **Sprint 2 Goal & User Stories** |                                                                                                                                                                                                                                                      |
+| **Sprint 2 Goal**                | Nuestro enfoque está en desarrollar el sitio web de la aplicación. Además, realizaremos correcciones del Sprint 1, incluyendo la agregación de los wireframes, el mockup de la interfaz web y los user flows, así como el prototipo correspondiente. |
+| **Sprint 2 Velocity**            | El sprint está planificado para completarse en 14 días (2 semanas).                                                                                                                                                                                  |
+| **Sum of Story Points**          | 10 story points                                                                                                                                                                                                                                      |
+
+### **5.2.2.2. Sprint Backlog 2**
+
+El objetivo principal del Sprint 2 es desarrollar y desplegar funcionalidades clave que mejoren la experiencia de los usuarios en la plataforma. Esto incluye la visualización de perfiles, un sistema de pagos, comunicación entre tutores y cuidadores, y la gestión de solicitudes de reserva. El equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
+
+| **Sprint #**   | **Sprint 2**            |        |                                    |                                                                                                              |                        |                 |            |
+| -------------- | ----------------------- | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story** | **Work-Item / Task**    |        |                                    |                                                                                                              |                        |                 |            |
+| **Id**         | **Title**               | **Id** | **Title**                          | **Description**                                                                                              | **Estimation (Hours)** | **Assigned to** | **Status** |
+| US-21          | Sistema de Pagos        | W-02   | Implementar Sistema de Pagos       | Desarrollar la funcionalidad que permita a los tutores realizar pagos de forma segura y sencilla.            | 8                      | Lynn            | To do      |
+| US-19          | Sistema de Comunicación | W-03   | Implementar Sistema de Mensajes    | Crear un sistema que permita a los tutores enviar mensajes a los cuidadores para discutir detalles.          | 4                      | Jean            | To do      |
+| US-15          | Solicitud de Reserva    | W-05   | Implementar Solicitud de Reserva   | Crear un sistema que permita a los tutores solicitar reservas para cuidadores específicos.                   | 5                      | Georgy          | To do      |
+| US-11          | Filtrado de Búsqueda    | W-06   | Implementar Búsqueda de Cuidadores | Desarrollar la funcionalidad que permita a los tutores buscar cuidadores basados en la ubicación y servicio. | 5                      | Jefrey          | To do      |
+
+Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft>
+
+### **5.2.2.3. Development Evidence for Sprint Review**
+
+Durante el Sprint 2, el equipo se enfocó en el desarrollo de funcionalidades esenciales para la experiencia del usuario, incluyendo la implementación del dashboard de filtrado de cuidadores, un sistema de chat en línea para facilitar la comunicación, un módulo para la reservación de citas, y la integración del método de pago. Estas características son claves para asegurar una experiencia fluida y completa para los usuarios de la aplicación. A continuación, se detallan los commits correspondientes a cada tarea implementada durante este sprint.
+
+| **Repository** | **Branch**                   | **Commit Id**                            | **Commit Message**                           | **Commit Message Body**                  | **Commited on (Date)** |
+| -------------- | ---------------------------- | ---------------------------------------- | -------------------------------------------- | ---------------------------------------- | ---------------------- |
+| WebApplication | search-caregiver             | 4ceaac6c933c0688d43c7915649c81926dec1960 | feat: add caregiver detail page html and css | Se implemento la secci;on de filtrado    | 26/09/2024             |
+| WebApplication | payment-boundend-context     | b0b34b6bdfd01cc0133ca3d9084c9b585af60b59 | feat: create branch payment                  | Se implementó la sección de payment      | 26/09/2024             |
+| WebApplication | messaging                    | 921d85b952c47c44c9151eed615b0c6eb32a544f | git commit feat: add messaging               | Se implementó la sección de chact online | 26/09/2024             |
+| WebApplication | appointment-boundend-context | 83c5dc7a9de846dcae063591e5fe48bc6a29de5e | feat: add appointment                        | Se implementó la seccion de appointment  | 26/09/2024             |
+
+### **5.2.2.4. Testing Suite Evidence for Sprint Review**
+
+Durante el Sprint 2, se implementó una suite de pruebas exhaustiva para asegurar la funcionalidad y estabilidad del sitio web desarrollado. El equipo se centró en probar cada una de las nuevas características integradas, como el dashboard de filtrado de cuidadores, el chat online, la reservación de citas y el método de pago. Estas pruebas incluyeron tests unitarios, pruebas de integración y pruebas de usabilidad, con el fin de garantizar que todos los componentes funcionen de manera adecuada y cumplan con los requisitos de los usuarios. A continuación, se presenta la evidencia de las pruebas realizadas y los resultados obtenidos en este sprint.
+
+| **Repository** | **Branch** | **Commit Id**                            | **Commit Message**                      | **Commit Message Body**                      | **Commited on (Date)** |
+| -------------- | ---------- | ---------------------------------------- | --------------------------------------- | -------------------------------------------- | ---------------------- |
+| Unit-Test      | main       | aed6eb913afc1e9a16dc81bf35b41423e90197eb | git commit feat: implement unit test tp | Se desarrollaron los Unit Tests del Sprint 1 | 26/09/2024             |
+
+- **US11**:
+
+![Unit Test US11](/Images/us11-unitTest.png)
+
+- **US15**:
+
+![Unit Test US15](/Images/us15-unitTest.png)
+
+- **US19**:
+
+![Unit Test US19](/Images/us19-unitTest.png)
+
+- **US21**:
+
+![Unit Test US21](/Images/us21-UnitTest.png)
+
+link del repositorio de Unit Test: <https://github.com/Grupo4-WS51-SynapSoft/Unit_Test-SafeChild>
+
+### **5.2.2.5. Execution Evidence for Sprint Review**
+
+Durante el Sprint 2, el equipo logró implementar y desarrollar varias funcionalidades clave para la aplicación web. Las características principales implementadas incluyen los dashboards de filtrado de cuidadores, el sistema de chat online, la reservación de citas, y el método de pago. Estas funcionalidades mejoran significativamente la usabilidad y funcionalidad del sitio web, permitiendo una experiencia más completa y fluida para los usuarios.
+A continuación, presentamos capturas de pantalla de las principales vistas y funcionalidades implementadas en este Sprint:
+
+- **Log In**:
+
+![Log In](/Images/login-sprint2.png)
+
+- **Register**:
+
+![Register](/Images/register-sprint2.png)
+
+- **Filter**:
+
+![Filter](/Images/filter-sprint2.png)
+
+- **Contact**:
+
+![Contact](/Images/contact-sprint2.png)
+
+### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+
+Durante el Sprint 2, realizamos el despliegue de nuestra aplicación web utilizando **Firebase**. A continuación, detallamos los pasos que seguimos para completar este proceso:
+
+- **Instalación de Firebase CLI**: Iniciamos instalando la Firebase Command Line Interface (CLI). Este paso fue esencial para interactuar con Firebase desde nuestra terminal. Ejecutamos el comando `npm install -g firebase-tools` para instalar las herramientas necesarias.
+- **Iniciar Sesión en Firebase**: Luego de la instalación, nos autenticamos en Firebase usando el comando `firebase login`, lo que nos permitió conectar nuestra cuenta de Firebase al proyecto local.
+- **Creación del Proyecto en Firebase**: A continuación, accedimos a la consola de Firebase y creamos un nuevo proyecto dedicado a la aplicación web. Asignamos un nombre al proyecto y configuramos Firebase Hosting dentro del panel de administración.
+- **Inicialización del Proyecto Firebase**: En nuestro directorio local, inicializamos Firebase dentro del proyecto utilizando el comando `firebase init`. Seleccionamos la opción **Hosting** y especificamos el directorio de nuestro proyecto (generalmente `build` o `public`).
+- **Configuración del Archivo build/public**: Aseguramos que todos los archivos de nuestra aplicación web (HTML, CSS, JavaScript y otros recursos) estuvieran compilados y disponibles en el directorio configurado para el despliegue, como `build` o `public`, según las configuraciones de nuestro proyecto.
+- **Despliegue de la Aplicación**: Con la configuración lista y el proyecto inicializado, procedimos a ejecutar el comando `firebase deploy`. Esto permitió que Firebase desplegara automáticamente nuestra aplicación web, haciéndola accesible en la URL proporcionada por Firebase Hosting.
+- **Generación del Enlace de Firebase**: Firebase nos proporcionó un enlace único para acceder a nuestra aplicación web en vivo. Este enlace fue compartido con los stakeholders para la revisión de la aplicación.
+
+### **5.2.2.8. Team Collaboration Insights during Sprint**
+
+Durante el Sprint 2, el equipo mantuvo una excelente colaboración que facilitó el cumplimiento de las metas establecidas. La comunicación constante y el uso efectivo de herramientas como Discord para reuniones virtuales y Trello para la gestión de tareas, permitieron que el equipo se mantuviera alineado y enfocado en los objetivos clave del sprint.
+
+A continuación se presentan imágenes que ilustran el trabajo colaborativo y el progreso del equipo durante este sprint 2:
+
+![pull](/Images/pull-sprint2.png)
+
+![colaboration](/Images/colaboradores-sprint1.png)
+
+![code frecuente](/Images/code%20frecuente-sprint2.png)
+
+## **5.2.3. Sprint 3**
+
+### **5.2.3.1. Sprint Planning 3**
+
+### **5.2.3.2. Sprint Backlog 3**
+
+### **5.2.3.3. Development Evidence for Sprint Review**
+
+### **5.2.3.4. Testing Suite Evidence for Sprint Review**
+
+### **5.2.3.5. Execution Evidence for Sprint Review**
+
+### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+
+### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+### **5.2.3.8. Team Collaboration Insights during Sprint**
+
+## **5.2.4. Sprint 4**
+
+### **5.2.4.1. Sprint Planning 4**
+
+### **5.2.4.2. Sprint Backlog 4**
+
+### **5.2.4.3. Development Evidence for Sprint Review**
+
+### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+
+### **5.2.4.5. Execution Evidence for Sprint Review**
+
+### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+
+### **5.2.4.7. Software Deployment Evidence for Sprint Review**
+
+### **5.2.4.8. Team Collaboration Insights during Sprint**
 
 ## **5.3. Validation Interviews**
 
