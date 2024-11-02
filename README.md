@@ -177,7 +177,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
 - [**Registro de Versiones del Informe**](#registro-de-versiones-del-informe)
 - [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
 - [**Contenido**](#contenido)
-  - [Tabla de contenidos](#tabla-de-contenidos)
+    - [Tabla de contenidos](#tabla-de-contenidos)
 - [**Student Outcome**](#student-outcome)
 - [ **Capítulo I: Introducción** ](#-capítulo-i-introducción-)
   - [**1.1. Startup Profile**](#11-startup-profile)
@@ -197,7 +197,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
-      - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
+        - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
   - [**1.3. Segmentos objetivo**](#13-segmentos-objetivo)
 - [ **Capítulo II: Requirements Elicitation \& Analysis**](#-capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores**](#21-competidores)
@@ -210,10 +210,15 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
       - [Para Cuidadores (Niñeras y Tutores)](#para-cuidadores-niñeras-y-tutores)
     - [**2.2.2. Registro de entrevistas**](#222-registro-de-entrevistas)
     - [**2.2.3. Análisis de entrevistas**](#223-análisis-de-entrevistas)
+      - [**Primer Entrevistado: Fabrizio Sanchez**](#primer-entrevistado-fabrizio-sanchez)
+      - [**Segundo Entrevistado: Edwhin Palomino**](#segundo-entrevistado-edwhin-palomino)
+      - [**Tercer Entrevistado: Luhana Acuña**](#tercer-entrevistado-luhana-acuña)
+      - [**Cuarto Entrevistado: Maria Fernanda Gil Moya**](#cuarto-entrevistado-maria-fernanda-gil-moya)
+      - [**Quinto Entrevistado: Harold Mayta**](#quinto-entrevistado-harold-mayta)
   - [**2.3. Needfinding**](#23-needfinding)
     - [**2.3.1. User Personas**](#231-user-personas)
       - [**User Persona 1: Fabrizio**](#user-persona-1-fabrizio)
-    - [**User Persona 2: Johan**](#user-persona-2-johan)
+      - [**User Persona 2: Johan**](#user-persona-2-johan)
     - [**2.3.2. User Task Matrix**](#232-user-task-matrix)
     - [Explicación de la tabla](#explicación-de-la-tabla)
     - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
@@ -228,13 +233,13 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
-    - [Padres de familia](#padres-de-familia-2)
-    - [Niñeras y Tutores](#niñeras-y-tutores-2)
+      - [Padres de familia](#padres-de-familia-2)
+      - [Niñeras y Tutores](#niñeras-y-tutores-2)
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
 - [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
-  - [**4.1. Style Guidelines**](#41-style-guidelines)
+    - [**4.1. Style Guidelines**](#41-style-guidelines)
     - [**4.1.1. General Style Guidelines**](#411-general-style-guidelines)
     - [**4.1.2. Web Style Guidelines**](#412-web-style-guidelines)
   - [**4.2. Information Architecture**](#42-information-architecture)
@@ -273,8 +278,11 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [**5.1. Software Configuration Management**](#51-software-configuration-management)
     - [**5.1.1. Software Development Environment Configuration**](#511-software-development-environment-configuration)
     - [**5.1.2. Source Code Management**](#512-source-code-management)
+      - [Implementación de Git Flow](#implementación-de-git-flow)
+      - [Flujo de Trabajo en Git Flow:](#flujo-de-trabajo-en-git-flow)
     - [**5.1.3. Source Code Style Guide \& Conventions**](#513-source-code-style-guide--conventions)
     - [**5.1.4. Software Deployment Configuration**](#514-software-deployment-configuration)
+      - [Pasos para el despliegue en GitHub Pages:](#pasos-para-el-despliegue-en-github-pages)
   - [**5.2. Landing Page, Services \& Applications Implementation**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1**](#521-sprint-1)
     - [**5.2.1.1. Sprint Planning 1**](#5211-sprint-planning-1)
@@ -285,10 +293,27 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
     - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
     - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
+      - [Colaboración y Desarrollo de Actividades](#colaboración-y-desarrollo-de-actividades)
+      - [Evidencias de Colaboración](#evidencias-de-colaboración)
   - [**5.3. Validation Interviews**](#53-validation-interviews)
     - [**5.3.1. Diseño de Entrevistas**](#531-diseño-de-entrevistas)
+    - [Segmento 1: Padres de familia que buscan servicio de Niñeras y Profesores a tiempo parcial](#segmento-1-padres-de-familia-que-buscan-servicio-de-niñeras-y-profesores-a-tiempo-parcial)
+    - [Segmento 2: Niñeras y profesores que buscan conectarse más rápido con los padres de familia para brindar sus servicios](#segmento-2-niñeras-y-profesores-que-buscan-conectarse-más-rápido-con-los-padres-de-familia-para-brindar-sus-servicios)
     - [**5.3.2. Registro de Entrevistas**](#532-registro-de-entrevistas)
+    - [Segmento 1: Padres de familia que buscan servicio de Niñeras y Profesores a tiempo parcial](#segmento-1-padres-de-familia-que-buscan-servicio-de-niñeras-y-profesores-a-tiempo-parcial-1)
+      - [Entrevista 1](#entrevista-1)
+      - [Entrevista 2](#entrevista-2)
+      - [Entrevista 3](#entrevista-3)
+    - [Segmento 2: Niñeras y profesores que buscan conectarse más rápido con los padres de familia para brindar sus servicios](#segmento-2-niñeras-y-profesores-que-buscan-conectarse-más-rápido-con-los-padres-de-familia-para-brindar-sus-servicios-1)
+      - [Entrevista 1](#entrevista-1-1)
+      - [Entrevista 2](#entrevista-2-1)
+      - [Entrevista 3](#entrevista-3-1)
     - [**5.3.3. Evaluaciones según heurísticas**](#533-evaluaciones-según-heurísticas)
+    - [Evaluaciones según Heurísticas](#evaluaciones-según-heurísticas)
+      - [Tareas a evaluar: Web Application](#tareas-a-evaluar-web-application)
+    - [Escala de severidad](#escala-de-severidad)
+    - [Tabla de resumen](#tabla-de-resumen)
+    - [Descripción de problemas](#descripción-de-problemas)
   - [**5.4. Video About-the-Product**](#54-video-about-the-product)
 - [**Conclusiones**](#conclusiones)
 - [**Conclusiones y recomendaciones**](#conclusiones-y-recomendaciones)
@@ -1669,17 +1694,33 @@ En el **Registro de Entrevistas**, se documenta todo lo que dijeron los entrevis
 ### Segmento 1: Padres de familia que buscan servicio de Niñeras y Profesores a tiempo parcial
 
 #### Entrevista 1
-- **Nombre**: 
-- **Apellidos**: 
-- **Edad**: 
-- **Lugar de residencia**: 
-- **Entrevistador**: 
+- **Nombre**: Edwin 
+- **Apellidos**: Palomino
+- **Edad**: 53
+- **Lugar de residencia**: Huancayo
+- **Entrevistador**: George Aliaga
 
 **Evidencia de entrevista**  
+
+![interview_edwhin](/Images/interview-edwhin.png)
+
+
+
 - **Enlace de entrevista**:  
+  
 - **Inicio**:  
 - **Fin**:  
-- **Resumen de entrevista**:  
+  
+
+**Resumen de entrevista**
+  
+Se entrevistó a Edwhin, quien participó en una sesión para evaluar la plataforma SafeChild, que conecta a padres de familia con cuidadores. Durante la entrevista, Edwhin proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
+   
+En términos de diseño, Edwhin resaltó que la plataforma tiene un aspecto equilibrado entre formal e infantil, lo cual considera adecuado para reducir la ansiedad de los padres que buscan un cuidador. También destacó la combinación de colores, que ayuda a crear una atmósfera calmada y confiable. Sin embargo, sugirió que la plataforma sea lo más transparente posible en la presentación de precios, ya que cualquier costo oculto podría afectar la percepción de confianza en el servicio.
+
+Sobre la usabilidad, Edwhin comentó que la plataforma es fácil de navegar y valoró la posibilidad de ver la biografía y disponibilidad de los cuidadores. Además, apreció la opción de traducir la interfaz al español, lo que facilita su uso para personas que no dominan el inglés. Edwhin recomendó implementar un sistema de soporte al cliente accesible y un sistema de reembolsos para aumentar la confianza de los usuarios. También propuso un sistema de calificación para que los padres evalúen a los cuidadores, así como una comunidad de usuarios donde se puedan compartir experiencias.
+
+Finalmente, Edwhin mencionó que altos estándares de seguridad y transparencia, junto con capacitaciones continuas para los cuidadores, serían fundamentales para fidelizar a los usuarios y mejorar la calidad del servicio. Edwhin afirmó que recomendaría la plataforma a otros padres, siempre que estas sugerencias sean implementadas, ya que contribuirían a la confiabilidad y efectividad de SafeChild para conectar a los padres con cuidadores de manera segura y eficiente.
 
 ---
 
