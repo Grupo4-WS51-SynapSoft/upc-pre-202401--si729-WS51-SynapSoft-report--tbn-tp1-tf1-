@@ -1267,7 +1267,7 @@ Para planificar y coordinar el desarrollo del software, incluyendo la asignació
 
 - Trello: Esta plataforma de gestión de proyectos basada en tableros nos ayuda a organizar tareas y colaborar en tiempo real, facilitando la visualización del avance y la coordinación entre los miembros del equipo.
   ![Trello](/Images/trello-logo-1.2.jpg)
-  Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft>
+  Link de Trello: [Click aqui para ver el Trello](https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft)
 
 **Diseño UX/UI**
 
@@ -1275,7 +1275,7 @@ En esta sección nos centramos en la creación de interfaces atractivas e intuit
 
 - Figma: Permite diseñar y compartir interfaces de usuario de manera colaborativa y eficiente.
 
-  Link de figma:<https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=114-2&t=4TbGk5miNn81gVPl-1>
+  Link de figma: [Click aqui para ver el Figma](https://www.figma.com/design/YhQr8KREW3QoSHmK0F3E8z/Untitled?node-id=114-2&t=4TbGk5miNn81gVPl-1)
 
   ![Figma](Images/figma-logo.png)
 
@@ -1508,7 +1508,7 @@ Para el despliegue de la página de inicio del proyecto, hemos optado por **GitH
 5. **Verificar el despliegue:**
    - Después de haber configurado GitHub Pages y haber subido los archivos, espera unos minutos para que el sitio se despliegue. GitHub te proporcionará un enlace donde podrás verificar que el sitio web está activo.
    - En este caso, el **Link del Landing Page desplegado** es:  
-     <https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/>
+     [Landing Page SafeChild](https://grupo4-ws51-synapsoft.github.io/SafeChild_LandingPage.github.io/)
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 
@@ -1543,7 +1543,7 @@ El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page q
 | US-04          | Visualización de Suscripciones | W-03   | Crear sección de Planes           | Implementar una sección de planes de suscripción con detalles y precios. | 5                      | Jean            | To do      |
 | US-05          | Visualización de Reseñas       | W-04   | Crear sección de Reseñas y Footer | Desarrollar una sección de reseñas con testimonios y el pie de página.   | 6                      | Jefrey          | To do      |
 
-Link de Trello: <https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft>
+Link de Trello: [Click aqui para ver el Trello](https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTI26a8471bb5e0ea42436127ed964d3615C38C3749/si729-ws51-grupo-4-synapsoft)
 
 ### **5.2.1.3. Development Evidence for Sprint Review**
 
@@ -1767,14 +1767,14 @@ Finalmente, Edwhin mencionó que altos estándares de seguridad y transparencia,
 ![interview_luhana](/Images/interview-luhana.png)
 
 **Enlace de entrevista**:
-  <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EZMIZYlvOU5Aj-lspt02Fo4Bm331p1AY5tCJ9yN61KWFLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zxnmA7>
+  [ENTREVISTA LUHANA](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EZMIZYlvOU5Aj-lspt02Fo4Bm331p1AY5tCJ9yN61KWFLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zxnmA7)
 
 - **Inicio**:  01:00
 - **Fin**:  18:00
 
 **Resumen de entrevista**:
 
-Se entrevistó a **Luana**, quien participó en una sesión para evaluar la plataforma *SafeChild*, que conecta a padres de familia con niñeras y profesores a tiempo parcial. Durante la entrevista, Luana proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
+Se entrevistó a **Luhana**, quien participó en una sesión para evaluar la plataforma *SafeChild*, que conecta a padres de familia con niñeras y profesores a tiempo parcial. Durante la entrevista, Luana proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
 
 En términos de **diseño**, Luana destacó que la plataforma le parece atractiva, pero sugirió mejorar el color, ya que el azul actual no es suficientemente llamativo para captar la atención de los usuarios. Propuso un tono más suave, como un rosado. También mostró preocupación por la seguridad al mencionar que no es necesario solicitar datos sensibles como el CVV de las tarjetas de pago, recomendando eliminar esta funcionalidad.
 
@@ -1797,7 +1797,7 @@ Finalmente, mencionó que una **versión móvil** de la aplicación sería benef
 
 **Enlace de entrevista**:
 
-<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EXpBpL1wTs1GiecjecQBEmcBBt9ONU-HF3mZdgQhqskO9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ebSnaV>
+[ENTREVISTA HAROLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EXpBpL1wTs1GiecjecQBEmcBBt9ONU-HF3mZdgQhqskO9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ebSnaV)
   
 - **Inicio**: 01:00  
 - **Fin**:  18:00
@@ -1811,17 +1811,30 @@ Durante la sesión, el profesor proporcionó comentarios sobre la usabilidad y s
 ---
 
 #### Entrevista 3
-- **Nombre**: 
-- **Apellidos**: 
-- **Edad**: 
-- **Lugar de residencia**: 
-- **Entrevistador**: 
+- **Nombre**: Damaris Consuelo
+- **Apellidos**: Mejia Calderón
+- **Edad**: 18 años
+- **Lugar de residencia**: Callao
+- **Entrevistador**: Jefrey Sanchez
 
 **Evidencia de entrevista**  
-- **Enlace de entrevista**:  
-- **Inicio**:  
-- **Fin**:  
-- **Resumen de entrevista**:  
+![interview_Damaris](/Images/interview-damaris.png)
+
+- **Enlace de entrevista**:
+
+[ENTREVISTA DAMARIS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EenLmDvCsL5Hiy-rQWdX1DwB3gD6drccefO7CKRlSJ2bTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nGsNkd)
+
+- **Inicio**:  00:20
+- **Fin**:  08:00
+- **Resumen de entrevista**:
+Se entrevistó a **Damaris**, quien participó en una sesión para evaluar la plataforma *SafeChild*, que conecta a padres de familia con niñeras y profesores a tiempo parcial. Durante la entrevista, Damaris proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
+
+En términos de **diseño**, Damaris destacó que la plataforma le parece visualmente adecuada, con colores que no cansan la vista. Sin embargo, señaló que podría haber personas que prefieran otras tonalidades, aunque ella se siente cómoda con la elección actual. Considera importante agregar un sistema de reseñas de los padres y niños, lo cual proporcionaría más información para las niñeras y evitaría posibles problemas con familias difíciles.
+
+Sobre la **usabilidad**, Damaris consideró que la plataforma es intuitiva y fácil de usar. Le resultó sencillo gestionar horarios, precios y editar información personal. Valora que las funcionalidades estén bien organizadas y sean accesibles, lo cual facilita su uso para las niñeras.
+
+Finalmente, mencionó que una **versión móvil** de la aplicación sería altamente beneficiosa, ya que las niñeras suelen preferir la practicidad de sus teléfonos para gestionar reservas. Damaris afirmó que recomendaría la plataforma a otras niñeras y cree que con algunas mejoras adicionales, *SafeChild* logrará su objetivo de conectar a padres y cuidadores de manera segura y eficiente.
+
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
