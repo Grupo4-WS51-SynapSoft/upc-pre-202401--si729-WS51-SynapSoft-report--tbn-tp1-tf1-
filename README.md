@@ -177,7 +177,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
 - [**Registro de Versiones del Informe**](#registro-de-versiones-del-informe)
 - [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
 - [**Contenido**](#contenido)
-    - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Tabla de contenidos](#tabla-de-contenidos)
 - [**Student Outcome**](#student-outcome)
 - [ **Capítulo I: Introducción** ](#-capítulo-i-introducción-)
   - [**1.1. Startup Profile**](#11-startup-profile)
@@ -197,7 +197,7 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [**1.2.2.3. Lean UX Hypothesis Statements**](#1223-lean-ux-hypothesis-statements)
     - [**1.2.2.4. Lean UX Canvas**](#1224-lean-ux-canvas)
-        - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
+      - [1.2.2.1. Lean UX Canvas](#1221-lean-ux-canvas)
   - [**1.3. Segmentos objetivo**](#13-segmentos-objetivo)
 - [ **Capítulo II: Requirements Elicitation \& Analysis**](#-capítulo-ii-requirements-elicitation--analysis)
   - [**2.1. Competidores**](#21-competidores)
@@ -233,15 +233,15 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
   - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
 - [ **Capítulo III: Requirements Specification**](#-capítulo-iii-requirements-specification)
   - [**3.1. To-Be Scenario Mapping**](#31-to-be-scenario-mapping)
-      - [Padres de familia](#padres-de-familia-2)
-      - [Niñeras y Tutores](#niñeras-y-tutores-2)
+    - [Padres de familia](#padres-de-familia-2)
+    - [Niñeras y Tutores](#niñeras-y-tutores-2)
   - [**3.2. User Stories**](#32-user-stories)
   - [**3.3. Impact Mapping**](#33-impact-mapping)
   - [**3.4. Product Backlog**](#34-product-backlog)
 - [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
-    - [**4.1. Style Guidelines**](#41-style-guidelines)
-    - [**4.1.1. General Style Guidelines**](#411-general-style-guidelines)
-    - [**4.1.2. Web Style Guidelines**](#412-web-style-guidelines)
+  - [**4.1. Style Guidelines**](#41-style-guidelines)
+  - [**4.1.1. General Style Guidelines**](#411-general-style-guidelines)
+  - [**4.1.2. Web Style Guidelines**](#412-web-style-guidelines)
   - [**4.2. Information Architecture**](#42-information-architecture)
     - [**4.2.1. Organization Systems**](#421-organization-systems)
     - [**4.2.2. Labeling Systems**](#422-labeling-systems)
@@ -1651,12 +1651,12 @@ A continuación se presentan imágenes que ilustran el trabajo colaborativo y el
 
 ## **5.3. Validation Interviews**
 
-La etapa de **Validación de Entrevistas** se centra en recoger comentarios y observaciones directas de los usuarios para evaluar sus percepciones sobre el diseño, la usabilidad y las funcionalidades de la plataforma *SafeChild*. El objetivo principal es confirmar que la experiencia ofrecida está bien alineada con las necesidades y expectativas de los diferentes tipos de usuarios.
-Esta fase emplea entrevistas estructuradas y pruebas de usabilidad para garantizar que *SafeChild* sea intuitiva y cumpla eficazmente con los objetivos de proporcionar un servicio satisfactorio y adaptado a sus usuarios.
+La etapa de **Validación de Entrevistas** se centra en recoger comentarios y observaciones directas de los usuarios para evaluar sus percepciones sobre el diseño, la usabilidad y las funcionalidades de la plataforma _SafeChild_. El objetivo principal es confirmar que la experiencia ofrecida está bien alineada con las necesidades y expectativas de los diferentes tipos de usuarios.
+Esta fase emplea entrevistas estructuradas y pruebas de usabilidad para garantizar que _SafeChild_ sea intuitiva y cumpla eficazmente con los objetivos de proporcionar un servicio satisfactorio y adaptado a sus usuarios.
 
 ### **5.3.1. Diseño de Entrevistas**
 
-En esta sección de **Diseño de Entrevistas**, se detalla la estructura y las preguntas que se usarán para recopilar información de los usuarios de *SafeChild*. El diseño de las entrevistas incluye preguntas generales para todos los participantes, así como preguntas específicas que se adaptan a los diferentes grupos de usuarios: padres de familia que buscan servicios de cuidado y enseñanza para sus niños, y niñeras y profesores que ofrecen estos servicios a tiempo parcial. Estas preguntas permiten explorar distintas áreas de la experiencia de usuario, como la facilidad de navegación y la satisfacción general, para entender cómo *SafeChild* cumple con lo que cada segmento espera.
+En esta sección de **Diseño de Entrevistas**, se detalla la estructura y las preguntas que se usarán para recopilar información de los usuarios de _SafeChild_. El diseño de las entrevistas incluye preguntas generales para todos los participantes, así como preguntas específicas que se adaptan a los diferentes grupos de usuarios: padres de familia que buscan servicios de cuidado y enseñanza para sus niños, y niñeras y profesores que ofrecen estos servicios a tiempo parcial. Estas preguntas permiten explorar distintas áreas de la experiencia de usuario, como la facilidad de navegación y la satisfacción general, para entender cómo _SafeChild_ cumple con lo que cada segmento espera.
 
 ### Segmento 1: Padres de familia que buscan servicio de Niñeras y Profesores a tiempo parcial
 
@@ -1686,131 +1686,121 @@ En esta sección de **Diseño de Entrevistas**, se detalla la estructura y las p
 9. ¿Recomendaría el uso de la plataforma?
 10. ¿Qué recomendaciones nos daría para mejorar la plataforma?
 
-
 ### **5.3.2. Registro de Entrevistas**
 
-En el **Registro de Entrevistas**, se documenta todo lo que dijeron los entrevistados y se organiza para poder analizar sus respuestas. Aquí se incluye información básica de cada participante, un resumen de sus respuestas y enlaces a los videos de las entrevistas. Este registro es muy útil para entender mejor lo que opinan los usuarios y, además, sirve de base para hacer mejoras en *SafeChild*, adaptando la plataforma a lo que realmente necesitan y valoran.
+En el **Registro de Entrevistas**, se documenta todo lo que dijeron los entrevistados y se organiza para poder analizar sus respuestas. Aquí se incluye información básica de cada participante, un resumen de sus respuestas y enlaces a los videos de las entrevistas. Este registro es muy útil para entender mejor lo que opinan los usuarios y, además, sirve de base para hacer mejoras en _SafeChild_, adaptando la plataforma a lo que realmente necesitan y valoran.
 
 ### Segmento 1: Padres de familia que buscan servicio de Niñeras y Profesores a tiempo parcial
 
 #### Entrevista 1
-- **Nombre**: Edwin 
+
+- **Nombre**: Edwin
 - **Apellidos**: Palomino
 - **Edad**: 53
 - **Lugar de residencia**: Huancayo
 - **Entrevistador**: George Aliaga
 
-**Evidencia de entrevista**  
+**Evidencia de entrevista**
 
 ![interview_edwhin](/Images/interview-edwhin.png)
 
-
-
-- **Enlace de entrevista**:  
-  
-- **Inicio**:  
-- **Fin**:  
-  
+- **Enlace de entrevista**:
+- **Inicio**:0:02
+- **Fin**:23:57
 
 **Resumen de entrevista**
-  
+
 Se entrevistó a Edwhin, quien participó en una sesión para evaluar la plataforma SafeChild, que conecta a padres de familia con cuidadores. Durante la entrevista, Edwhin proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
-   
+
 En términos de diseño, Edwhin resaltó que la plataforma tiene un aspecto equilibrado entre formal e infantil, lo cual considera adecuado para reducir la ansiedad de los padres que buscan un cuidador. También destacó la combinación de colores, que ayuda a crear una atmósfera calmada y confiable. Sin embargo, sugirió que la plataforma sea lo más transparente posible en la presentación de precios, ya que cualquier costo oculto podría afectar la percepción de confianza en el servicio.
 
 Sobre la usabilidad, Edwhin comentó que la plataforma es fácil de navegar y valoró la posibilidad de ver la biografía y disponibilidad de los cuidadores. Además, apreció la opción de traducir la interfaz al español, lo que facilita su uso para personas que no dominan el inglés. Edwhin recomendó implementar un sistema de soporte al cliente accesible y un sistema de reembolsos para aumentar la confianza de los usuarios. También propuso un sistema de calificación para que los padres evalúen a los cuidadores, así como una comunidad de usuarios donde se puedan compartir experiencias.
 
 Finalmente, Edwhin mencionó que altos estándares de seguridad y transparencia, junto con capacitaciones continuas para los cuidadores, serían fundamentales para fidelizar a los usuarios y mejorar la calidad del servicio. Edwhin afirmó que recomendaría la plataforma a otros padres, siempre que estas sugerencias sean implementadas, ya que contribuirían a la confiabilidad y efectividad de SafeChild para conectar a los padres con cuidadores de manera segura y eficiente.
 
----
-
 #### Entrevista 2
-- **Nombre**: 
-- **Apellidos**: 
-- **Edad**: 
-- **Lugar de residencia**: 
-- **Entrevistador**: 
 
-**Evidencia de entrevista**  
-- **Enlace de entrevista**:  
-- **Inicio**:  
-- **Fin**:  
+- **Nombre**: Carlos Fernando
+- **Apellidos**: Caccha Morah
+- **Edad**: 24
+- **Lugar de residencia**: Lima
+- **Entrevistador**: Lynn Jeeferzon Meza Camayo
+
+**Evidencia de entrevista**
+
+![Entrevista_Validacion_2](/Images/entrevis-validacion-2.jpg)
+
+- **Enlace de entrevista**:
+- **Inicio**: 24:10
+- **Fin**: 34:40
 - **Resumen de entrevista**:  
+  Se entrevistó a Carlos Fernando, quien es un Ingeneiro Civil participó en una sesión para evaluar la plataforma SafeChild como segemto del tutor.
 
----
+El comenta que el funcionamiento de navegacion de la aplicación es facil y simple. Comentó que, aunque la base de datos aún es limitada, las funcionalidades básicas, como la creación de reservas, visualización de precios y administración de horarios, están bien desarrolladas y son intuitivas.
 
-#### Entrevista 3
-- **Nombre**: 
-- **Apellidos**: 
-- **Edad**: 
-- **Lugar de residencia**: 
-- **Entrevistador**: 
-
-**Evidencia de entrevista**  
-- **Enlace de entrevista**:  
-- **Inicio**:  
-- **Fin**:  
-- **Resumen de entrevista**:  
-
+En términos de experiencia de usuario, menciono la necesidad de agregar el modo oscuro en la aplicacion. También sugirió implementar funciones de ciberseguridad avanzadas para garantizar que los perfiles de los cuidadores sean verificados y evitar riesgos de seguridad. Ademas, resaltó la importancia de agregar un sistema de calificación para los cuidadores, de modo que los usuarios puedan evaluar y confiar en los servicios. También sugirió que se desarrolle una versión móvil de la plataforma, ya que facilitaría el acceso desde cualquier lugar.
 
 ### Segmento 2: Niñeras y profesores que buscan conectarse más rápido con los padres de familia para brindar sus servicios
 
 #### Entrevista 1
+
 - **Nombre**: Luhana
 - **Apellidos**: Acuña Cuba
 - **Edad**: 21
-- **Lugar de residencia**: Callao 
-- **Entrevistador**: Jefrey Sanchez 
+- **Lugar de residencia**: Callao
+- **Entrevistador**: Jefrey Sanchez
 
-**Evidencia de entrevista**  
+**Evidencia de entrevista**
 
 ![interview_luhana](/Images/interview-luhana.png)
 
 **Enlace de entrevista**:
-  [ENTREVISTA LUHANA](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EZMIZYlvOU5Aj-lspt02Fo4Bm331p1AY5tCJ9yN61KWFLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zxnmA7)
 
-- **Inicio**:  01:00
-- **Fin**:  18:00
+<!-- [ENTREVISTA LUHANA](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EZMIZYlvOU5Aj-lspt02Fo4Bm331p1AY5tCJ9yN61KWFLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zxnmA7) -->
+
+- **Inicio**: 34:42
+- **Fin**: 53:37
 
 **Resumen de entrevista**:
 
-Se entrevistó a **Luhana**, quien participó en una sesión para evaluar la plataforma *SafeChild*, que conecta a padres de familia con niñeras y profesores a tiempo parcial. Durante la entrevista, Luana proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
+Se entrevistó a **Luhana**, quien participó en una sesión para evaluar la plataforma _SafeChild_, que conecta a padres de familia con niñeras y profesores a tiempo parcial. Durante la entrevista, Luana proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
 
 En términos de **diseño**, Luana destacó que la plataforma le parece atractiva, pero sugirió mejorar el color, ya que el azul actual no es suficientemente llamativo para captar la atención de los usuarios. Propuso un tono más suave, como un rosado. También mostró preocupación por la seguridad al mencionar que no es necesario solicitar datos sensibles como el CVV de las tarjetas de pago, recomendando eliminar esta funcionalidad.
 
 Sobre la **usabilidad**, Luana consideró que la plataforma es intuitiva y fácil de usar, especialmente para gestionar precios y horarios. Sin embargo, sugirió incluir un sistema de reseñas para que los padres puedan dejar comentarios sobre las niñeras, lo que mejoraría la confiabilidad y ayudaría a otros padres a tomar decisiones informadas.
 
-Finalmente, mencionó que una **versión móvil** de la aplicación sería beneficiosa, dado que muchos usuarios prefieren usar sus teléfonos en lugar de laptops. Luana afirmó que recomendaría la plataforma a otras niñeras y cree que con algunas mejoras adicionales, *SafeChild* podrá cumplir eficazmente su objetivo de conectar a los padres con cuidadores de manera eficiente y segura.
+Finalmente, mencionó que una **versión móvil** de la aplicación sería beneficiosa, dado que muchos usuarios prefieren usar sus teléfonos en lugar de laptops. Luana afirmó que recomendaría la plataforma a otras niñeras y cree que con algunas mejoras adicionales, _SafeChild_ podrá cumplir eficazmente su objetivo de conectar a los padres con cuidadores de manera eficiente y segura.
 
 ---
 
 #### Entrevista 2
+
 - **Nombre**: Harold Jaime
 - **Apellidos**: Mayta Lopez
 - **Edad**: 20 años
 - **Lugar de residencia**: San Isidro
 - **Entrevistador**: Jefrey Sanchez
 
-**Evidencia de entrevista**  
+**Evidencia de entrevista**
 
 ![interview_harold](/Images/interview-harold.png)
 
 **Enlace de entrevista**:
 
-[ENTREVISTA HAROLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EXpBpL1wTs1GiecjecQBEmcBBt9ONU-HF3mZdgQhqskO9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ebSnaV)
-  
-- **Inicio**: 01:00  
-- **Fin**:  18:00
-  
-**Resumen de entrevista**:  
+<!-- [ENTREVISTA HAROLD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EXpBpL1wTs1GiecjecQBEmcBBt9ONU-HF3mZdgQhqskO9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ebSnaV) -->
+
+- **Inicio**: 53:38
+- **Fin**: 1:12:01
+
+**Resumen de entrevista**:
 
 En la entrevista, se presentó una aplicación web diseñada para conectar a profesores y niñeras con padres de familia. Un profesor a tiempo parcial interactuó con la plataforma mientras se explicaban sus funcionalidades, que incluyen un sistema de login, perfil de usuario, programación de horarios, métodos de pago y gestión de reservas.
 Durante la sesión, el profesor proporcionó comentarios sobre la usabilidad y sugirió mejoras, como incluir más información detallada sobre los niños a cuidar. También se discutieron aspectos de la interfaz, la seguridad de los datos y la posibilidad de recomendar la plataforma a otros profesores. La entrevista concluyó con el compromiso de considerar estas sugerencias para optimizar la aplicación.
 
-
 ---
 
 #### Entrevista 3
+
 - **Nombre**: Damaris Consuelo
 - **Apellidos**: Mejia Calderón
 - **Edad**: 18 años
@@ -1820,27 +1810,28 @@ Durante la sesión, el profesor proporcionó comentarios sobre la usabilidad y s
 **Evidencia de entrevista**  
 ![interview_Damaris](/Images/interview-damaris.png)
 
-- **Enlace de entrevista**:
+<!-- [ENTREVISTA DAMARIS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EenLmDvCsL5Hiy-rQWdX1DwB3gD6drccefO7CKRlSJ2bTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nGsNkd) -->
 
-[ENTREVISTA DAMARIS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EenLmDvCsL5Hiy-rQWdX1DwB3gD6drccefO7CKRlSJ2bTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nGsNkd)
-
-- **Inicio**:  00:20
-- **Fin**:  08:00
+- **Inicio**: 1:12:03
+- **Fin**: 1:20:27
 - **Resumen de entrevista**:
-Se entrevistó a **Damaris**, quien participó en una sesión para evaluar la plataforma *SafeChild*, que conecta a padres de familia con niñeras y profesores a tiempo parcial. Durante la entrevista, Damaris proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
+  Se entrevistó a **Damaris**, quien participó en una sesión para evaluar la plataforma _SafeChild_, que conecta a padres de familia con niñeras y profesores a tiempo parcial. Durante la entrevista, Damaris proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
 
 En términos de **diseño**, Damaris destacó que la plataforma le parece visualmente adecuada, con colores que no cansan la vista. Sin embargo, señaló que podría haber personas que prefieran otras tonalidades, aunque ella se siente cómoda con la elección actual. Considera importante agregar un sistema de reseñas de los padres y niños, lo cual proporcionaría más información para las niñeras y evitaría posibles problemas con familias difíciles.
 
 Sobre la **usabilidad**, Damaris consideró que la plataforma es intuitiva y fácil de usar. Le resultó sencillo gestionar horarios, precios y editar información personal. Valora que las funcionalidades estén bien organizadas y sean accesibles, lo cual facilita su uso para las niñeras.
 
-Finalmente, mencionó que una **versión móvil** de la aplicación sería altamente beneficiosa, ya que las niñeras suelen preferir la practicidad de sus teléfonos para gestionar reservas. Damaris afirmó que recomendaría la plataforma a otras niñeras y cree que con algunas mejoras adicionales, *SafeChild* logrará su objetivo de conectar a padres y cuidadores de manera segura y eficiente.
+Finalmente, mencionó que una **versión móvil** de la aplicación sería altamente beneficiosa, ya que las niñeras suelen preferir la practicidad de sus teléfonos para gestionar reservas. Damaris afirmó que recomendaría la plataforma a otras niñeras y cree que con algunas mejoras adicionales, _SafeChild_ logrará su objetivo de conectar a padres y cuidadores de manera segura y eficiente.
 
+- **Enlace de todas las entrevistas**:
+
+[ENTREVISTA COMPLETA](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c273_upc_edu_pe/Ec21gobXaMZAiomjwwxNqqcBJDo_xLnmAzagBNC-Dh1bzQ?e=JbSGfy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
 ### Evaluaciones según Heurísticas
 
-La sección de **Evaluaciones según Heurísticas** se enfoca en revisar la experiencia de usuario de *SafeChild* utilizando principios de usabilidad, con el fin de determinar si la plataforma es clara, fácil de usar y consistente. Analizar estos aspectos, como la visibilidad de las opciones y la coherencia en el diseño, nos ayuda a identificar posibles problemas y proponer mejoras. El objetivo de esta evaluación es asegurar que la plataforma ofrezca una experiencia de calidad que los usuarios disfruten y encuentren práctica.
+La sección de **Evaluaciones según Heurísticas** se enfoca en revisar la experiencia de usuario de _SafeChild_ utilizando principios de usabilidad, con el fin de determinar si la plataforma es clara, fácil de usar y consistente. Analizar estos aspectos, como la visibilidad de las opciones y la coherencia en el diseño, nos ayuda a identificar posibles problemas y proponer mejoras. El objetivo de esta evaluación es asegurar que la plataforma ofrezca una experiencia de calidad que los usuarios disfruten y encuentren práctica.
 
 - **Carrera**: Ingeniería de Software
 - **Curso**: Desarrollo de Aplicaciones Open Source
@@ -1850,6 +1841,7 @@ La sección de **Evaluaciones según Heurísticas** se enfoca en revisar la expe
 - **SITE o APP a evaluvar**: SafeChild
 
 #### Tareas a evaluar: Web Application
+
 1. Registro y creación de perfil de niñera o profesor
 2. Programación y administración de horarios
 3. Métodos de pago y seguridad de datos
@@ -1858,28 +1850,30 @@ La sección de **Evaluaciones según Heurísticas** se enfoca en revisar la expe
 6. Revisión y gestión de comentarios y reseñas
 
 ### Escala de severidad
+
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
-| **Nivel** | **Descripción** |
-|-----------|------------------|
-| 1         | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado salvo que haya tiempo. |
+| **Nivel** | **Descripción**                                                                                                                                                       |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado salvo que haya tiempo.                     |
 | 2         | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar para el usuario. Debería solucionarse con prioridad baja para el siguiente lanzamiento. |
-| 3         | Problema mayor: ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante corregirlo y debe tener prioridad alta. |
-| 4         | Problema muy grave: un error crítico que impide al usuario continuar usando la herramienta. Debe corregirse antes del lanzamiento. |
+| 3         | Problema mayor: ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante corregirlo y debe tener prioridad alta.                                      |
+| 4         | Problema muy grave: un error crítico que impide al usuario continuar usando la herramienta. Debe corregirse antes del lanzamiento.                                    |
 
 ### Tabla de resumen
 
-| **Numero** | **Problema**                                                                 | **Escala de severidad** | **Heurística/Principio violada(o)**                |
-|------------|------------------------------------------------------------------------------|------------------------|----------------------------------------------------|
-| 1          | No se incluyen detalles del estado del vehículo en la publicación.           | 2                      | Visibilidad del estado del sistema                |
-| 2          | No hay alertas automáticos para notificar la reserva del vehículo.           | 3                      | Libertad y control del usuario                    |
-| 3          | Falta de opción de comunicación directa con usuarios dentro de la plataforma.| 2                      | Flexibilidad y eficiencia                         |
-| 4          | No hay una política clara sobre la cobertura de seguros en caso de daños menores. | 4                  | Seguridad y prevención de errores                 |
-| 5          | No hay visualización ni reporte automático de ganancias y alquileres de vehículos. | 3                  | Arquitectura de información                       |
+| **Numero** | **Problema**                                                                       | **Escala de severidad** | **Heurística/Principio violada(o)** |
+| ---------- | ---------------------------------------------------------------------------------- | ----------------------- | ----------------------------------- |
+| 1          | No se incluyen detalles del estado del vehículo en la publicación.                 | 2                       | Visibilidad del estado del sistema  |
+| 2          | No hay alertas automáticos para notificar la reserva del vehículo.                 | 3                       | Libertad y control del usuario      |
+| 3          | Falta de opción de comunicación directa con usuarios dentro de la plataforma.      | 2                       | Flexibilidad y eficiencia           |
+| 4          | No hay una política clara sobre la cobertura de seguros en caso de daños menores.  | 4                       | Seguridad y prevención de errores   |
+| 5          | No hay visualización ni reporte automático de ganancias y alquileres de vehículos. | 3                       | Arquitectura de información         |
 
 ### Descripción de problemas
 
 **PROBLEMA #1**: Los colores de la plataforma no son atractivos.
+
 - **Severidad**: 2
 - **Heurística violada**: Estética y diseño minimalista
 - **Descripción**: El color azul actual no resulta lo suficientemente llamativo para los usuarios, lo que podría afectar la percepción visual y el interés al usar la plataforma.
@@ -1888,6 +1882,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ---
 
 **PROBLEMA #2**: Se solicita información sensible de tarjetas de pago.
+
 - **Severidad**: 4
 - **Heurística violada**: Seguridad y protección de datos
 - **Descripción**: El sistema pide detalles sensibles como el CVV de las tarjetas de pago, lo cual genera preocupación por la seguridad de los datos de los usuarios.
@@ -1896,6 +1891,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ---
 
 **PROBLEMA #3**: Falta un sistema de reseñas para niñeras y profesores.
+
 - **Severidad**: 3
 - **Heurística violada**: Flexibilidad y eficiencia de uso
 - **Descripción**: No se ofrece un espacio para que los padres dejen comentarios o reseñas sobre las niñeras o profesores, lo que reduce la confianza y dificulta la elección de cuidadores.
@@ -1904,6 +1900,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ---
 
 **PROBLEMA #4**: No hay una versión móvil de la plataforma.
+
 - **Severidad**: 3
 - **Heurística violada**: Accesibilidad y flexibilidad
 - **Descripción**: La plataforma solo está disponible en versión de escritorio, lo que limita su uso para usuarios que prefieren acceder desde dispositivos móviles.
@@ -1912,12 +1909,11 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ---
 
 **PROBLEMA #5**: Información limitada sobre los niños que se van a cuidar.
+
 - **Severidad**: 2
 - **Heurística violada**: Visibilidad del estado del sistema
 - **Descripción**: No se proporciona información suficiente sobre los niños que van a ser cuidados, lo cual podría dificultar la preparación de las niñeras y profesores.
 - **Recomendación**: Añadir una sección en el perfil de los padres donde se puedan detallar las características y necesidades específicas de los niños, como edad, preferencias o cualquier detalle relevante.
-
-
 
 ## **5.4. Video About-the-Product**
 
