@@ -1874,8 +1874,8 @@ A continuación se presentan imágenes que ilustran el trabajo colaborativo y el
 | **Sprint 2 Review Summary**      | En este sprint se darrollo la priera version de la aplicación web.                                                                                                                                      |
 | **Sprint 3 Goal & User Stories** |                                                                                                                                                                                                         |
 | **Sprint 3 Goal**                | En este sprint se desarrollara los servicios en el framework sprint bood junto con el lenguake Java para el funcionamiento de la aplicacion web con una base de datos. Ademas de completar el front end |
-| **Sprint 3 Velocity**            | El sprint está planificado para completarse en 14 días (2 semanas).                                                                                                                                     |
-| **Sum of Story Points**          | 10 story points                                                                                                                                                                                         |
+| **Sprint 3 Velocity**            | El sprint está planificado para completarse en 21 días (3 semanas).                                                                                                                                     |
+| **Sum of Story Points**          | 18 story points                                                                                                                                                                                         |
 
 ### **5.2.3.2. Sprint Backlog 3**
 
