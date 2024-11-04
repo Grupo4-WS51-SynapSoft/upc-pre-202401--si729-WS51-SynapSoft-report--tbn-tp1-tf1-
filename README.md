@@ -1865,19 +1865,122 @@ A continuación se presentan imágenes que ilustran el trabajo colaborativo y el
 
 ### **5.2.3.1. Sprint Planning 3**
 
+| **Sprint #**                     | Sprint 3                                                                                                                                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**   |                                                                                                                                                                                                         |
+| **Date**                         | 28/10/2024                                                                                                                                                                                              |
+| **Location**                     | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                |
+| **Prepared By**                  | Meza Camayo, Lynn Jeeferzon / Aliaga Pimentel, George Arturo / Sánchez Ignacio , Jefrey Martín                                                                                                          |
+| **Sprint 2 Review Summary**      | En este sprint se darrollo la priera version de la aplicación web.                                                                                                                                      |
+| **Sprint 3 Goal & User Stories** |                                                                                                                                                                                                         |
+| **Sprint 3 Goal**                | En este sprint se desarrollara los servicios en el framework sprint bood junto con el lenguake Java para el funcionamiento de la aplicacion web con una base de datos. Ademas de completar el front end |
+| **Sprint 3 Velocity**            | El sprint está planificado para completarse en 14 días (2 semanas).                                                                                                                                     |
+| **Sum of Story Points**          | 10 story points                                                                                                                                                                                         |
+
 ### **5.2.3.2. Sprint Backlog 3**
+
+En este sprint desarrollamos la primera version del backend y la version final del landing page.
+
+link del Trello: <https://trello.com/b/ke0bv7q6/si729-2402-ws51-grupo-4-synapsoft>
+
+![Trello-sprint-3](/Images/trello-sprint-3.png)
+
+| **Sprint #**   | **Sprint 2**                      |        |                                              |                                                                                                       |                        |                 |            |
+| -------------- | --------------------------------- | ------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------- | --------------- | ---------- |
+| **User Story** | **Work-Item / Task**              |        |                                              |                                                                                                       |                        |                 |            |
+| **Id**         | **Title**                         | **Id** | **Title**                                    | **Description**                                                                                       | **Estimation (Hours)** | **Assigned to** | **Status** |
+| US-11          | Filtrado de Busquedas             | W-07   | Implementar Sistema de Busqueda              | Desarrollar la funcionalidad que permita a los tutores filtrar tutores por su localidad y valoracion. | 3                      | Jefrey          | Done       |
+| US-12          | Visualización de Perfil           | W-08   | Implementar perfil de cada segmento          | Maquetar los perfiles de cada usuario y la funcionalidad de servicios del cuidador                    | 2                      | Jefrey          | Done       |
+| US-15          | Solicitud de Reserva              | W-09   | Implementar Solicitud de Reserva             | Crear un sistema que permita a los tutores solicitar reservas para cuidadores específicos.            | 3                      | Georgy          | In Progres |
+| US-17          | Visualizacion de Reserva          | W-10   | Implementar los componet de reserva          | Maquetar los componets de reservas y implementarlo en el front                                        | 3                      | Georgy          | Done       |
+| US-20          | Registro de medios de pago        | W-11   | Implementar la creacion de methodos de pagos | Desarrollar el sistema de agrenar nuevo methodo de pago de cada segmento                              | 2                      | Lynn            | Done       |
+| US-22          | Sistema de Pago                   | W-12   | Implementar Sistema de pago                  | Maquetar los componets de reservas y implementarlo en el front                                        | 3                      | Lynn            | In Progres |
+| US-21          | Visualizacion de Metodos de pagos | W-13   | Implementar los componet de Methodos de pago | Maquetar los componets de los methodos de pago y implementarlo en el front                            | 2                      | Lynn            | Done       |
 
 ### **5.2.3.3. Development Evidence for Sprint Review**
 
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+link de repositorio del front-ent: <https://github.com/Grupo4-WS51-SynapSoft/WebApplication>
+link de repositorio del back-end: <https://github.com/Grupo4-WS51-SynapSoft/Backend>
+
+| **Repository** | **Branch**                   | **Commit Id**                            | **Commit Message**                                                                | **Commit Message Body** | **Commited on (Date)** |
+| -------------- | ---------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------- | ----------------------- | ---------------------- |
+| WebApplication | appointment-boundend-context | d66695c78b9e5168792f84c46f3efbb3c32ed644 | feat: create services-search service                                              |                         | 13/10/2024             |
+| WebApplication | appointment-boundend-context | 6e474ad64f149d5df8ccde5befe4a0d45a243c63 | refactor: change service-search components props by new models                    |                         | 13/10/2024             |
+| WebApplication | appointment-boundend-context | bd7fd74e19867520dd4369ed976456deb34fd994 | delete: delete old caregiver service to replace fo search page service            |                         | 13/10/2024             |
+| WebApplication | appointment-boundend-context | 1ad46d520a554a3d44ee97c939403bd03a02fe1f | feat: create service detail page                                                  |                         | 13/10/2024             |
+| WebApplication | appointment-boundend-context | 8a5dd0dd88487e85903fe9a9f16c8d9aab71aa43 | feat: create dialog component for create reservation                              |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | 25bb79a989dddd4fc456457a0ef04ad132877f92 | Merge branch 'dev' into feat/payment-boundend-context                             |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | fc3912e2b437777ea51c0d9ea891d52e8bf905fe | feat: create dialog component for create or edit payment card                     |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | 83a62068b7460d9037ffe2af693b6f5f097b8bdd | feat: create dialog component for delete payment method                           |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | 74557c53142bab92a7cecfeae06e9acdce148599 | feat: add update action for payment cards                                         |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | 49ee5ca6f50b4bd73b29364fa29c83bed78a5e66 | style: change payment card appearance for outlined                                |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | d8ba3c6ddd9f31e0c4a558c7c94a615f0cb9bb31 | feat: add history payment button                                                  |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | 371b27127113efd4767e0ce93199700c145f26a7 | feat: add history payments for caregivers                                         |                         | 13/10/2024             |
+| WebApplication | payment-boundend-context     | 220507326af07feeff47275c1aedacbda7d80d45 | Merge branch 'dev' into feat/appointment-bounded-context                          |                         | 13/10/2024             |
+| WebApplication | appointment-boundend-context | 7fdb929a02ad6ce8a6857e31fcd644b5fad11428 | feat: add reservation table data with actions                                     |                         | 13/10/2024             |
+| WebApplication | appointment-boundend-context | 7fdb929a02ad6ce8a6857e31fcd644b5fad11428 | feat: create reservation from dialog component                                    |                         | 13/10/2024             |
+| WebApplication | appointment-boundend-context | d1efd38b00276470eccf7aea0fc7562b07aaac3f | fix: improve create reservation operation                                         |                         | 13/10/2024             |
+| WebApplication | search-caregiver             | 4f4a8de982c03d30409b7714ace7bcb21a11b470 | feat: edit caregiver biography description only for that type of role (caregiver) |                         | 15/10/2024             |
+| WebApplication | search-caregiver             | ae8e757d28faa7c5bf61b36042c1c948d4e16932 | feat: enable edit, update and add caregiver's shedules service                    |                         | 15/10/2024             |
+| WebApplication | search-caregiver             | 98f86c7f3475565ffee4edddcb030a94ed8a68f8 | feat: enable edit, delete and add caregiver's places and fare service             |                         | 15/10/2024             |
+| WebApplication | search-caregiver             | fa3581b3b92c27e96e8ebcdbba9dd705cd14c7ad | build: add serverBaseUrl json-server in production mode                           |                         | 15/10/2024             |
+| WebApplication | search-caregiver             | eef3baeb3ec626456796d6b9ed22571750832007 | build: remove dev environment in base service                                     |                         | 15/10/2024             |
+| WebApplication | search-caregiver             | 623463d6599fc1ab46268cda848c3adbf0919fdb | build: deploy web application in firebase                                         |                         | 15/10/2024             |
+| WebApplication | search-caregiver             | 5fb31d3767c093c9545935ac1d63923a6cb000a3 | release: Release v2.0.0                                                           |                         | 15/10/2024             |
+| WebApplication | search-caregiver             | ee13ac9d4bcd64765fe1ddc493bab56dc82deb7b | build: update package scripts for deploy                                          |                         | 15/10/2024             |
+| Backend        | main                         | 91762758d8a4640e5e3c404d78478c440adb0206 | feat: backend project                                                             |                         | 28/10/2024             |
+| Backend        | appointment-bounded-context  | 3ce40424b935e20eebf598b541873faabf90c4b5 | added bounded context                                                             |                         | 31/10/2024             |
+| Backend        | payment-bounded-context      | 80dce622cae2f14be2f896caa9ee33cb1ce62ff7 | feaet: create bounded context payment                                             |                         | 03/11/2024             |
+| Backend        | appointment-bounded-context  | 0dc043a9fbc14bb8748f768c7e647743d253a0a3 | Add new endpoints                                                                 |                         | 03/11/2024             |
+| Backend        | caregiver-bounded-context    | 1e6dc8b7174c6f61d9607c8bc6ba0257edb96b70 | Add caregiver bounded context                                                     |                         | 03/11/2024             |
+| Backend        | main                         | 1876392f8dc4d8235779504b31809bcd7799e2a4 | feat: merge appointment                                                           |                         | 04/11/2024             |
+| Backend        | main                         | 42f3206ab1de0ecd74d55b893cd44495c52e4087 | feat: merge caregiver                                                             |                         | 04/11/2024             |
+| Backend        | main                         | 25ab88770bc57e534d2a8ee32ad4a2985e9141ea | fix: update name boundedd context                                                 |                         | 04/11/2024             |
+
 ### **5.2.3.4. Testing Suite Evidence for Sprint Review**
+
+En el alcance del sprint 3 se ha desarrollado el backend como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
 
 ### **5.2.3.5. Execution Evidence for Sprint Review**
 
+**Caregiver Controller:**
+
+![caregiver-service](/Images/caregiver-test.png)
+
+**Card Controller:**
+
+![card-service](/Images/card-controller.png)
+
+**Reservation Controller:**
+
+![reservation-controller](/Images/appoiment-controller.png)
+
 ### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+
+En esta sección se presentan los endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas.
+
+![cargiver-endpoint](/Images/caregiver-swagger.png)
+![card-reservation-endpoint](/Images/reservvation-cards.png)
 
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 
+En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
+
 ### **5.2.3.8. Team Collaboration Insights during Sprint**
+
+Nusetro metodo de dasarrollo se baso en implementar las tareas asignadas en el sprint y Trello. Ademas, de que este entregable nos dedicamos en terminar el front end y hacer los endpoint principales de cada bounded context.
+
+**- WebApplication**
+
+![insingt-tb2-webapplication](/Images/insingt-tb2.png)
+![contribution-tb2-webapplication](/Images/contribution-tb2.png)
+
+**- BackEnd**
+
+![insingt-tb2-webapplication](/Images/insingt-tb2-backend.png)
+![contribution-tb2-webapplication](/Images/contribution-tb2-backend.png)
 
 ## **5.2.4. Sprint 4**
 
