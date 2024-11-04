@@ -124,11 +124,11 @@ Cada miembro del equipo ha trabajado en ramas específicas para desarrollar dife
 
 **Entregable TB2:**
 
-- Versión 11 (26/08/2024)
+- Versión 11 (04/11/2024)
 
-![commit](/Images/version10-tp-commit.png)
+![commit](/Images/insing-report-tb2.png)
 
-![commit](/Images/contribution-tp.png)
+![commit](/Images/contribution-tb2-report.png)
 
 # <font color="red">**Contenido**</font>
 
