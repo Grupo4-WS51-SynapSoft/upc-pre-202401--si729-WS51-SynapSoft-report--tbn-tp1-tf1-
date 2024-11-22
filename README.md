@@ -2031,7 +2031,31 @@ link del Trello: <[Click aquí para ingresar al Trello](https://trello.com/invit
 
 ### **5.2.4.3. Development Evidence for Sprint Review**
 
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+link de repositorio del front-ent: <https://github.com/Grupo4-WS51-SynapSoft/WebApplication>
+link de repositorio del back-end: <https://github.com/Grupo4-WS51-SynapSoft/Backend>
+
+| **Repository** | **Branch**                   | **Commit Id**                            | **Commit Message**                                                                | **Commit Message Body** | **Commited on (Date)** |
+| -------------- | ---------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------- | ----------------------- | ---------------------- |
+| Backend | main | 95c2b0ce1ebc9b71560beb73ece85d544d5e8f94             |       facade caregiver profile                                              |                         | 15/11/2024            |
+| Backend | main | 1b7df12bed8dbeafa23e6133940de7491a1792ca | feat: update aggregation                    |                         | 17/11/2024             |
+| Backend | main | 66187f7715cd8d9d12a7c7015000c4611ee01680 | Merge branch 'main' into feat/payment-bounded-context            |                         | 17/11/2024             |
+| Backend | main | eccb0211f357cb834ef7187e7f7a53851321dce7 | feat: error boundend reservation                                                  |                         | 20/11/2024             |
+| Backend | main | 62adbfe09a3a45999825459c47e283f086f0164f | feat: Create titor boundend context                              |                         | 20/11/2024             |
+| Backend | main  | 885a04a1a32e4464eb74782f0f3714b49a37599a | Feat::UpdateCaregiverFacade                             |                         | 20/11/2024             |
+| Backend | main | 2fc298d6d1ac99d9dee6d7000379c1bf8f6685d3 | fix: update model boundend context card                     |                         | 21/11/2024             |
+| Backend | main  | 3e9e4a44e093e4b7b9af4a673297ecf5accaa63e | Merge branch 'main' into feat/payment-bounded-context                           |                         | 21/11/2024             |
+| Backend | main  | 83950da3e9b37e3ba2cb18b9b07140d887efe0e6 | feat: Update payment                                         |                         | 21/11/2024             |
+| Backend | main  | 4401c1641ba52e1d254b550e9b4e2fc4af52fe25 | fix: update package and correction bug cards                                |                         | 21/11/2024             |
+| Backend | main  | 0e2b6a8a012782c171d6bee861d8407474332b08 | feat: merge card update                                                  |                         | 21/11/2024             |
+| Backend | main  | 0e450497e3348890d588c793fd97fcbcaf65f324 | feat:update reservation                                         |                         | 21/11/2024             |
+| Backend | main  | 727b74f788cd8fea60ed8db6ce3dc5431a4c6757 | feat: Add jwt authentication System                          |                         | 21/11/2024            |
+
+
 ### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+
+
 
 ### **5.2.4.5. Execution Evidence for Sprint Review**
 
