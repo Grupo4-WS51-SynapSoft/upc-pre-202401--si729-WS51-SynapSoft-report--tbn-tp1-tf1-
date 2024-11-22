@@ -1893,7 +1893,7 @@ link del Trello: <https://trello.com/b/ke0bv7q6/si729-2402-ws51-grupo-4-synapsof
 
 ![Trello-sprint-3](/Images/trello-sprint-3.png)
 
-| **Sprint #**   | **Sprint 2**                      |        |                                              |                                                                                                       |                        |                 |            |
+| **Sprint #**   | **Sprint 3**                      |        |                                              |                                                                                                       |                        |                 |            |
 | -------------- | --------------------------------- | ------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------- | --------------- | ---------- |
 | **User Story** | **Work-Item / Task**              |        |                                              |                                                                                                       |                        |                 |            |
 | **Id**         | **Title**                         | **Id** | **Title**                                    | **Description**                                                                                       | **Estimation (Hours)** | **Assigned to** | **Status** |
@@ -1994,7 +1994,40 @@ Nusetro metodo de dasarrollo se baso en implementar las tareas asignadas en el s
 
 ### **5.2.4.1. Sprint Planning 4**
 
+| **Sprint #**                     | Sprint 4                                                                                                                                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**   |                                                                                                                                                                                                         |
+| **Date**                         | 18/11/2024                                                                                                                                                                                              |
+| **Location**                     | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                |
+| **Prepared By**                  | Meza Camayo, Lynn Jeeferzon / Sánchez Ignacio , Jefrey Martín                                                                                                          |
+| **Sprint 3 Review Summary**      | En este sprint se desarrolló la base del backend y se completaron funciones básicas de la aplicación web                                                                                                                                      |
+| **Sprint 4 Goal & User Stories** |                                                                                                                                                                                                         |
+| **Sprint 4 Goal**                | En este sprint se enfocará exclusivamente en el desarrollo y optimización del backend, integrando los servicios RESTful necesarios para el correcto funcionamiento de la aplicación |
+| **Sprint 4 Velocity**            | El sprint está planificado para completarse en 21 días (3 semanas).                                                                                                                                     |
+| **Sum of Story Points**          | 20 story points                                                                                                                                                                                         |
+
 ### **5.2.4.2. Sprint Backlog 4**
+
+En este sprint nos enfocamos en el desarrollo completo del backend, implementando los servicios RESTful necesarios para el funcionamiento de la plataforma. Además, se optimizaron consultas a la base de datos y se integraron funcionalidades avanzadas como autenticación de usuarios, gestión de roles y permisos, y notificaciones en tiempo real.
+
+link del Trello: <[Click aquí para ingresar al Trello](https://trello.com/invite/b/66d18af9ddc22c41d32f5247/ATTIc7ee631ad616601d994d5cfdb40c2c2270B86875/si729-2402-ws51-grupo-4-synapsoft)>
+
+![Trello-sprint-4](/Images/trello-sprint-4.png)
+
+| **Sprint #**   | **Sprint 4**                      |        |                                              |                                                                                                       |                        |                 |            |
+| -------------- | --------------------------------- | ------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------- | --------------- | ---------- |
+| **User Story** | **Work-Item / Task**              |        |                                              |                                                                                                       |                        |                 |            |
+| **Id**         | **Title**                         | **Id** | **Title**                                    | **Description**                                                                                       | **Estimation (Hours)** | **Assigned to** | **Status** |
+| US-07          | Registro del cuidador             | W-14   | Implementar el registro de cuidadores        | Desarrollar el endpoint y la lógica para registrar cuidadores en la vase de datos | 5                      | Jefrey          | Done       |
+| US-10          | Actualización de cuenta del Cuidador           | W-15   | Implementar actualizacion de datos de cuidadores          | Crear el endpoint para que cuidadores actualicen sus datos personales                    | 3                      | Jefrey          | Done       |
+| US-09          | Actualización de cuenta del Tutor              | W-16   | Implementar Actualización de datos de tutores            | Crear el endpoint para que los tutores puedas actualizar su información personal.            | 3                      | Jefrey          | Done |
+| US-24          | Autenticación de usuarios          | W-17   | Implementar sistema de autenticación          | Configurar Spring Security con JWT para autenticar usuarios en la plataforma                                        | 5                      | Lynn          | Done       |
+| US-14          | Gestión de costos de servicios (Backend)        | W-18   | Implementar la gestión de costos | Crear un sistema para gestionar y actualizar los costos asociados a los servicios                              | 4                      | Lynn            | Done       |
+| US-26      | Optimización de consultas a la base de datos                   | W-19   | Optimizar consultas                  | Revisar y optimizar las consultas SQL mas frecuentes para mejorar el rendimiento                                        | 3                      | Lynn            | Done |
+| US-27          | Gestion de archivos subidos | W-20   | Implementar subida de archivos | Crear endpoints para subir archivos, validar formatos y almacenar en el servidor                            | 4                      | Lynn            | Done       |
+| US-28          | Notificaciones en tiempo real | W-21 | Implementar sistema de notificaciones | Configurar WebSockets para enviar notificaciones en tiempo real a los usuarios                            | 6                      | Lynn            | In - progress      |
+| US-29          | Filtrado y ordenación de recursos | W-22   | Implementar filtros y ordenación | Crear endpoints para filtrar y ordenar datos en la plataforma según los criterios establecidos                            | 3                      | Jefrey            | Done       |
+| US-30          | Actualización de información del Usuario | W-23   | Implementar actualización de información | Crear un endpoint para que los usuarios actualicen su información personal en la plataforma.                            | 4                      | Lynn            | Done       |
 
 ### **5.2.4.3. Development Evidence for Sprint Review**
 
