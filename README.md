@@ -2057,7 +2057,7 @@ link de repositorio del back-end: <https://github.com/Grupo4-WS51-SynapSoft/Back
 
 **Authentication:**
 
-![authentication](/Images/authentication.png)
+![authentication](/Images/Authentication.png)
 
 **Caregiver:**
 
