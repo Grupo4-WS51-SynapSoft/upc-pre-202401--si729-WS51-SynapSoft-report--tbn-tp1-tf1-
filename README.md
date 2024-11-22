@@ -1974,16 +1974,11 @@ En esta sección se presentan los endpoints desarrollados en el presente sprint 
 
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 
-En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
+En el alcance del sprint 4 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
 
 ### **5.2.3.8. Team Collaboration Insights during Sprint**
 
 Nusetro metodo de dasarrollo se baso en implementar las tareas asignadas en el sprint y Trello. Ademas, de que este entregable nos dedicamos en terminar el front end y hacer los endpoint principales de cada bounded context.
-
-**- WebApplication**
-
-![insingt-tb2-webapplication](/Images/insingt-tb2.png)
-![contribution-tb2-webapplication](/Images/contribution-tb2.png)
 
 **- BackEnd**
 
@@ -2103,7 +2098,13 @@ En esta sección se presentan los endpoints realizados en este sprint 4, se adju
 
 ### **5.2.4.7. Software Deployment Evidence for Sprint Review**
 
+En el alcance del sprint 4 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
+
 ### **5.2.4.8. Team Collaboration Insights during Sprint**
+
+![Users](/Images/pulse.png)
+
+![Users](/Images/Contributors.png)
 
 ## **5.3. Validation Interviews**
 
