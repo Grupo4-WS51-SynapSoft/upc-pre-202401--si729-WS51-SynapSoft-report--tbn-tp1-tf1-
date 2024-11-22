@@ -2406,4 +2406,12 @@ Marin, H. M. (2022, 23 junio). “Uno de los grandes desafíos es reducir la bre
 
 Condiciones de vida en el Perú: impacto económico de los servicios de cuidado infantil. (2021). En Instituto Nacional de Estadística E Informática (INEI). Recuperado 22 de agosto de 2024, de https://www.inei.gob.pe
 
-# **Anexos**
+Bloch, J. (2018). Effective Java (3rd ed.). Addison-Wesley. Recuperado de https://www.pearson.com/store/p/effective-java/P100000138719
+
+Spring Boot. (n.d.). Spring Boot Documentation. Spring. Recuperado de https://spring.io/projects/spring-boot
+
+Hibernate ORM. (n.d.). Hibernate ORM Documentation. Hibernate. Recuperado de https://hibernate.org/orm/documentation
+
+PostgreSQL Global Development Group. (n.d.). PostgreSQL Documentation. PostgreSQL. Recuperado de https://www.postgresql.org/docs/
+
+Freeman, E., & Bates, B. (2004). Head First Design Patterns. O'Reilly Media. Recuperado de https://www.oreilly.com/library/view/head-first-design/0596007124/
