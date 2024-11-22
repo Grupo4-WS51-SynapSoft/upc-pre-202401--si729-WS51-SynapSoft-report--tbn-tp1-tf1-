@@ -2055,6 +2055,20 @@ link de repositorio del back-end: <https://github.com/Grupo4-WS51-SynapSoft/Back
 
 ### **5.2.4.4. Testing Suite Evidence for Sprint Review**
 
+En el alcance del sprint 4 se ha desarrollado el backend netamente, por lo que no se evidencia testeo de servicios o interacciones.
+
+### **5.2.4.5. Execution Evidence for Sprint Review**
+
+![prueba1](/Images/prueba1.png)
+
+![prueba2](/Images/prueba2.png)
+
+![prueba3](/Images/prueba3.png)
+
+
+### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+En esta sección se presentan los endpoints realizados en este sprint 4, se adjuntan las capturas de todos nuestros endpoints
+
 **Authentication:**
 
 ![authentication](/Images/Authentication.png)
@@ -2086,10 +2100,6 @@ link de repositorio del back-end: <https://github.com/Grupo4-WS51-SynapSoft/Back
 **Users:**
 
 ![Users](/Images/Users.png)
-
-### **5.2.4.5. Execution Evidence for Sprint Review**
-
-### **5.2.4.6. Services Documentation Evidence for Sprint Review**
 
 ### **5.2.4.7. Software Deployment Evidence for Sprint Review**
 
