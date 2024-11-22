@@ -2055,7 +2055,37 @@ link de repositorio del back-end: <https://github.com/Grupo4-WS51-SynapSoft/Back
 
 ### **5.2.4.4. Testing Suite Evidence for Sprint Review**
 
+**Authentication:**
 
+![authentication](/Images/authentication.png)
+
+**Caregiver:**
+
+![Caregiver](/Images/Caregiver.png)
+
+**CaregiverSchedule:**
+
+![CaregiverSchedule](/Images/CaregiverSchedule.png)
+
+**Cards:**
+
+![Cards](/Images/Cards.png)
+
+**Roles:**
+
+![Roles](/Images/Roles.png)
+
+**Tutors:**
+
+![Tutors](/Images/Tutors.png)
+
+**Reservations:**
+
+![Reservations](/Images/Reservations.png)
+
+**Users:**
+
+![Users](/Images/Users.png)
 
 ### **5.2.4.5. Execution Evidence for Sprint Review**
 
